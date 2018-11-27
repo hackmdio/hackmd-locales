@@ -1,0 +1,327 @@
+{
+	"revision": {
+		"revision": "Revisions",
+		"download": "Ladda ner",
+		"revert": "Återgå"
+	},
+	"common": {
+		"cancel": "Avbryt",
+		"ok": "Okej"
+	},
+	"help": {
+		"title": "Hjälp",
+		"contact": {
+			"title": "Kontakter",
+			"messenger": "Talk to us",
+			"github": "Rapportera ett fel",
+			"email": "Skicka e-post till oss",
+			"donate": "Buy us coffee"
+		},
+		"documents": "Dokument",
+		"features": "Funktioner",
+		"yaml-meta": "YAML Metadata",
+		"slide": "Slideexempel",
+		"book": "Book Example",
+		"cheatsheet": "Cheatsheet",
+		"example": "Exempel",
+		"syntax": {
+			"h1": "Huvud",
+			"ul": "Oordnad lists",
+			"ol": "Ordnad lista",
+			"todo": "Todo-lista",
+			"blockquote": "Blockcitat",
+			"b": "Fet stil",
+			"i": "Kursiv stil",
+			"strike": "Genomstrykning",
+			"ins": "Insatt text",
+			"mark": "Markerad text",
+			"anchor": "Länk",
+			"img": "Bild",
+			"code": "Kod",
+			"embeded": "Externa",
+			"alert": "Det här är ett varnande område."
+		}
+	},
+	"signin": {
+		"choose": "Välj metod",
+		"via": "Logga in via %s"
+	},
+	"refresh": {
+		"title": "Den här sidan behöver laddas om",
+		"incompatible": {
+			"title": "Du har en inkompatibel klientversion.",
+			"content": "Ladda om för att uppdatera."
+		},
+		"upgrade": {
+			"title": "Ny version tillgänglig!",
+			"note": "Se releaseanteckningar här",
+			"content": "Ladda om för att använda de nya funktionerna."
+		},
+		"auth": {
+			"title": "Din användarstatus har förändrats.",
+			"content": "Ladda om för att ladda ny användarstatus."
+		},
+		"donate": "Buy us coffee",
+		"refresh": "Ladda om"
+	},
+	"clipboard": {
+		"title": "Importera från urklipp",
+		"content": "Klipp in din markdown eller hemsida här...",
+		"clear": "Rensa",
+		"import": "Importera"
+	},
+	"locked": {
+		"title": "Anteckningen är låst",
+		"content": "Ursäkta, men endast ägaren kan redigera den här anteckningen."
+	},
+	"limit": {
+		"title": "Nå gränsen",
+		"content1": "Usräkta, men duhar nått maxlängden för vad en anteckning får vara.",
+		"content2": "Var vänlig förkorta innehållet eller dela upp det i flera anteckningar, tack!"
+	},
+	"gist-import": {
+		"title": "Importera från Gist",
+		"content": "Klipp in din gist-url här...",
+		"clear": "Clear",
+		"import": "Import"
+	},
+	"snippet-import": {
+		"title": "Importera från Snippet",
+		"project": {
+			"placeholder": "Välj från tillgängliga projekt"
+		},
+		"snippet": {
+			"placeholder": "Välj från tillgängliga Snippets"
+		},
+		"eller": "ELLER",
+		"clear": "Clear",
+		"import": "Import"
+	},
+	"snippet-export": {
+		"title": "Exportera till Snippet",
+		"project": {
+			"placeholder": "Select From Available Projects"
+		},
+		"visibility": {
+			"placeholder": "Välj synlighetsnivå"
+		},
+		"export": "Exportera"
+	},
+	"delete": {
+		"title": "Är du säker?",
+		"yes": "Ja, gör det!"
+	},
+	"header": {
+		"extra": {
+			"title": "Extra",
+			"slide": "Slide Mode",
+			"book": "Book Mode"
+		},
+		"revision": "Revisions",
+		"export": {
+			"title": "Export"
+		},
+		"import": {
+			"title": "Import",
+			"clipboard": "Urklipp"
+		},
+		"download": {
+			"title": "Download",
+			"raw-html": "Rå HTML"
+		},
+		"modes": {
+			"edit": "Redigera",
+			"both": "Båda",
+			"view": "Visa"
+		},
+		"help": "Help",
+		"image-upload": "Ladda upp bilder",
+		"menu": "Meny",
+		"enterprise-demo": "Demo of Enterprise Edition",
+		"new-note": "Ny anteckning",
+		"new-team-note": "New team note",
+		"team-manage": "Manage team",
+		"profile": "Profile",
+		"feature": "Features",
+		"dashboard": "Dashboard",
+		"settings": "Settings",
+		"logout": "Log out",
+		"sign-in": "Sign in",
+		"team": "Team",
+		"overview": "Overview",
+		"intro": "Intro",
+		"recent": "Recent",
+		"manage": "Manage",
+		"new": "Ny",
+		"publish": "Publicera"
+	},
+	"footer": {
+		"product": "Product",
+		"enterprise": "Enterprise",
+		"templates": "Templates",
+		"open-source": "Open Source",
+		"resources": "Resources",
+		"features": "Features",
+		"tutorial": "Tutorial",
+		"faq": "FAQ",
+		"information": "Information",
+		"about": "About",
+		"blog": "Blog",
+		"company": "Company",
+		"privacy": "Privacy",
+		"tos": "Terms of Use",
+		"releases": "Lanseringar",
+		"about-ee": "About {{name}}",
+		"about-hackmd": "About HackMD",
+		"coffee": "Buy us coffee",
+		"terms": "Terms",
+		"donate": "BUY US COFFEE"
+	},
+	"home": {
+		"enterprise": "Enterprise",
+		"slogan": "Build a community with open collaboration.",
+		"use-free": "Use for free",
+		"btn-between-or": "or",
+		"btn-sign-in": "Sign in",
+		"how-to-use": "How to use?",
+		"concept": {
+			"title": "Concept",
+			"subtitle": "Share all document / knowledge / information with your community.",
+			"note": "Create a note",
+			"collaborate": "Open collaborate",
+			"share": "Share and track"
+		},
+		"btn-try": "Try it",
+		"empowering": {
+			"1": "Real-time collaboration at scale",
+			"2": "Turn white papers and API specs into living documents.",
+			"3": "Create dedicated team space for each open source project.",
+			"title": "Empowering community"
+		},
+		"be-in-know": {
+			"1": "Bring all community discussions into one place.",
+			"2": "Get notified when the SINGLE source of truth changes.",
+			"3": "Search or roll back to any previous version.",
+			"title": "Be in the know"
+		},
+		"feature": {
+			"title": "Features"
+		},
+		"features": {
+			"markdown": {
+				"subtitle": "Write in markdown natively",
+				"title": "Markdown"
+			},
+			"slide": {
+				"subtitle": "Make a slide deck with a snap",
+				"title": "Slide Mode"
+			},
+			"book-mode": {
+				"subtitle": "Collect any note into a book",
+				"title": "Book Mode"
+			},
+			"hackmd-it": {
+				"subtitle": "GitHub / GitLab integration, instant access",
+				"title": "HackMD-it"
+			},
+			"diagram": {
+				"subtitle": "Create math formulas and UML with text",
+				"title": "MathJax & UML"
+			},
+			"image": {
+				"subtitle": "Drag and drop image, auto-upload",
+				"title": "Upload image"
+			},
+			"export": {
+				"subtitle": "Export to PDF, md, or html files",
+				"title": "Take it with you"
+			},
+			"tags": {
+				"subtitle": "Manage and search notes with tags",
+				"title": "Manage with tags"
+			}
+		},
+		"trustedBy": "Trusted By",
+		"plans": {
+			"title": "Plans",
+			"free": {
+				"1": "Unlimited notes",
+				"2": "Unlimited collaborators",
+				"3": "Email notification",
+				"4": "Use without login",
+				"title": "Free",
+				"subtitle": "Start open collaboration now.",
+				"start": "Start using"
+			},
+			"business": {
+				"1": "Single Sign-On or SAML login",
+				"2": "Role-based access control",
+				"3": "Unlimited team space",
+				"4": "Private image storage",
+				"ribbon": "Hot",
+				"title": "Business Plan",
+				"subtitle": "Customized access control for your use case.",
+				"btn-more": "More features",
+				"btn-contact": "We are interested"
+			},
+			"conf": {
+				"1": "Customized URL to your shared notes",
+				"2": "Team space for conference hosts",
+				"3": "Best practice training and sharing",
+				"4": "More customized options up to you",
+				"ribbon": "Free",
+				"title": "Conference Plan",
+				"subtitle": "Help you share knowledge is our mission.",
+				"contact": "Ask us anything"
+			}
+		},
+		"active-users": "Join 160,000+ active users! Come and love it"
+	},
+	"profile": {
+		"search": {
+			"placeholder": "Search notes..."
+		}
+	},
+	"overview": {
+		"search": {
+			"placeholder": "Search keyword or tag..."
+		}
+	},
+	"site": {
+		"meta": {
+			"description": "Bästa sättet att skriva och dela din kunskap i markdown.",
+			"og": {
+				"title-suffix": "Kollaborativa markdownanteckningar",
+				"description": "Best way to write and share your knowledge in markdown."
+			},
+			"tw": {
+				"title-suffix": "Collaborative markdown notes",
+				"description": "Best way to write and share your knowledge in markdown."
+			}
+		},
+		"title-suffix": "Collaborative markdown notes"
+	},
+	"recent": {
+		"from-browser": "Nedanför finns historia från webbläsaren",
+		"search": {
+			"tags": {
+				"placeholder": "Välj taggar..."
+			},
+			"keyword": {
+				"placeholder": "Sök nyckelord..."
+			}
+		},
+		"sort": {
+			"title": "Sortera titlar",
+			"time": "Sortera kronologiskt"
+		},
+		"title": "Titel",
+		"time": "Tid",
+		"export": "Exporthistorik",
+		"import": "Importhistorik",
+		"clear": "Rensa historik",
+		"refresh": "Uppdatera historik",
+		"empty": "Ingen historik",
+		"import-browser": "Importera från webbläsare"
+	}
+}

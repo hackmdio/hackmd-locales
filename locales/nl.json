@@ -1,0 +1,327 @@
+{
+	"revision": {
+		"revision": "Revisions",
+		"download": "Downloaden",
+		"revert": "Terugzetten"
+	},
+	"common": {
+		"cancel": "Stoppen",
+		"ok": "OK"
+	},
+	"help": {
+		"title": "Help",
+		"contact": {
+			"title": "Contacten",
+			"messenger": "Talk to us",
+			"github": "Probleem rapporteren",
+			"email": "Stuur ons een mail",
+			"donate": "Buy us coffee"
+		},
+		"documents": "Documenten",
+		"features": "Features",
+		"yaml-meta": "YAML Metadata",
+		"slide": "Slide Voorbeeld",
+		"book": "Book Example",
+		"cheatsheet": "Afkijkblad",
+		"example": "Voorbeeld",
+		"syntax": {
+			"h1": "Koptekst",
+			"ul": "Niet gesorteerde Lijst",
+			"ol": "Gesorteerde List",
+			"todo": "Todo Lijst",
+			"blockquote": "Quote",
+			"b": "Bold tekst",
+			"i": "Italics tekst",
+			"strike": "Doorstreepte tekst",
+			"ins": "Bijgevoegde tekst",
+			"mark": "Gemarkeerde tekst",
+			"anchor": "Link",
+			"img": "Afbeelding",
+			"code": "Code",
+			"embeded": "Uiterlijkheden",
+			"alert": "Dit is een waarschuwingsgebied."
+		}
+	},
+	"signin": {
+		"choose": "Kies methode",
+		"via": "Log in via %s"
+	},
+	"refresh": {
+		"title": "Deze pagina moet herladen worden",
+		"incompatible": {
+			"title": "Je client is niet compatible.",
+			"content": "Ververs om te updaten."
+		},
+		"upgrade": {
+			"title": "Nieuwe versie beschikbaar!",
+			"note": "Zie releases hier",
+			"content": "Ververs om de nieuwe features te zien."
+		},
+		"auth": {
+			"title": "Je gebruikers-status is veranderd.",
+			"content": "Ververs om je nieuwe gebruikers-status te zien."
+		},
+		"donate": "Buy us coffee",
+		"refresh": "Ververs"
+	},
+	"clipboard": {
+		"title": "Importeren from kladbord",
+		"content": "Plak je markdown of webpagina hier...",
+		"clear": "Legen",
+		"import": "Importeren"
+	},
+	"locked": {
+		"title": "Deze notitie zit op slot",
+		"content": "Sorry, alleen de eigenaar kan deze notitie aanpassen."
+	},
+	"limit": {
+		"title": "Limiet bereikt",
+		"content1": "Sorry, je notitie heeft de maximale lengte bereikt.",
+		"content2": "Verwijder alsjeblieft wat tekst of verdeel het over meerdere notities!"
+	},
+	"gist-import": {
+		"title": "Importeren vanaf een Gist",
+		"content": "Plak je Gist URL hier...",
+		"clear": "Clear",
+		"import": "Import"
+	},
+	"snippet-import": {
+		"title": "Imporeren vanaf een Snippet",
+		"project": {
+			"placeholder": "Selecteer van beschikbare projecten"
+		},
+		"snippet": {
+			"placeholder": "Selecteer van beschikbare Snippets"
+		},
+		"of": "OF",
+		"clear": "Clear",
+		"import": "Import"
+	},
+	"snippet-export": {
+		"title": "Exporteren naar Snippet",
+		"project": {
+			"placeholder": "Select From Available Projects"
+		},
+		"visibility": {
+			"placeholder": "Selecteer zichtbaarheids niveau"
+		},
+		"export": "Exporteren"
+	},
+	"delete": {
+		"title": "Weet je het zeker?",
+		"yes": "Ja, doe het!"
+	},
+	"header": {
+		"extra": {
+			"title": "Extra",
+			"slide": "Slide Mode",
+			"book": "Book Mode"
+		},
+		"revision": "Revisions",
+		"export": {
+			"title": "Export"
+		},
+		"import": {
+			"title": "Import",
+			"clipboard": "Kladbord"
+		},
+		"download": {
+			"title": "Download",
+			"raw-html": "Raw HTML"
+		},
+		"modes": {
+			"edit": "Aanpassen",
+			"both": "Beide",
+			"view": "Bekijken"
+		},
+		"help": "Help",
+		"image-upload": "Afbeelding uploaden",
+		"menu": "Menu",
+		"enterprise-demo": "Demo of Enterprise Edition",
+		"new-note": "Nieuwe notitie",
+		"new-team-note": "New team note",
+		"team-manage": "Manage team",
+		"profile": "Profile",
+		"feature": "Features",
+		"dashboard": "Dashboard",
+		"settings": "Settings",
+		"logout": "Log out",
+		"sign-in": "Sign in",
+		"team": "Team",
+		"overview": "Overview",
+		"intro": "Introductie",
+		"recent": "Recent",
+		"manage": "Manage",
+		"new": "Nieuw",
+		"publish": "Publiceren"
+	},
+	"footer": {
+		"product": "Product",
+		"enterprise": "Enterprise",
+		"templates": "Templates",
+		"open-source": "Open Source",
+		"resources": "Resources",
+		"features": "Features",
+		"tutorial": "Tutorial",
+		"faq": "FAQ",
+		"information": "Information",
+		"about": "About",
+		"blog": "Blog",
+		"company": "Company",
+		"privacy": "Privacy",
+		"tos": "Terms of Use",
+		"releases": "Releases",
+		"about-ee": "About {{name}}",
+		"about-hackmd": "About HackMD",
+		"coffee": "Buy us coffee",
+		"terms": "Terms",
+		"donate": "BUY US COFFEE"
+	},
+	"home": {
+		"enterprise": "Enterprise",
+		"slogan": "Build a community with open collaboration.",
+		"use-free": "Use for free",
+		"btn-between-or": "or",
+		"btn-sign-in": "Sign in",
+		"how-to-use": "How to use?",
+		"concept": {
+			"title": "Concept",
+			"subtitle": "Share all document / knowledge / information with your community.",
+			"note": "Create a note",
+			"collaborate": "Open collaborate",
+			"share": "Share and track"
+		},
+		"btn-try": "Try it",
+		"empowering": {
+			"1": "Real-time collaboration at scale",
+			"2": "Turn white papers and API specs into living documents.",
+			"3": "Create dedicated team space for each open source project.",
+			"title": "Empowering community"
+		},
+		"be-in-know": {
+			"1": "Bring all community discussions into one place.",
+			"2": "Get notified when the SINGLE source of truth changes.",
+			"3": "Search or roll back to any previous version.",
+			"title": "Be in the know"
+		},
+		"feature": {
+			"title": "Features"
+		},
+		"features": {
+			"markdown": {
+				"subtitle": "Write in markdown natively",
+				"title": "Markdown"
+			},
+			"slide": {
+				"subtitle": "Make a slide deck with a snap",
+				"title": "Slide Mode"
+			},
+			"book-mode": {
+				"subtitle": "Collect any note into a book",
+				"title": "Book Mode"
+			},
+			"hackmd-it": {
+				"subtitle": "GitHub / GitLab integration, instant access",
+				"title": "HackMD-it"
+			},
+			"diagram": {
+				"subtitle": "Create math formulas and UML with text",
+				"title": "MathJax & UML"
+			},
+			"image": {
+				"subtitle": "Drag and drop image, auto-upload",
+				"title": "Upload image"
+			},
+			"export": {
+				"subtitle": "Export to PDF, md, or html files",
+				"title": "Take it with you"
+			},
+			"tags": {
+				"subtitle": "Manage and search notes with tags",
+				"title": "Manage with tags"
+			}
+		},
+		"trustedBy": "Trusted By",
+		"plans": {
+			"title": "Plans",
+			"free": {
+				"1": "Unlimited notes",
+				"2": "Unlimited collaborators",
+				"3": "Email notification",
+				"4": "Use without login",
+				"title": "Free",
+				"subtitle": "Start open collaboration now.",
+				"start": "Start using"
+			},
+			"business": {
+				"1": "Single Sign-On or SAML login",
+				"2": "Role-based access control",
+				"3": "Unlimited team space",
+				"4": "Private image storage",
+				"ribbon": "Hot",
+				"title": "Business Plan",
+				"subtitle": "Customized access control for your use case.",
+				"btn-more": "More features",
+				"btn-contact": "We are interested"
+			},
+			"conf": {
+				"1": "Customized URL to your shared notes",
+				"2": "Team space for conference hosts",
+				"3": "Best practice training and sharing",
+				"4": "More customized options up to you",
+				"ribbon": "Free",
+				"title": "Conference Plan",
+				"subtitle": "Help you share knowledge is our mission.",
+				"contact": "Ask us anything"
+			}
+		},
+		"active-users": "Join 160,000+ active users! Come and love it"
+	},
+	"profile": {
+		"search": {
+			"placeholder": "Search notes..."
+		}
+	},
+	"overview": {
+		"search": {
+			"placeholder": "Search keyword or tag..."
+		}
+	},
+	"site": {
+		"meta": {
+			"description": "De beste manier je kennis te delen en schrijven in markdown.",
+			"og": {
+				"title-suffix": "Samenwerkende markdown notities",
+				"description": "Best way to write and share your knowledge in markdown."
+			},
+			"tw": {
+				"title-suffix": "Collaborative markdown notes",
+				"description": "Best way to write and share your knowledge in markdown."
+			}
+		},
+		"title-suffix": "Collaborative markdown notes"
+	},
+	"recent": {
+		"from-browser": "Hier onder staat de browser geschiedenis",
+		"search": {
+			"tags": {
+				"placeholder": "Selecteer tags..."
+			},
+			"keyword": {
+				"placeholder": "Zoeken op keyword..."
+			}
+		},
+		"sort": {
+			"title": "Sorteren op titel",
+			"time": "Sorteren op tijd"
+		},
+		"title": "Titel",
+		"time": "Tijd",
+		"export": "Exporteer geschiedenis",
+		"import": "Importeer geschiedenis",
+		"clear": "Verwijder geschiedenis",
+		"refresh": "Ververs geschiedenis",
+		"empty": "Geen geschidenis gevonden",
+		"import-browser": "Importeer van browser"
+	}
+}

@@ -1,0 +1,356 @@
+{
+	"revision": {
+		"revision": "Revisions",
+		"download": "Download",
+		"revert": "Revert"
+	},
+	"common": {
+		"cancel": "Cancel",
+		"ok": "OK"
+	},
+	"help": {
+		"title": "Help",
+		"contact": {
+			"title": "Contacts",
+			"messenger": "Talk to us",
+			"github": "Report an issue",
+			"email": "Send us email",
+			"donate": "Buy us coffee"
+		},
+		"documents": "Documents",
+		"features": "Features",
+		"yaml-meta": "YAML Metadata",
+		"slide": "Slide Example",
+		"book": "Book Example",
+		"cheatsheet": "Cheatsheet",
+		"example": "Example",
+		"syntax": {
+			"h1": "Header",
+			"ul": "Unordered List",
+			"ol": "Ordered List",
+			"todo": "Todo List",
+			"blockquote": "Blockquote",
+			"b": "Bold font",
+			"i": "Italics font",
+			"strike": "Strikethrough",
+			"ins": "Inserted text",
+			"mark": "Marked text",
+			"anchor": "Link",
+			"img": "Image",
+			"code": "Code",
+			"embeded": "Externals",
+			"alert": "This is a alert area."
+		}
+	},
+	"signin": {
+		"choose": "Choose method",
+		"via": "Sign in via %s"
+	},
+	"refresh": {
+		"title": "This page need refresh",
+		"incompatible": {
+			"title": "You have an incompatible client version.",
+			"content": "Refresh to update."
+		},
+		"upgrade": {
+			"title": "New version available!",
+			"note": "See releases notes here",
+			"content": "Refresh to enjoy new features."
+		},
+		"auth": {
+			"title": "Your user state has changed.",
+			"content": "Refresh to load new user state."
+		},
+		"donate": "Buy us coffee",
+		"refresh": "Refresh"
+	},
+	"clipboard": {
+		"title": "Import from clipboard",
+		"content": "Paste your markdown or webpage here...",
+		"clear": "Clear",
+		"import": "Import"
+	},
+	"locked": {
+		"title": "This note is locked",
+		"content": "Sorry, only owner can edit this note."
+	},
+	"limit": {
+		"title": "Reach the limit",
+		"content1": "Sorry, you've reached the max length this note can be.",
+		"content2": "Please reduce the content or divide it to more notes, thank you!"
+	},
+	"gist-import": {
+		"title": "Import from Gist",
+		"content": "Paste your gist url here...",
+		"clear": "Clear",
+		"import": "Import"
+	},
+	"snippet-import": {
+		"title": "Import from Snippet",
+		"project": {
+			"placeholder": "Select From Available Projects"
+		},
+		"snippet": {
+			"placeholder": "Select From Available Snippets"
+		},
+		"or": "OR",
+		"clear": "Clear",
+		"import": "Import"
+	},
+	"snippet-export": {
+		"title": "Export to Snippet",
+		"project": {
+			"placeholder": "Select From Available Projects"
+		},
+		"visibility": {
+			"placeholder": "Select Visibility Level"
+		},
+		"export": "Export"
+	},
+	"delete": {
+		"title": "Are you sure?",
+		"yes": "Yes, do it!"
+	},
+	"header": {
+		"extra": {
+			"title": "Extra",
+			"slide": "Slide Mode",
+			"book": "Book Mode"
+		},
+		"revision": "Revisions",
+		"export": {
+			"title": "Export"
+		},
+		"import": {
+			"title": "Import",
+			"clipboard": "Clipboard"
+		},
+		"download": {
+			"title": "Download",
+			"raw-html": "Raw HTML"
+		},
+		"modes": {
+			"edit": "Edit",
+			"both": "Both",
+			"view": "View"
+		},
+		"help": "Help",
+		"image-upload": "Upload Image",
+		"menu": "Menu",
+		"enterprise-demo": "Demo of Enterprise Edition",
+		"new-note": "New note",
+		"new-team-note": "New team note",
+		"team-manage": "Manage team",
+		"profile": "Profile",
+		"feature": "Features",
+		"dashboard": "Dashboard",
+		"settings": "Settings",
+		"logout": "Log out",
+		"sign-in": "Sign in",
+		"team": "Team",
+		"overview": "Overview",
+		"intro": "Intro",
+		"recent": "Recent",
+		"manage": "Manage",
+		"new": "New",
+		"publish": "Publish",
+		"getting-started": "Getting Started",
+		"getting-started-with-hackmd": "Getting Started with HackMD",
+		"getting-started-tips": "Learn how to create, share, and manage your notes.",
+		"signout": "Sign out",
+		"permission": "Permission",
+		"note": {
+			"permission": "Note Permission"
+		},
+		"note-permission-help": "Note owner decides who can read or write this note.",
+		"note-read": "Read",
+		"owner": "Owner",
+		"signedin": "Signed-in",
+		"guest": "Guest",
+		"write": "Write",
+		"comments": "Comments",
+		"comments-help": "Note owner decides who can read or give comments.",
+		"enable": "Enable",
+		"comment-read": "Read",
+		"comment-write": "Comment",
+		"invitee": "Invitee",
+		"invitee-help": "The invitee has to sign in for the invitation to take effect. Admin can invite users and change note permissions.",
+		"invite": "Invite",
+		"invitee-read": "Read",
+		"invitee-write": "Write",
+		"invitee-admin": "Admin",
+		"transfer-ownership": "Transfer ownership",
+		"delete-note": "Delete this note",
+		"options": "Options",
+		"note-write": "Write"
+	},
+	"footer": {
+		"product": "Product",
+		"enterprise": "Enterprise",
+		"templates": "Templates",
+		"open-source": "Open Source",
+		"resources": "Resources",
+		"features": "Features",
+		"tutorial": "Tutorial",
+		"faq": "FAQ",
+		"information": "Information",
+		"about": "About",
+		"blog": "Blog",
+		"company": "Company",
+		"privacy": "Privacy",
+		"tos": "Terms of Use",
+		"releases": "Releases",
+		"about-ee": "About {{name}}",
+		"about-hackmd": "About HackMD",
+		"coffee": "Buy us coffee",
+		"terms": "Terms",
+		"donate": "BUY US COFFEE"
+	},
+	"home": {
+		"enterprise": "Enterprise",
+		"slogan": "Build a community with open collaboration.",
+		"use-free": "Use for free",
+		"btn-between-or": "or",
+		"btn-sign-in": "Sign in",
+		"how-to-use": "How to use?",
+		"concept": {
+			"title": "Concept",
+			"subtitle": "Share all document / knowledge / information with your community.",
+			"note": "Create a note",
+			"collaborate": "Open collaborate",
+			"share": "Share and track"
+		},
+		"btn-try": "Try it",
+		"empowering": {
+			"1": "Real-time collaboration at scale",
+			"2": "Turn white papers and API specs into living documents.",
+			"3": "Create dedicated team space for each open source project.",
+			"title": "Empowering community"
+		},
+		"be-in-know": {
+			"1": "Bring all community discussions into one place.",
+			"2": "Get notified when the SINGLE source of truth changes.",
+			"3": "Search or roll back to any previous version.",
+			"title": "Be in the know"
+		},
+		"feature": {
+			"title": "Features"
+		},
+		"features": {
+			"markdown": {
+				"subtitle": "Write in markdown natively",
+				"title": "Markdown"
+			},
+			"slide": {
+				"subtitle": "Make a slide deck with a snap",
+				"title": "Slide Mode"
+			},
+			"book-mode": {
+				"subtitle": "Collect any note into a book",
+				"title": "Book Mode"
+			},
+			"hackmd-it": {
+				"subtitle": "GitHub / GitLab integration, instant access",
+				"title": "HackMD-it"
+			},
+			"diagram": {
+				"subtitle": "Create math formulas and UML with text",
+				"title": "MathJax & UML"
+			},
+			"image": {
+				"subtitle": "Drag and drop image, auto-upload",
+				"title": "Upload image"
+			},
+			"export": {
+				"subtitle": "Export to PDF, md, or html files",
+				"title": "Take it with you"
+			},
+			"tags": {
+				"subtitle": "Manage and search notes with tags",
+				"title": "Manage with tags"
+			}
+		},
+		"trustedBy": "Trusted By",
+		"plans": {
+			"title": "Plans",
+			"free": {
+				"1": "Unlimited notes",
+				"2": "Unlimited collaborators",
+				"3": "Email notification",
+				"4": "Use without login",
+				"title": "Free",
+				"subtitle": "Start open collaboration now.",
+				"start": "Start using"
+			},
+			"business": {
+				"1": "Single Sign-On or SAML login",
+				"2": "Role-based access control",
+				"3": "Unlimited team space",
+				"4": "Private image storage",
+				"ribbon": "Hot",
+				"title": "Business Plan",
+				"subtitle": "Customized access control for your use case.",
+				"btn-more": "More features",
+				"btn-contact": "We are interested"
+			},
+			"conf": {
+				"1": "Customized URL to your shared notes",
+				"2": "Team space for conference hosts",
+				"3": "Best practice training and sharing",
+				"4": "More customized options up to you",
+				"ribbon": "Free",
+				"title": "Conference Plan",
+				"subtitle": "Help you share knowledge is our mission.",
+				"contact": "Ask us anything"
+			}
+		},
+		"active-users": "Join 160,000+ active users! Come and love it"
+	},
+	"profile": {
+		"search": {
+			"placeholder": "Search notes..."
+		}
+	},
+	"overview": {
+		"search": {
+			"placeholder": "Search keyword or tag..."
+		}
+	},
+	"site": {
+		"meta": {
+			"description": "Best way to write and share your knowledge in markdown.",
+			"og": {
+				"title-suffix": "Collaborative markdown notes",
+				"description": "Best way to write and share your knowledge in markdown."
+			},
+			"tw": {
+				"title-suffix": "Collaborative markdown notes",
+				"description": "Best way to write and share your knowledge in markdown."
+			}
+		},
+		"title-suffix": "Collaborative markdown notes"
+	},
+	"recent": {
+		"from-browser": "Below is the history from browser",
+		"search": {
+			"tags": {
+				"placeholder": "Select tags..."
+			},
+			"keyword": {
+				"placeholder": "Search keyword..."
+			}
+		},
+		"sort": {
+			"title": "Sort by title",
+			"time": "Sort by time"
+		},
+		"title": "Title",
+		"time": "Time",
+		"export": "Export history",
+		"import": "Import history",
+		"clear": "Clear history",
+		"refresh": "Refresh history",
+		"empty": "No history",
+		"import-browser": "Import from browser"
+	}
+}

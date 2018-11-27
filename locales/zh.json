@@ -1,0 +1,371 @@
+{
+	"revision": {
+		"revision": "Revisions",
+		"download": "下載",
+		"revert": "還原"
+	},
+	"common": {
+		"cancel": "取消",
+		"ok": "好"
+	},
+	"help": {
+		"title": "協助",
+		"contact": {
+			"title": "聯絡方式",
+			"messenger": "與我們聊聊",
+			"github": "回報問題",
+			"email": "寄信給我們",
+			"donate": "請我們喝杯咖啡"
+		},
+		"documents": "文件",
+		"features": "功能簡介",
+		"yaml-meta": "YAML Metadata",
+		"slide": "簡報範例",
+		"book": "Book 範例",
+		"cheatsheet": "快速簡表",
+		"example": "範例",
+		"syntax": {
+			"h1": "標題",
+			"ul": "無序清單",
+			"ol": "有序清單",
+			"todo": "待辦事項",
+			"blockquote": "引用",
+			"b": "粗體",
+			"i": "斜體",
+			"strike": "刪除線",
+			"ins": "插入文字",
+			"mark": "標記文字",
+			"anchor": "連結",
+			"img": "圖片",
+			"code": "程式碼",
+			"embeded": "外部",
+			"alert": "這是警告區塊"
+		}
+	},
+	"signin": {
+		"choose": "選擇方式",
+		"via": "透過 %s 登入"
+	},
+	"refresh": {
+		"title": "此頁面需要重新整理",
+		"incompatible": {
+			"title": "您使用的是不相容的客戶端",
+			"content": "請重新整理來更新"
+		},
+		"upgrade": {
+			"title": "新版本來了！",
+			"note": "請由此查閱更新紀錄",
+			"content": "請重新整理來享受最新功能"
+		},
+		"auth": {
+			"title": "您的使用者狀態已變更",
+			"content": "請重新整理來載入新的使用者狀態"
+		},
+		"donate": "捐贈我們一杯咖啡",
+		"refresh": "重新整理"
+	},
+	"clipboard": {
+		"title": "從剪貼簿匯入",
+		"content": "在這裡貼上 Markdown 或是網頁內容...",
+		"clear": "清除",
+		"import": "匯入"
+	},
+	"locked": {
+		"title": "此份筆記已被鎖定",
+		"content": "抱歉，只有擁有者可以編輯此筆記"
+	},
+	"limit": {
+		"title": "到達上限",
+		"content1": "抱歉，您已使用到此份筆記可用的最大長度",
+		"content2": "請減少內容或是將內容切成更多筆記，謝謝！"
+	},
+	"gist-import": {
+		"title": "從 Gist 匯入",
+		"content": "在這裡貼上 gist 網址...",
+		"clear": "清除",
+		"import": "匯入"
+	},
+	"snippet-import": {
+		"title": "從 Snippet 匯入",
+		"project": {
+			"placeholder": "從可用的專案中選擇"
+		},
+		"snippet": {
+			"placeholder": "從可用的 Snippets 中選擇"
+		},
+		"或": "或是",
+		"clear": "清除",
+		"import": "匯入"
+	},
+	"snippet-export": {
+		"title": "匯出到 Snippet",
+		"project": {
+			"placeholder": "Select From Available Projects"
+		},
+		"visibility": {
+			"placeholder": "選擇可見層級"
+		},
+		"export": "匯出"
+	},
+	"delete": {
+		"title": "你確定嗎？",
+		"yes": "沒錯，就這樣辦！"
+	},
+	"header": {
+		"tutorial": "Tutorial",
+		"templates": "Templates",
+		"blog": "Blog",
+		"faq": "FAQ",
+		"enterprise": "Enterprise",
+		"new-guest-note": "New gust note",
+		"all-notes": "All notes",
+		"extra": {
+			"title": "增益",
+			"slide": "簡報模式",
+			"book": "Book Mode"
+		},
+		"revision": "Revisions",
+		"export": {
+			"title": "匯出"
+		},
+		"import": {
+			"title": "匯入",
+			"clipboard": "剪貼簿"
+		},
+		"download": {
+			"title": "下載",
+			"raw-html": "純 HTML"
+		},
+		"modes": {
+			"edit": "編輯",
+			"both": "雙欄",
+			"view": "檢視"
+		},
+		"help": "說明",
+		"image-upload": "上傳圖片",
+		"menu": "選單",
+		"enterprise-demo": "Demo of Enterprise Edition",
+		"new-note": "New note",
+		"new-team-note": "New team note",
+		"team-manage": "Manage team",
+		"profile": "個人檔案",
+		"feature": "Features",
+		"dashboard": "Dashboard",
+		"settings": "設定",
+		"logout": "Log out",
+		"sign-in": "Sign in",
+		"team": "Team",
+		"overview": "筆記綜覽",
+		"intro": "簡介",
+		"recent": "Recent",
+		"manage": "Manage",
+		"new": "新增",
+		"publish": "發表",
+		"getting-started": "Getting Started",
+		"getting-started-with-hackmd": "現在就開始使用 HackMD",
+		"getting-started-tips": "快速學習如何建立、分享、管理您的筆記"
+	},
+	"footer": {
+		"product": "產品",
+		"enterprise": "企業方案",
+		"templates": "試用範例",
+		"open-source": "開源版本",
+		"resources": "資源",
+		"features": "產品特色",
+		"tutorial": "使用教學",
+		"faq": "FAQ",
+		"information": "資訊",
+		"about": "關於我們",
+		"blog": "部落格",
+		"company": "企業",
+		"privacy": "隱私權政策",
+		"tos": "使用條款",
+		"releases": "版本記錄",
+		"coffee": "捐贈我們一杯咖啡",
+		"about-hackmd": "關於 HackMD",
+		"about-ee": "關於 {{name}}",
+		"terms": "條款",
+		"donate": "捐贈我們一杯咖啡"
+	},
+	"home": {
+		"btn-templates": "使用範例",
+		"enterprise": "企業版",
+		"slogan": "用開放寫作凝聚社群能量",
+		"use-free": "免費試用",
+		"btn-between-or": "or",
+		"btn-sign-in": "登入",
+		"how-to-use": "如何使用？",
+		"concept": {
+			"title": "概念",
+			"subtitle": "與社群分享所有文件 / 知識 / 資訊",
+			"note": "建立一份新筆記",
+			"collaborate": "與社群開放協作",
+			"share": "分享並持續關注"
+		},
+		"btn-try": "立即使用",
+		"empowering": {
+			"1": "大規模的即時協作：成員共同腦力激盪，建立知識社群",
+			"2": "將白皮書或 API 規格書變成活躍的文件",
+			"3": "每個開源項目都有專用的團隊空間",
+			"title": "建立知識社群"
+		},
+		"be-in-know": {
+			"1": "使用 HackMD 盡情建立各種討論社群",
+			"2": "幾種管理社群知識，隨時掌握文件更動",
+			"3": "過去的討論歷程即是知識庫，輕鬆搜尋",
+			"title": "掌握團隊知識"
+		},
+		"feature": {
+			"title": "特色功能"
+		},
+		"features": {
+			"markdown": {
+				"subtitle": "支援原生 Markdown 編寫筆記",
+				"title": "Markdown"
+			},
+			"slide": {
+				"subtitle": "輕鬆製作簡報，幾分鐘內就可以上台",
+				"title": "簡報模式"
+			},
+			"book-mode": {
+				"subtitle": "多篇筆記集結，隨點隨看",
+				"title": "書籍模式"
+			},
+			"hackmd-it": {
+				"subtitle": "無縫整合 GitHub / GitLab，讓您快速找尋筆記",
+				"title": "HackMD-it"
+			},
+			"diagram": {
+				"subtitle": "快速畫出數學公式或流程圖",
+				"title": "MathJax 及 UML"
+			},
+			"image": {
+				"subtitle": "拖曳至編輯區，即可快速上傳",
+				"title": "簡單上傳圖片"
+			},
+			"export": {
+				"subtitle": "一鍵匯出 PDF、md、html 等格式",
+				"title": "匯出多種格式"
+			},
+			"tags": {
+				"subtitle": "透過標籤分類，找尋筆記更方便",
+				"title": "筆記標籤"
+			}
+		},
+		"trustedBy": "Trusted By",
+		"plans": {
+			"title": "方案",
+			"free": {
+				"1": "筆記數量無上限",
+				"2": "協作者無上限",
+				"3": "Email 通知功能",
+				"4": "免登入也可立即使用",
+				"title": "免費方案",
+				"subtitle": " 您知識分享最佳的選擇，只需立即登入，並開始編輯筆記。",
+				"start": "立即使用"
+			},
+			"business": {
+				"1": "SSO 單一登入",
+				"2": "Role-based 權限設定",
+				"3": "團隊空間",
+				"4": "私有圖片上傳空間",
+				"ribbon": "Hot",
+				"title": "企業方案",
+				"subtitle": "享受更多更安全的 HackMD，成為您的最強助力。",
+				"btn-more": "更多功能",
+				"btn-contact": "我有興趣"
+			},
+			"conf": {
+				"1": "自訂筆記分享連結",
+				"2": "研討會專屬空間",
+				"3": "提供最佳實務與使用案例",
+				"4": "其它更多客製化功能",
+				"ribbon": "Free",
+				"title": "研討會方案",
+				"subtitle": " 分享知識是我們的使命，為您量身打造所需的紀錄方案。 ",
+				"contact": "聯絡我們"
+			}
+		},
+		"active-users": "加入 HackMD 的 160,000+ 名用戶，一用就愛上"
+	},
+	"profile": {
+		"search": {
+			"placeholder": "Search notes..."
+		}
+	},
+	"overview": {
+		"search": {
+			"placeholder": "Search keyword or tag..."
+		}
+	},
+	"site": {
+		"meta": {
+			"description": "您使用 Markdown 寫作與分享知識的最佳方式",
+			"og": {
+				"title-suffix": "Markdown 協作筆記",
+				"description": "您使用 Markdown 寫作與分享知識的最佳方式"
+			},
+			"tw": {
+				"title-suffix": "Markdown 協作筆記",
+				"description": "您使用 Markdown 寫作與分享知識的最佳方式"
+			}
+		},
+		"title-suffix": "Markdown 協作筆記"
+	},
+	"recent": {
+		"from-browser": "以下為來自瀏覽器的紀錄",
+		"search": {
+			"tags": {
+				"placeholder": "選擇標籤..."
+			},
+			"keyword": {
+				"placeholder": "搜尋關鍵字..."
+			}
+		},
+		"sort": {
+			"title": "用標題排序",
+			"time": "用時間排序"
+		},
+		"title": "標題",
+		"time": "時間",
+		"export": "匯出紀錄",
+		"import": "匯入紀錄",
+		"clear": "清空紀錄",
+		"refresh": "更新紀錄",
+		"empty": "沒有紀錄",
+		"import-browser": "從瀏覽器匯入"
+  },
+  "docflow": {
+    "survey": "另外，希望您可以填寫 <a target=\"_blank\" href=\"https://goo.gl/forms/4GaEVgVilkjxXeTs1\">此問卷</a> 告訴我們您的想法，感謝！",
+    "step1": {
+      "title": "設定 GitHub App",
+      "step1": "步驟一：",
+      "1": "登入 HackMD 帳號",
+      "signin-to-manage-document": "請先登入，方便您管理文件",
+      "step2": "步驟二：",
+      "2": "與 GitHub 連結",
+      "linking-finished": "已完成連結。",
+      "connect": "連結",
+      "step3": "步驟三：",
+      "3": "安裝 HackDF",
+      "modify": "修改",
+      "start-installation": "開始安裝",
+      "installed-repo": "已安裝的 Repo 清單",
+      "refresh": "重整清單"
+    },
+    "step2": {
+      "p1": "接下來 HackDF 就會在每次程式碼推送到 master 時，檢查更動的檔案，並提醒您有哪些文件該做修改。",
+      "default-document": "預設設定",
+      "p2": "<p>預設的狀況，如您在以下目錄更改任何檔案：</p>  <ul> <li><code>src</code></li> <li><code>lib</code></li> <li><code>test</code></li> </ul>  <p>會觸發以下文件的提醒</p>  <ul> <li><code>README.md</code></li> <li><code>docs</code> 底下所有的 markdown 檔案</li> </ul>",
+      "customized": "自訂設定",
+      "p3": "如果要進一步自訂文件與程式碼的關聯，需要新增設定檔 <code>.hackdf/config.yml</code>，範例設定檔內容如下：",
+      "p4": "關於設定檔的寫法或規格請至 <a target=\"_blank\" href=\"https://hackmd.io/s/hackdf-guide-tw\">HackDF 使用指南</a> 閱讀 📚，或直接 <a target=\"_blank\" href=\"https://github.com/hackmdio/hackdf-issues/issues\">聯絡我們</a>。 <br>更多資源：<a target=\"_blank\" href=\"https://guides.github.com/activities/hello-world/\">Git 使用教學</a>。"
+    },
+    "landing-page": {
+      "title": "HackDF 讓文件保持新鮮 🍋",
+      "p1": "HackDF 會提醒您要更新文件，且您無須修改每天的工作流程。每次您推送變更到 GitHub 的時候，HackDF 會<b>自動偵測文件是否需要更新</b>，如果有的話，您會<b>收到電子郵件</b>。",
+      "p2": "讓您從此不必煩惱文件是否最新，避免因為文件缺漏而重複犯錯。",
+      "cta": "立刻嚐鮮"
+    }
+  }
+}

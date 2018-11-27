@@ -1,0 +1,327 @@
+{
+	"revision": {
+		"revision": "Revisions",
+		"download": "ダウンロード",
+		"revert": "戻す"
+	},
+	"common": {
+		"cancel": "キャンセル",
+		"ok": "OK"
+	},
+	"help": {
+		"title": "ヘルプ",
+		"contact": {
+			"title": "コンタクト",
+			"messenger": "Talk to us",
+			"github": "問題を報告する",
+			"email": "メールを送る",
+			"donate": "Buy us coffee"
+		},
+		"documents": "ドキュメント",
+		"features": "機能",
+		"yaml-meta": "YAMLメタデータ",
+		"slide": "スライドサンプル",
+		"book": "Book Example",
+		"cheatsheet": "チートシート",
+		"example": "例",
+		"syntax": {
+			"h2": "見出し",
+			"ul": "番号なしリスト",
+			"ol": "番号付きリスト",
+			"todo": "TODOリスト",
+			"blockquote": "引用文",
+			"b": "太字",
+			"i": "斜体",
+			"strike": "打ち消し線",
+			"ins": "挿入文",
+			"mark": "マーカー",
+			"anchor": "リンク",
+			"img": "画像",
+			"code": "コード",
+			"embeded": "モジュール",
+			"alert": "これはアラートエリアです"
+		}
+	},
+	"signin": {
+		"choose": "選択してください",
+		"via": "%sでサインイン"
+	},
+	"refresh": {
+		"title": "ページをリロードしてください",
+		"incompatible": {
+			"title": "クライアントのバージョンが一致しません",
+			"content": "リロードして更新を反映させてください"
+		},
+		"upgrade": {
+			"title": "新しいバージョンが利用できます！",
+			"note": "リリースノートをごらんください",
+			"content": "リロードして新しい機能を試してみましょう"
+		},
+		"auth": {
+			"title": "ユーザー情報が変更されました",
+			"content": "リロードすると最新のユーザー情報が反映されます"
+		},
+		"donate": "Buy us coffee",
+		"refresh": "リロード"
+	},
+	"clipboard": {
+		"title": "クリップボードからインポート",
+		"content": "Markdownまたはウェブページを貼り付けてください",
+		"clear": "クリア",
+		"import": "インポート"
+	},
+	"locked": {
+		"title": "このノートはロックされています",
+		"content": "このノートはオーナーのみが編集できます"
+	},
+	"limit": {
+		"title": "上限に達しました",
+		"content1": "ノートの文字数が上限に達しました。",
+		"content2": "内容を減らすか、別のノートに分けてください"
+	},
+	"gist-import": {
+		"title": "gistからインポート",
+		"content": "gistのURLを貼り付けてください",
+		"clear": "Clear",
+		"import": "Import"
+	},
+	"snippet-import": {
+		"title": "スニペットからインポート",
+		"project": {
+			"placeholder": "プロジェクトを一覧から選択してください"
+		},
+		"snippet": {
+			"placeholder": "スニペットを一覧から選択してください"
+		},
+		"または": "または",
+		"clear": "Clear",
+		"import": "Import"
+	},
+	"snippet-export": {
+		"title": "スニペットにエクスポート",
+		"project": {
+			"placeholder": "Select From Available Projects"
+		},
+		"visibility": {
+			"placeholder": "公開範囲を選んでください"
+		},
+		"export": "エクスポート"
+	},
+	"delete": {
+		"title": "本当にいいですか？",
+		"yes": "はい"
+	},
+	"header": {
+		"extra": {
+			"title": "その他",
+			"slide": "スライドモード",
+			"book": "Book Mode"
+		},
+		"revision": "Revisions",
+		"export": {
+			"title": "Export"
+		},
+		"import": {
+			"title": "Import",
+			"clipboard": "クリップボード"
+		},
+		"download": {
+			"title": "Download",
+			"raw-html": "HTMLパーツ"
+		},
+		"modes": {
+			"edit": "編集モード",
+			"both": "分割モード",
+			"view": "表示モード"
+		},
+		"help": "Help",
+		"image-upload": "画像をアップロード",
+		"menu": "メニュー",
+		"enterprise-demo": "Demo of Enterprise Edition",
+		"new-note": "新規ノート",
+		"new-team-note": "New team note",
+		"team-manage": "Manage team",
+		"profile": "Profile",
+		"feature": "Features",
+		"dashboard": "Dashboard",
+		"settings": "Settings",
+		"logout": "Log out",
+		"sign-in": "Sign in",
+		"team": "Team",
+		"overview": "Overview",
+		"intro": "紹介",
+		"recent": "Recent",
+		"manage": "Manage",
+		"new": "新規作成",
+		"publish": "公開する"
+	},
+	"footer": {
+		"product": "Product",
+		"enterprise": "Enterprise",
+		"templates": "Templates",
+		"open-source": "Open Source",
+		"resources": "Resources",
+		"features": "Features",
+		"tutorial": "Tutorial",
+		"faq": "FAQ",
+		"information": "Information",
+		"about": "About",
+		"blog": "Blog",
+		"company": "Company",
+		"privacy": "Privacy",
+		"tos": "Terms of Use",
+		"releases": "リリース",
+		"about-ee": "About {{name}}",
+		"about-hackmd": "About HackMD",
+		"coffee": "Buy us coffee",
+		"terms": "Terms",
+		"donate": "BUY US COFFEE"
+	},
+	"home": {
+		"enterprise": "Enterprise",
+		"slogan": "Build a community with open collaboration.",
+		"use-free": "Use for free",
+		"btn-between-or": "or",
+		"btn-sign-in": "Sign in",
+		"how-to-use": "How to use?",
+		"concept": {
+			"title": "Concept",
+			"subtitle": "Share all document / knowledge / information with your community.",
+			"note": "Create a note",
+			"collaborate": "Open collaborate",
+			"share": "Share and track"
+		},
+		"btn-try": "Try it",
+		"empowering": {
+			"1": "Real-time collaboration at scale",
+			"2": "Turn white papers and API specs into living documents.",
+			"3": "Create dedicated team space for each open source project.",
+			"title": "Empowering community"
+		},
+		"be-in-know": {
+			"1": "Bring all community discussions into one place.",
+			"2": "Get notified when the SINGLE source of truth changes.",
+			"3": "Search or roll back to any previous version.",
+			"title": "Be in the know"
+		},
+		"feature": {
+			"title": "Features"
+		},
+		"features": {
+			"markdown": {
+				"subtitle": "Write in markdown natively",
+				"title": "Markdown"
+			},
+			"slide": {
+				"subtitle": "Make a slide deck with a snap",
+				"title": "Slide Mode"
+			},
+			"book-mode": {
+				"subtitle": "Collect any note into a book",
+				"title": "Book Mode"
+			},
+			"hackmd-it": {
+				"subtitle": "GitHub / GitLab integration, instant access",
+				"title": "HackMD-it"
+			},
+			"diagram": {
+				"subtitle": "Create math formulas and UML with text",
+				"title": "MathJax & UML"
+			},
+			"image": {
+				"subtitle": "Drag and drop image, auto-upload",
+				"title": "Upload image"
+			},
+			"export": {
+				"subtitle": "Export to PDF, md, or html files",
+				"title": "Take it with you"
+			},
+			"tags": {
+				"subtitle": "Manage and search notes with tags",
+				"title": "Manage with tags"
+			}
+		},
+		"trustedBy": "Trusted By",
+		"plans": {
+			"title": "Plans",
+			"free": {
+				"1": "Unlimited notes",
+				"2": "Unlimited collaborators",
+				"3": "Email notification",
+				"4": "Use without login",
+				"title": "Free",
+				"subtitle": "Start open collaboration now.",
+				"start": "Start using"
+			},
+			"business": {
+				"1": "Single Sign-On or SAML login",
+				"2": "Role-based access control",
+				"3": "Unlimited team space",
+				"4": "Private image storage",
+				"ribbon": "Hot",
+				"title": "Business Plan",
+				"subtitle": "Customized access control for your use case.",
+				"btn-more": "More features",
+				"btn-contact": "We are interested"
+			},
+			"conf": {
+				"1": "Customized URL to your shared notes",
+				"2": "Team space for conference hosts",
+				"3": "Best practice training and sharing",
+				"4": "More customized options up to you",
+				"ribbon": "Free",
+				"title": "Conference Plan",
+				"subtitle": "Help you share knowledge is our mission.",
+				"contact": "Ask us anything"
+			}
+		},
+		"active-users": "Join 160,000+ active users! Come and love it"
+	},
+	"profile": {
+		"search": {
+			"placeholder": "Search notes..."
+		}
+	},
+	"overview": {
+		"search": {
+			"placeholder": "Search keyword or tag..."
+		}
+	},
+	"site": {
+		"meta": {
+			"description": "Markdownでナレッジを蓄積・共有できるベストツール",
+			"og": {
+				"title-suffix": "共同編集できるMarkdownノート",
+				"description": "Best way to write and share your knowledge in markdown."
+			},
+			"tw": {
+				"title-suffix": "Collaborative markdown notes",
+				"description": "Best way to write and share your knowledge in markdown."
+			}
+		},
+		"title-suffix": "Collaborative markdown notes"
+	},
+	"recent": {
+		"from-browser": "ブラウザからの履歴",
+		"search": {
+			"tags": {
+				"placeholder": "タグで検索"
+			},
+			"keyword": {
+				"placeholder": "キーワードで検索"
+			}
+		},
+		"sort": {
+			"title": "タイトル順でソート",
+			"time": "日時順でソート"
+		},
+		"title": "タイトル",
+		"time": "日時",
+		"export": "履歴をエクスポート",
+		"import": "履歴をインポート",
+		"clear": "履歴をクリア",
+		"refresh": "履歴を更新",
+		"empty": "履歴はありません",
+		"import-browser": "ブラウザからインポート"
+	}
+}

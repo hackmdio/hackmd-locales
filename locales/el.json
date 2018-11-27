@@ -1,0 +1,327 @@
+{
+	"revision": {
+		"revision": "Revisions",
+		"download": "Κατέβασμα",
+		"revert": "Επαναστροφή"
+	},
+	"common": {
+		"cancel": "Ακύρωση",
+		"ok": "Εντάξει"
+	},
+	"help": {
+		"title": "Βοήθεια",
+		"contact": {
+			"title": "Επαφές",
+			"messenger": "Talk to us",
+			"github": "Αναφέρετε ένα θέμα",
+			"email": "Στείλτε μας email",
+			"donate": "Buy us coffee"
+		},
+		"documents": "Έγγραφα",
+		"features": "Λειτουργία",
+		"yaml-meta": "YAML μεταδεδομένα",
+		"slide": "Σύρετε για παράδειγμα",
+		"book": "Book Example",
+		"cheatsheet": "Σκονάκι",
+		"example": "Παράδειγμα",
+		"syntax": {
+			"h1": "Επικεφαλίδα",
+			"ul": "Μη αριθμημένη λίστα",
+			"ol": "Αριθμημένη λίστα",
+			"todo": "Todo List",
+			"blockquote": "Παράγραφος",
+			"b": "Εντονη γραμματοσειρά",
+			"i": "Πλάγια γραμματοσειρά",
+			"strike": "Διαγραμένη γραμματοσειρά",
+			"ins": "Εισαγμένο κείμενο",
+			"mark": "Επιλεγμένο κείμενο",
+			"anchor": "Σύνδεσμος",
+			"img": "Εικόνα",
+			"code": "Κώδικας",
+			"embeded": "Εξωτερικά",
+			"alert": "Αυτή είναι μια περιοχή ειδοποίησης"
+		}
+	},
+	"signin": {
+		"choose": "Επιλογή μεθόδου",
+		"via": "Σύνδεση μέσω %s"
+	},
+	"refresh": {
+		"title": "Η σελίδα χρειάζεται ανανέωση",
+		"incompatible": {
+			"title": "Έχετε μια μη συμβατή έκδοση.",
+			"content": "Ανανεώστε για ενημέρωση"
+		},
+		"upgrade": {
+			"title": "Νέα διαθέσιμη έκδοση ",
+			"note": "Δείτε τις κυκλοφορίες της σημείωσης εδώ",
+			"content": "Ανανεώστε για να δείτε τις κανούργιες λειτουργίες"
+		},
+		"auth": {
+			"title": "Η κατάσταση χρήστη έχει αλλάξει.",
+			"content": "Ανανεώστε για να φορτώσετε την νέα κατάσταση χρήστη."
+		},
+		"donate": "Buy us coffee",
+		"refresh": "Ανανέωση"
+	},
+	"clipboard": {
+		"title": "Εισαγωγή από πρόχειρο",
+		"content": "Επικολλήστε markdown ή την ιστοσελίδα σας εδώ...",
+		"clear": "Καθαρισμός",
+		"import": "Εισαγωγή"
+	},
+	"locked": {
+		"title": "Η σημείωση είναι κλειδωμένη",
+		"content": "Συγνώμη, μόνο ο ιδιοκτήτης μπορεί να επεξεργαστεί αυτη την σημείωση."
+	},
+	"limit": {
+		"title": "Φτάσατε το όριο",
+		"content1": "Συγνώμη, φτάσατε το μέγιστο μέγεθος αυτής της σημείωσης.",
+		"content2": "Παρακαλώ μειώστε το περιεχόμενο η διαιρέστε το σε περισσότερες σημειώσεις, ευχαριστώ!"
+	},
+	"gist-import": {
+		"title": "Εισαγωγή από Gist",
+		"content": "Κάντε επικκόληση του gist url εδώ...",
+		"clear": "Clear",
+		"import": "Import"
+	},
+	"snippet-import": {
+		"title": "Εισαγωγή από Snippet",
+		"project": {
+			"placeholder": "Eπιλογή από διαθέσιμα Projects"
+		},
+		"snippet": {
+			"placeholder": "Eπιλογή από διαθέσιμα Snippets"
+		},
+		"ή": "Ή",
+		"clear": "Clear",
+		"import": "Import"
+	},
+	"snippet-export": {
+		"title": "Eξαγωγή σε Snippet",
+		"project": {
+			"placeholder": "Select From Available Projects"
+		},
+		"visibility": {
+			"placeholder": "Επιλέξτε επίπεδο ορατότητας"
+		},
+		"export": "Εξαγωγή"
+	},
+	"delete": {
+		"title": "Είστε σίγουρος?",
+		"yes": "Ναι, κάντο!"
+	},
+	"header": {
+		"extra": {
+			"title": "Επιπλέον",
+			"slide": "Λειτουργία με σύρσιμο",
+			"book": "Book Mode"
+		},
+		"revision": "Revisions",
+		"export": {
+			"title": "Export"
+		},
+		"import": {
+			"title": "Import",
+			"clipboard": "Πρόχειρο"
+		},
+		"download": {
+			"title": "Download",
+			"raw-html": "Aκατέργαστο HTML"
+		},
+		"modes": {
+			"edit": "Επεξεργασία",
+			"both": "Και τα δύο",
+			"view": "Δες"
+		},
+		"help": "Help",
+		"image-upload": "Ανέβασμα φωτογραφίας",
+		"menu": "Μενού",
+		"enterprise-demo": "Demo of Enterprise Edition",
+		"new-note": "Νέα σημείωση",
+		"new-team-note": "New team note",
+		"team-manage": "Manage team",
+		"profile": "Profile",
+		"feature": "Features",
+		"dashboard": "Dashboard",
+		"settings": "Settings",
+		"logout": "Log out",
+		"sign-in": "Sign in",
+		"team": "Team",
+		"overview": "Overview",
+		"intro": "Εισαγωγή",
+		"recent": "Recent",
+		"manage": "Manage",
+		"new": "Νέο",
+		"publish": "Δημοσίευση"
+	},
+	"footer": {
+		"product": "Product",
+		"enterprise": "Enterprise",
+		"templates": "Templates",
+		"open-source": "Open Source",
+		"resources": "Resources",
+		"features": "Features",
+		"tutorial": "Tutorial",
+		"faq": "FAQ",
+		"information": "Information",
+		"about": "About",
+		"blog": "Blog",
+		"company": "Company",
+		"privacy": "Privacy",
+		"tos": "Terms of Use",
+		"releases": "Κυκλοφορίες",
+		"about-ee": "About {{name}}",
+		"about-hackmd": "About HackMD",
+		"coffee": "Buy us coffee",
+		"terms": "Terms",
+		"donate": "BUY US COFFEE"
+	},
+	"home": {
+		"enterprise": "Enterprise",
+		"slogan": "Build a community with open collaboration.",
+		"use-free": "Use for free",
+		"btn-between-or": "or",
+		"btn-sign-in": "Sign in",
+		"how-to-use": "How to use?",
+		"concept": {
+			"title": "Concept",
+			"subtitle": "Share all document / knowledge / information with your community.",
+			"note": "Create a note",
+			"collaborate": "Open collaborate",
+			"share": "Share and track"
+		},
+		"btn-try": "Try it",
+		"empowering": {
+			"1": "Real-time collaboration at scale",
+			"2": "Turn white papers and API specs into living documents.",
+			"3": "Create dedicated team space for each open source project.",
+			"title": "Empowering community"
+		},
+		"be-in-know": {
+			"1": "Bring all community discussions into one place.",
+			"2": "Get notified when the SINGLE source of truth changes.",
+			"3": "Search or roll back to any previous version.",
+			"title": "Be in the know"
+		},
+		"feature": {
+			"title": "Features"
+		},
+		"features": {
+			"markdown": {
+				"subtitle": "Write in markdown natively",
+				"title": "Markdown"
+			},
+			"slide": {
+				"subtitle": "Make a slide deck with a snap",
+				"title": "Slide Mode"
+			},
+			"book-mode": {
+				"subtitle": "Collect any note into a book",
+				"title": "Book Mode"
+			},
+			"hackmd-it": {
+				"subtitle": "GitHub / GitLab integration, instant access",
+				"title": "HackMD-it"
+			},
+			"diagram": {
+				"subtitle": "Create math formulas and UML with text",
+				"title": "MathJax & UML"
+			},
+			"image": {
+				"subtitle": "Drag and drop image, auto-upload",
+				"title": "Upload image"
+			},
+			"export": {
+				"subtitle": "Export to PDF, md, or html files",
+				"title": "Take it with you"
+			},
+			"tags": {
+				"subtitle": "Manage and search notes with tags",
+				"title": "Manage with tags"
+			}
+		},
+		"trustedBy": "Trusted By",
+		"plans": {
+			"title": "Plans",
+			"free": {
+				"1": "Unlimited notes",
+				"2": "Unlimited collaborators",
+				"3": "Email notification",
+				"4": "Use without login",
+				"title": "Free",
+				"subtitle": "Start open collaboration now.",
+				"start": "Start using"
+			},
+			"business": {
+				"1": "Single Sign-On or SAML login",
+				"2": "Role-based access control",
+				"3": "Unlimited team space",
+				"4": "Private image storage",
+				"ribbon": "Hot",
+				"title": "Business Plan",
+				"subtitle": "Customized access control for your use case.",
+				"btn-more": "More features",
+				"btn-contact": "We are interested"
+			},
+			"conf": {
+				"1": "Customized URL to your shared notes",
+				"2": "Team space for conference hosts",
+				"3": "Best practice training and sharing",
+				"4": "More customized options up to you",
+				"ribbon": "Free",
+				"title": "Conference Plan",
+				"subtitle": "Help you share knowledge is our mission.",
+				"contact": "Ask us anything"
+			}
+		},
+		"active-users": "Join 160,000+ active users! Come and love it"
+	},
+	"profile": {
+		"search": {
+			"placeholder": "Search notes..."
+		}
+	},
+	"overview": {
+		"search": {
+			"placeholder": "Search keyword or tag..."
+		}
+	},
+	"site": {
+		"meta": {
+			"description": "Ο καλύτερος τρόπος να γράψεις και να μοιραστείς την γνώση σου σε markdown.",
+			"og": {
+				"title-suffix": "Συνεργατικές σημειώσεις markdown",
+				"description": "Best way to write and share your knowledge in markdown."
+			},
+			"tw": {
+				"title-suffix": "Collaborative markdown notes",
+				"description": "Best way to write and share your knowledge in markdown."
+			}
+		},
+		"title-suffix": "Collaborative markdown notes"
+	},
+	"recent": {
+		"from-browser": "Παρακάτω είναι η ιστορία του περιηγητή",
+		"search": {
+			"tags": {
+				"placeholder": "Επιλέξτε ετικέτα..."
+			},
+			"keyword": {
+				"placeholder": "Αναζήτηση λέξης-κλειδί..."
+			}
+		},
+		"sort": {
+			"title": "Ταξινόμηση κατά τίτλο",
+			"time": "Ταξινόμηση κατά ώρα"
+		},
+		"title": "Τίτλος",
+		"time": "Ώρα",
+		"export": "Εξαγωγή ιστορίας",
+		"import": "Εισαγωγή ιστορίας",
+		"clear": "Καθαρισμός Ιστορίας",
+		"refresh": "Ανανέωση ιστορίας",
+		"empty": "Δεν υπάρχει ιστορία",
+		"import-browser": "Εισαγωγή απο τον περιηγητή"
+	}
+}

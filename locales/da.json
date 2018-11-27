@@ -1,0 +1,327 @@
+{
+	"revision": {
+		"revision": "Revisions",
+		"download": "Download",
+		"revert": "Fortryd ændringer"
+	},
+	"common": {
+		"cancel": "Afbryd",
+		"ok": "Okay"
+	},
+	"help": {
+		"title": "Hjælp",
+		"contact": {
+			"title": "Kontakter",
+			"messenger": "Talk to us",
+			"github": "Rapportér en fejl",
+			"email": "Send os en email",
+			"donate": "Buy us coffee"
+		},
+		"documents": "Dokumenter",
+		"features": "Funktionalitet",
+		"yaml-meta": "YAML Metadata",
+		"slide": "Præsentationseksempel",
+		"book": "Book Example",
+		"cheatsheet": "Snydeark",
+		"example": "Eksempel",
+		"syntax": {
+			"h1": "Overskrift",
+			"ul": "Uordnet Liste",
+			"ol": "Ordnet Liste",
+			"todo": "Tjekliste",
+			"blockquote": "Blokcitat",
+			"b": "Fed skrift",
+			"i": "Kursiv skrift",
+			"strike": "Gennemstregning",
+			"ins": "Indsat tekst",
+			"mark": "Markeret tekst",
+			"anchor": "Link",
+			"img": "Billede",
+			"code": "Kode",
+			"embeded": "Eksterne",
+			"alert": "Dette er et alarmområde."
+		}
+	},
+	"signin": {
+		"choose": "Vælg metode",
+		"via": "Log ind med %s"
+	},
+	"refresh": {
+		"title": "Denne side skal genindlæses",
+		"incompatible": {
+			"title": "Din klientversion er inkompatibel.",
+			"content": "Genindlæs for at opdatere."
+		},
+		"upgrade": {
+			"title": "Ny version tilgængelig!",
+			"note": "Se release notes her",
+			"content": "Genindlæs for at anvende ny funktionalitet."
+		},
+		"auth": {
+			"title": "Din brugerstatus er ændret.",
+			"content": "Genindlæs for at anvende ny brugerstatus."
+		},
+		"donate": "Buy us coffee",
+		"refresh": "Genindlæs"
+	},
+	"clipboard": {
+		"title": "Importér fra udklipsholder",
+		"content": "Indsæt din markdown eller hjemmeside her...",
+		"clear": "Ryd",
+		"import": "Importér"
+	},
+	"locked": {
+		"title": "Denne note er låst",
+		"content": "Beklager, men kun ejeren kan redigere denne note."
+	},
+	"limit": {
+		"title": "Nå grænsen",
+		"content1": "Beklager, du har nået grænsen for den maksimale længde denne note må være.",
+		"content2": "Vær venlig at begrænse indholdets mængde eller opdel det i flere noter, tak!"
+	},
+	"gist-import": {
+		"title": "Importér fra Gist",
+		"content": "Indsæt din gist-url her...",
+		"clear": "Clear",
+		"import": "Import"
+	},
+	"snippet-import": {
+		"title": "Importér fra Snippet",
+		"project": {
+			"placeholder": "Vælg fra tilgængelige projekter"
+		},
+		"snippet": {
+			"placeholder": "Vælg fra tilgængelige Snippets"
+		},
+		"eller": "ELLER",
+		"clear": "Clear",
+		"import": "Import"
+	},
+	"snippet-export": {
+		"title": "Eksportér til Snippet",
+		"project": {
+			"placeholder": "Select From Available Projects"
+		},
+		"visibility": {
+			"placeholder": "Vælg synlighedsniveau"
+		},
+		"export": "Eksportér"
+	},
+	"delete": {
+		"title": "Er du sikker?",
+		"yes": "Ja, gør det!"
+	},
+	"header": {
+		"extra": {
+			"title": "Ekstra",
+			"slide": "Præsentationstilstand",
+			"book": "Book Mode"
+		},
+		"revision": "Revisions",
+		"export": {
+			"title": "Export"
+		},
+		"import": {
+			"title": "Import",
+			"clipboard": "Udklipsholder"
+		},
+		"download": {
+			"title": "Download",
+			"raw-html": "Rå HTML"
+		},
+		"modes": {
+			"edit": "Redigér",
+			"both": "Begge",
+			"view": "Vis"
+		},
+		"help": "Help",
+		"image-upload": "Upload billede",
+		"menu": "Menu",
+		"enterprise-demo": "Demo of Enterprise Edition",
+		"new-note": "Ny note",
+		"new-team-note": "New team note",
+		"team-manage": "Manage team",
+		"profile": "Profile",
+		"feature": "Features",
+		"dashboard": "Dashboard",
+		"settings": "Settings",
+		"logout": "Log out",
+		"sign-in": "Sign in",
+		"team": "Team",
+		"overview": "Overview",
+		"intro": "Intro",
+		"recent": "Recent",
+		"manage": "Manage",
+		"new": "Ny",
+		"publish": "Publicér"
+	},
+	"footer": {
+		"product": "Product",
+		"enterprise": "Enterprise",
+		"templates": "Templates",
+		"open-source": "Open Source",
+		"resources": "Resources",
+		"features": "Features",
+		"tutorial": "Tutorial",
+		"faq": "FAQ",
+		"information": "Information",
+		"about": "About",
+		"blog": "Blog",
+		"company": "Company",
+		"privacy": "Privacy",
+		"tos": "Terms of Use",
+		"releases": "Releases",
+		"about-ee": "About {{name}}",
+		"about-hackmd": "About HackMD",
+		"coffee": "Buy us coffee",
+		"terms": "Terms",
+		"donate": "BUY US COFFEE"
+	},
+	"home": {
+		"enterprise": "Enterprise",
+		"slogan": "Build a community with open collaboration.",
+		"use-free": "Use for free",
+		"btn-between-or": "or",
+		"btn-sign-in": "Sign in",
+		"how-to-use": "How to use?",
+		"concept": {
+			"title": "Concept",
+			"subtitle": "Share all document / knowledge / information with your community.",
+			"note": "Create a note",
+			"collaborate": "Open collaborate",
+			"share": "Share and track"
+		},
+		"btn-try": "Try it",
+		"empowering": {
+			"1": "Real-time collaboration at scale",
+			"2": "Turn white papers and API specs into living documents.",
+			"3": "Create dedicated team space for each open source project.",
+			"title": "Empowering community"
+		},
+		"be-in-know": {
+			"1": "Bring all community discussions into one place.",
+			"2": "Get notified when the SINGLE source of truth changes.",
+			"3": "Search or roll back to any previous version.",
+			"title": "Be in the know"
+		},
+		"feature": {
+			"title": "Features"
+		},
+		"features": {
+			"markdown": {
+				"subtitle": "Write in markdown natively",
+				"title": "Markdown"
+			},
+			"slide": {
+				"subtitle": "Make a slide deck with a snap",
+				"title": "Slide Mode"
+			},
+			"book-mode": {
+				"subtitle": "Collect any note into a book",
+				"title": "Book Mode"
+			},
+			"hackmd-it": {
+				"subtitle": "GitHub / GitLab integration, instant access",
+				"title": "HackMD-it"
+			},
+			"diagram": {
+				"subtitle": "Create math formulas and UML with text",
+				"title": "MathJax & UML"
+			},
+			"image": {
+				"subtitle": "Drag and drop image, auto-upload",
+				"title": "Upload image"
+			},
+			"export": {
+				"subtitle": "Export to PDF, md, or html files",
+				"title": "Take it with you"
+			},
+			"tags": {
+				"subtitle": "Manage and search notes with tags",
+				"title": "Manage with tags"
+			}
+		},
+		"trustedBy": "Trusted By",
+		"plans": {
+			"title": "Plans",
+			"free": {
+				"1": "Unlimited notes",
+				"2": "Unlimited collaborators",
+				"3": "Email notification",
+				"4": "Use without login",
+				"title": "Free",
+				"subtitle": "Start open collaboration now.",
+				"start": "Start using"
+			},
+			"business": {
+				"1": "Single Sign-On or SAML login",
+				"2": "Role-based access control",
+				"3": "Unlimited team space",
+				"4": "Private image storage",
+				"ribbon": "Hot",
+				"title": "Business Plan",
+				"subtitle": "Customized access control for your use case.",
+				"btn-more": "More features",
+				"btn-contact": "We are interested"
+			},
+			"conf": {
+				"1": "Customized URL to your shared notes",
+				"2": "Team space for conference hosts",
+				"3": "Best practice training and sharing",
+				"4": "More customized options up to you",
+				"ribbon": "Free",
+				"title": "Conference Plan",
+				"subtitle": "Help you share knowledge is our mission.",
+				"contact": "Ask us anything"
+			}
+		},
+		"active-users": "Join 160,000+ active users! Come and love it"
+	},
+	"profile": {
+		"search": {
+			"placeholder": "Search notes..."
+		}
+	},
+	"overview": {
+		"search": {
+			"placeholder": "Search keyword or tag..."
+		}
+	},
+	"site": {
+		"meta": {
+			"description": "Bedste måde at skrive og dele din viden i markdown.",
+			"og": {
+				"title-suffix": "Kollaborative markdown-noter",
+				"description": "Best way to write and share your knowledge in markdown."
+			},
+			"tw": {
+				"title-suffix": "Collaborative markdown notes",
+				"description": "Best way to write and share your knowledge in markdown."
+			}
+		},
+		"title-suffix": "Collaborative markdown notes"
+	},
+	"recent": {
+		"from-browser": "Forneden findes historikken fra browseren",
+		"search": {
+			"tags": {
+				"placeholder": "Vælg tags..."
+			},
+			"keyword": {
+				"placeholder": "Søg nøgleord..."
+			}
+		},
+		"sort": {
+			"title": "Sortér titler",
+			"time": "Sortér kronologisk"
+		},
+		"title": "Titel",
+		"time": "Tid",
+		"export": "Eksportér historik",
+		"import": "Importér historik",
+		"clear": "Ryd hsitorik",
+		"refresh": "Genindlæs historik",
+		"empty": "Ingen historik",
+		"import-browser": "Importér fra browser"
+	}
+}

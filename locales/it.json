@@ -1,0 +1,327 @@
+{
+	"revision": {
+		"revision": "Revisions",
+		"download": "Scarica",
+		"revert": "Revert"
+	},
+	"common": {
+		"cancel": "Cancella",
+		"ok": "OK"
+	},
+	"help": {
+		"title": "Aiuto",
+		"contact": {
+			"title": "Contatti",
+			"messenger": "Talk to us",
+			"github": "Segnala un problema",
+			"email": "Inviaci una email",
+			"donate": "Buy us coffee"
+		},
+		"documents": "Documenti",
+		"features": "Caratteristiche",
+		"yaml-meta": "YAML Metadata",
+		"slide": "Esempio Slide",
+		"book": "Book Example",
+		"cheatsheet": "Cheatsheet",
+		"example": "Esempio",
+		"syntax": {
+			"h1": "Intestazione",
+			"ul": "Lista non ordinata",
+			"ol": "Lista ordinata",
+			"todo": "Elenco",
+			"blockquote": "Blockquote",
+			"b": "Grassetto",
+			"i": "Corsivo",
+			"strike": "Barrato",
+			"ins": "Sottolineato",
+			"mark": "Evidenziato",
+			"anchor": "Link",
+			"img": "Immagine",
+			"code": "Codice",
+			"embeded": "Esterno",
+			"alert": "Questa è un avviso."
+		}
+	},
+	"signin": {
+		"choose": "Scegli metodo",
+		"via": "Registrati con %s"
+	},
+	"refresh": {
+		"title": "Questa pagina deve essere aggiornata",
+		"incompatible": {
+			"title": "Hai una versione incompatibile.",
+			"content": "Ricarica per aggiornare."
+		},
+		"upgrade": {
+			"title": "Nuova versione disponibile!",
+			"note": "Vedi note di rilascio qui",
+			"content": "Ricarica per godere delle nuove funzioni."
+		},
+		"auth": {
+			"title": "Il tuo stato utente è cambiato.",
+			"content": "Aggiorna per caricare il nuovo stato utente."
+		},
+		"donate": "Buy us coffee",
+		"refresh": "Ricarica"
+	},
+	"clipboard": {
+		"title": "Imposta dagli Appunti",
+		"content": "Incollare il markdown o una pagina web qui...",
+		"clear": "Pulisci",
+		"import": "Importa"
+	},
+	"locked": {
+		"title": "Questa nota è bloccata",
+		"content": "Siamo spiacenti, solo il proprietario può modificare questa nota."
+	},
+	"limit": {
+		"title": "Limite raggiunto",
+		"content1": "Siamo spiacenti, hai raggiunto la lunghezza massima per questa nota.",
+		"content2": "Si prega di ridurre il contenuto o dividerlo in più note, grazie!"
+	},
+	"gist-import": {
+		"title": "Importa da Gist",
+		"content": "Incolla il tuo link gist qui...",
+		"clear": "Clear",
+		"import": "Import"
+	},
+	"snippet-import": {
+		"title": "Importa da Snippet",
+		"project": {
+			"placeholder": "Seleziona da progetti disponibili"
+		},
+		"snippet": {
+			"placeholder": "Seleziona da snippets disponibili"
+		},
+		"o": "O",
+		"clear": "Clear",
+		"import": "Import"
+	},
+	"snippet-export": {
+		"title": "Esporta Snippet",
+		"project": {
+			"placeholder": "Select From Available Projects"
+		},
+		"visibility": {
+			"placeholder": "Seleziona livello visibilità"
+		},
+		"export": "Esporta"
+	},
+	"delete": {
+		"title": "Sei sicuro?",
+		"yes": "SI, fallo!"
+	},
+	"header": {
+		"extra": {
+			"title": "Extra",
+			"slide": "Modalità slide",
+			"book": "Book Mode"
+		},
+		"revision": "Revisions",
+		"export": {
+			"title": "Export"
+		},
+		"import": {
+			"title": "Import",
+			"clipboard": "Appunti"
+		},
+		"download": {
+			"title": "Download",
+			"raw-html": "Raw HTML"
+		},
+		"modes": {
+			"edit": "Modifica",
+			"both": "Entrambi",
+			"view": "Visualizza"
+		},
+		"help": "Help",
+		"image-upload": "Carica Immagine",
+		"menu": "Menu",
+		"enterprise-demo": "Demo of Enterprise Edition",
+		"new-note": "Nuova nota",
+		"new-team-note": "New team note",
+		"team-manage": "Manage team",
+		"profile": "Profile",
+		"feature": "Features",
+		"dashboard": "Dashboard",
+		"settings": "Settings",
+		"logout": "Log out",
+		"sign-in": "Sign in",
+		"team": "Team",
+		"overview": "Overview",
+		"intro": "Intro",
+		"recent": "Recent",
+		"manage": "Manage",
+		"new": "Nuovo",
+		"publish": "Pubblica"
+	},
+	"footer": {
+		"product": "Product",
+		"enterprise": "Enterprise",
+		"templates": "Templates",
+		"open-source": "Open Source",
+		"resources": "Resources",
+		"features": "Features",
+		"tutorial": "Tutorial",
+		"faq": "FAQ",
+		"information": "Information",
+		"about": "About",
+		"blog": "Blog",
+		"company": "Company",
+		"privacy": "Privacy",
+		"tos": "Terms of Use",
+		"releases": "Versioni",
+		"about-ee": "About {{name}}",
+		"about-hackmd": "About HackMD",
+		"coffee": "Buy us coffee",
+		"terms": "Terms",
+		"donate": "BUY US COFFEE"
+	},
+	"home": {
+		"enterprise": "Enterprise",
+		"slogan": "Build a community with open collaboration.",
+		"use-free": "Use for free",
+		"btn-between-or": "or",
+		"btn-sign-in": "Sign in",
+		"how-to-use": "How to use?",
+		"concept": {
+			"title": "Concept",
+			"subtitle": "Share all document / knowledge / information with your community.",
+			"note": "Create a note",
+			"collaborate": "Open collaborate",
+			"share": "Share and track"
+		},
+		"btn-try": "Try it",
+		"empowering": {
+			"1": "Real-time collaboration at scale",
+			"2": "Turn white papers and API specs into living documents.",
+			"3": "Create dedicated team space for each open source project.",
+			"title": "Empowering community"
+		},
+		"be-in-know": {
+			"1": "Bring all community discussions into one place.",
+			"2": "Get notified when the SINGLE source of truth changes.",
+			"3": "Search or roll back to any previous version.",
+			"title": "Be in the know"
+		},
+		"feature": {
+			"title": "Features"
+		},
+		"features": {
+			"markdown": {
+				"subtitle": "Write in markdown natively",
+				"title": "Markdown"
+			},
+			"slide": {
+				"subtitle": "Make a slide deck with a snap",
+				"title": "Slide Mode"
+			},
+			"book-mode": {
+				"subtitle": "Collect any note into a book",
+				"title": "Book Mode"
+			},
+			"hackmd-it": {
+				"subtitle": "GitHub / GitLab integration, instant access",
+				"title": "HackMD-it"
+			},
+			"diagram": {
+				"subtitle": "Create math formulas and UML with text",
+				"title": "MathJax & UML"
+			},
+			"image": {
+				"subtitle": "Drag and drop image, auto-upload",
+				"title": "Upload image"
+			},
+			"export": {
+				"subtitle": "Export to PDF, md, or html files",
+				"title": "Take it with you"
+			},
+			"tags": {
+				"subtitle": "Manage and search notes with tags",
+				"title": "Manage with tags"
+			}
+		},
+		"trustedBy": "Trusted By",
+		"plans": {
+			"title": "Plans",
+			"free": {
+				"1": "Unlimited notes",
+				"2": "Unlimited collaborators",
+				"3": "Email notification",
+				"4": "Use without login",
+				"title": "Free",
+				"subtitle": "Start open collaboration now.",
+				"start": "Start using"
+			},
+			"business": {
+				"1": "Single Sign-On or SAML login",
+				"2": "Role-based access control",
+				"3": "Unlimited team space",
+				"4": "Private image storage",
+				"ribbon": "Hot",
+				"title": "Business Plan",
+				"subtitle": "Customized access control for your use case.",
+				"btn-more": "More features",
+				"btn-contact": "We are interested"
+			},
+			"conf": {
+				"1": "Customized URL to your shared notes",
+				"2": "Team space for conference hosts",
+				"3": "Best practice training and sharing",
+				"4": "More customized options up to you",
+				"ribbon": "Free",
+				"title": "Conference Plan",
+				"subtitle": "Help you share knowledge is our mission.",
+				"contact": "Ask us anything"
+			}
+		},
+		"active-users": "Join 160,000+ active users! Come and love it"
+	},
+	"profile": {
+		"search": {
+			"placeholder": "Search notes..."
+		}
+	},
+	"overview": {
+		"search": {
+			"placeholder": "Search keyword or tag..."
+		}
+	},
+	"site": {
+		"meta": {
+			"description": "Miglior modo per scrivere e condividere le tue conoscenze in markdown.",
+			"og": {
+				"title-suffix": "Note collaborative in markdown",
+				"description": "Best way to write and share your knowledge in markdown."
+			},
+			"tw": {
+				"title-suffix": "Collaborative markdown notes",
+				"description": "Best way to write and share your knowledge in markdown."
+			}
+		},
+		"title-suffix": "Collaborative markdown notes"
+	},
+	"recent": {
+		"from-browser": "Below is the history from browser",
+		"search": {
+			"tags": {
+				"placeholder": "Seleziona tag..."
+			},
+			"keyword": {
+				"placeholder": "Cerca..."
+			}
+		},
+		"sort": {
+			"title": "Ordina per titolo",
+			"time": "Ordina per data"
+		},
+		"title": "Titolo",
+		"time": "Data",
+		"export": "Esporta cronologia",
+		"import": "Importa cronologia",
+		"clear": "Cancella cronologia",
+		"refresh": "Aggiorna cronologia",
+		"empty": "Nessuna cronologia",
+		"import-browser": "Importa da browser"
+	}
+}

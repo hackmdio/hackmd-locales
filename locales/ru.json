@@ -1,0 +1,327 @@
+{
+	"revision": {
+		"revision": "Revisions",
+		"download": "Скачать",
+		"revert": "Отменить"
+	},
+	"common": {
+		"cancel": "Отмена",
+		"ok": "OK"
+	},
+	"help": {
+		"title": "Помощь",
+		"contact": {
+			"title": "Контакты",
+			"messenger": "Talk to us",
+			"github": "Сообщить о проблеме",
+			"email": "Отправить нам письмо",
+			"donate": "Buy us coffee"
+		},
+		"documents": "Документы",
+		"features": "Особенности",
+		"yaml-meta": "Метаданные YAML",
+		"slide": "Пример слайдера",
+		"book": "Book Example",
+		"cheatsheet": "Шпаргалка",
+		"example": "Пример",
+		"syntax": {
+			"h1": "Заголовок",
+			"ul": "Маркированный список",
+			"ol": "Нумерованный список",
+			"todo": "Список дел",
+			"blockquote": "Цитата",
+			"b": "Жирный шрифт",
+			"i": "Курсив",
+			"strike": "Зачеркнутый",
+			"ins": "Подчеркнутый текст",
+			"mark": "Выделенный текст",
+			"anchor": "Ссылка",
+			"img": "Изображение",
+			"code": "Код",
+			"embeded": "Внешнее",
+			"alert": "Это уведомление."
+		}
+	},
+	"signin": {
+		"choose": "Выберите метод",
+		"via": "Войти с помощью %s"
+	},
+	"refresh": {
+		"title": "Эту страницу необходимо обновить",
+		"incompatible": {
+			"title": "Вы используете несовместимую версию клиента.",
+			"content": "Обновите страницу для обновления клиента."
+		},
+		"upgrade": {
+			"title": "Доступна новая версия!",
+			"note": "Смотрите подробности обновлений здесь",
+			"content": "Обновите, чтобы наслаждаться новыми возможностями."
+		},
+		"auth": {
+			"title": "Ваш аккаунт изменен.",
+			"content": "Обновите, чтобы загрузить изменения аккаунта."
+		},
+		"donate": "Buy us coffee",
+		"refresh": "Обновить"
+	},
+	"clipboard": {
+		"title": "Импорт из буфера обмена",
+		"content": "Вставьте ваш markdown код или веб-страницу здесь...",
+		"clear": "Очистить",
+		"import": "Импорт"
+	},
+	"locked": {
+		"title": "Эта заметка заблокирована",
+		"content": "К сожалению, только автор может редактировать эту заметку."
+	},
+	"limit": {
+		"title": "Вы достигли лимита",
+		"content1": "К сожалению, вы достигли максимальной длины заметки.",
+		"content2": "Пожалуйста, уменьшите размер содержимого или разделите его на несколько заметок, спасибо!"
+	},
+	"gist-import": {
+		"title": "Импорт из Gist",
+		"content": "Вставьте ссылку на ваш gist здесь...",
+		"clear": "Clear",
+		"import": "Import"
+	},
+	"snippet-import": {
+		"title": "Импорт фрагмента кода",
+		"project": {
+			"placeholder": "Выберите из доступных проектов"
+		},
+		"snippet": {
+			"placeholder": "Выберите из доступных фрагментов кода"
+		},
+		"или": "ИЛИ",
+		"clear": "Clear",
+		"import": "Import"
+	},
+	"snippet-export": {
+		"title": "Экспорт фрагмента кода",
+		"project": {
+			"placeholder": "Select From Available Projects"
+		},
+		"visibility": {
+			"placeholder": "Выберите уровень видимости"
+		},
+		"export": "Экспорт"
+	},
+	"delete": {
+		"title": "Вы уверены?",
+		"yes": "Да, сделать это!"
+	},
+	"header": {
+		"extra": {
+			"title": "Дополнительно",
+			"slide": "Режим слайдера",
+			"book": "Book Mode"
+		},
+		"revision": "Revisions",
+		"export": {
+			"title": "Export"
+		},
+		"import": {
+			"title": "Import",
+			"clipboard": "Буфер обмена"
+		},
+		"download": {
+			"title": "Download",
+			"raw-html": "Raw HTML"
+		},
+		"modes": {
+			"edit": "Редактировать",
+			"both": "И то и другое",
+			"view": "Посмотреть"
+		},
+		"help": "Help",
+		"image-upload": "Загрузить изображение",
+		"menu": "Меню",
+		"enterprise-demo": "Demo of Enterprise Edition",
+		"new-note": "Новая заметка",
+		"new-team-note": "New team note",
+		"team-manage": "Manage team",
+		"profile": "Profile",
+		"feature": "Features",
+		"dashboard": "Dashboard",
+		"settings": "Settings",
+		"logout": "Log out",
+		"sign-in": "Sign in",
+		"team": "Team",
+		"overview": "Overview",
+		"intro": "Введение",
+		"recent": "Recent",
+		"manage": "Manage",
+		"new": "Новая",
+		"publish": "Опубликовать"
+	},
+	"footer": {
+		"product": "Product",
+		"enterprise": "Enterprise",
+		"templates": "Templates",
+		"open-source": "Open Source",
+		"resources": "Resources",
+		"features": "Features",
+		"tutorial": "Tutorial",
+		"faq": "FAQ",
+		"information": "Information",
+		"about": "About",
+		"blog": "Blog",
+		"company": "Company",
+		"privacy": "Privacy",
+		"tos": "Terms of Use",
+		"releases": "Релизы",
+		"about-ee": "About {{name}}",
+		"about-hackmd": "About HackMD",
+		"coffee": "Buy us coffee",
+		"terms": "Terms",
+		"donate": "BUY US COFFEE"
+	},
+	"home": {
+		"enterprise": "Enterprise",
+		"slogan": "Build a community with open collaboration.",
+		"use-free": "Use for free",
+		"btn-between-or": "or",
+		"btn-sign-in": "Sign in",
+		"how-to-use": "How to use?",
+		"concept": {
+			"title": "Concept",
+			"subtitle": "Share all document / knowledge / information with your community.",
+			"note": "Create a note",
+			"collaborate": "Open collaborate",
+			"share": "Share and track"
+		},
+		"btn-try": "Try it",
+		"empowering": {
+			"1": "Real-time collaboration at scale",
+			"2": "Turn white papers and API specs into living documents.",
+			"3": "Create dedicated team space for each open source project.",
+			"title": "Empowering community"
+		},
+		"be-in-know": {
+			"1": "Bring all community discussions into one place.",
+			"2": "Get notified when the SINGLE source of truth changes.",
+			"3": "Search or roll back to any previous version.",
+			"title": "Be in the know"
+		},
+		"feature": {
+			"title": "Features"
+		},
+		"features": {
+			"markdown": {
+				"subtitle": "Write in markdown natively",
+				"title": "Markdown"
+			},
+			"slide": {
+				"subtitle": "Make a slide deck with a snap",
+				"title": "Slide Mode"
+			},
+			"book-mode": {
+				"subtitle": "Collect any note into a book",
+				"title": "Book Mode"
+			},
+			"hackmd-it": {
+				"subtitle": "GitHub / GitLab integration, instant access",
+				"title": "HackMD-it"
+			},
+			"diagram": {
+				"subtitle": "Create math formulas and UML with text",
+				"title": "MathJax & UML"
+			},
+			"image": {
+				"subtitle": "Drag and drop image, auto-upload",
+				"title": "Upload image"
+			},
+			"export": {
+				"subtitle": "Export to PDF, md, or html files",
+				"title": "Take it with you"
+			},
+			"tags": {
+				"subtitle": "Manage and search notes with tags",
+				"title": "Manage with tags"
+			}
+		},
+		"trustedBy": "Trusted By",
+		"plans": {
+			"title": "Plans",
+			"free": {
+				"1": "Unlimited notes",
+				"2": "Unlimited collaborators",
+				"3": "Email notification",
+				"4": "Use without login",
+				"title": "Free",
+				"subtitle": "Start open collaboration now.",
+				"start": "Start using"
+			},
+			"business": {
+				"1": "Single Sign-On or SAML login",
+				"2": "Role-based access control",
+				"3": "Unlimited team space",
+				"4": "Private image storage",
+				"ribbon": "Hot",
+				"title": "Business Plan",
+				"subtitle": "Customized access control for your use case.",
+				"btn-more": "More features",
+				"btn-contact": "We are interested"
+			},
+			"conf": {
+				"1": "Customized URL to your shared notes",
+				"2": "Team space for conference hosts",
+				"3": "Best practice training and sharing",
+				"4": "More customized options up to you",
+				"ribbon": "Free",
+				"title": "Conference Plan",
+				"subtitle": "Help you share knowledge is our mission.",
+				"contact": "Ask us anything"
+			}
+		},
+		"active-users": "Join 160,000+ active users! Come and love it"
+	},
+	"profile": {
+		"search": {
+			"placeholder": "Search notes..."
+		}
+	},
+	"overview": {
+		"search": {
+			"placeholder": "Search keyword or tag..."
+		}
+	},
+	"site": {
+		"meta": {
+			"description": "Лучший способ, чтобы записывать и делиться своими знаниями markdown.",
+			"og": {
+				"title-suffix": "Совместные markdown заметки",
+				"description": "Best way to write and share your knowledge in markdown."
+			},
+			"tw": {
+				"title-suffix": "Collaborative markdown notes",
+				"description": "Best way to write and share your knowledge in markdown."
+			}
+		},
+		"title-suffix": "Collaborative markdown notes"
+	},
+	"recent": {
+		"from-browser": "Ниже приводится история браузера",
+		"search": {
+			"tags": {
+				"placeholder": "Выберите теги..."
+			},
+			"keyword": {
+				"placeholder": "Поиск..."
+			}
+		},
+		"sort": {
+			"title": "Сортировка по заголовку",
+			"time": "Сортировка по времени"
+		},
+		"title": "Заголовок",
+		"time": "Время",
+		"export": "Экспорт истории",
+		"import": "Импорт истории",
+		"clear": "Очистить историю",
+		"refresh": "Обновить историю",
+		"empty": "Нет истории",
+		"import-browser": "Импорт из браузера"
+	}
+}

@@ -1,0 +1,327 @@
+{
+	"revision": {
+		"revision": "Revisions",
+		"download": "डाउनलोड",
+		"revert": "वापस करें"
+	},
+	"common": {
+		"cancel": "रद्द करे",
+		"ok": "ठीक"
+	},
+	"help": {
+		"title": "मदद",
+		"contact": {
+			"title": "संपर्क",
+			"messenger": "Talk to us",
+			"github": "मामले की रिपोर्ट करें",
+			"email": "हमें ईमेल भेजें",
+			"donate": "Buy us coffee"
+		},
+		"documents": "दस्तावेज़",
+		"features": "विशेषताएं",
+		"yaml-meta": "YAML मेटाडाटा",
+		"slide": "स्लाइड उदाहरण",
+		"book": "Book Example",
+		"cheatsheet": "प्रवंचक पत्रक",
+		"example": "उदाहरण",
+		"syntax": {
+			"h1": "हैडर",
+			"ul": "अव्यवस्थित सूची",
+			"ol": "आदेश सूची",
+			"todo": "करने के लिए सूची",
+			"blockquote": "ब्लॉककोट",
+			"b": "बोल्ड फ़ॉन्ट",
+			"i": "इटालिक फ़ॉन्ट",
+			"strike": "स्ट्राइकथ्रू",
+			"ins": "डाला गया टेक्स्ट",
+			"mark": "निशान किया हुआ टेक्स्ट",
+			"anchor": "लिंक",
+			"img": "तस्वीर",
+			"code": "कोड",
+			"embeded": "बाहरी",
+			"alert": "यह एक चेतावनी क्षेत्र है।"
+		}
+	},
+	"signin": {
+		"choose": "विधि चुनें",
+		"via": "%s के माध्यम से साइन इन करें"
+	},
+	"refresh": {
+		"title": "इस पेज को ताजा करने की जरूरत है",
+		"incompatible": {
+			"title": "आप एक असंगत ग्राहक संस्करण है।",
+			"content": "अद्यतन करने के लिए ताज़ा करें।"
+		},
+		"upgrade": {
+			"title": "नया संस्करण उपलब्ध है!",
+			"note": "यहाँ रिलीज़ नोट देखें ",
+			"content": "नई सुविधाओं का आनंद करने के लिए ताज़ा करें।"
+		},
+		"auth": {
+			"title": "आपका उपयोगकर्ता राज्य बदल गया है।",
+			"content": "नई उपयोगकर्ता राज्य लोड करने के लिए ताज़ा करें।"
+		},
+		"donate": "Buy us coffee",
+		"refresh": "ताज़ा करे"
+	},
+	"clipboard": {
+		"title": "क्लिपबोर्ड से आयात",
+		"content": "यहाँ अपने मार्कडॉऊन या वेब पेज पेस्ट करें ...",
+		"clear": "साफ़ करें",
+		"import": "आयात"
+	},
+	"locked": {
+		"title": "इस नोट को बंद कर दिया है",
+		"content": "क्षमा करें, केवल मालिक इस नोट को संपादित कर सकते हैं।"
+	},
+	"limit": {
+		"title": "सीमा तक पहुँचना",
+		"content1": "क्षमा करें, आप इस नोट की अधिकतम लंबाई तक पहुँच गए हैं।",
+		"content2": "सामग्री को कम करें या इसे और अधिक नोटों में विभाजित करें, धन्यवाद!"
+	},
+	"gist-import": {
+		"title": "Gist से आयात करें",
+		"content": "यहाँ अपना gist यूआरएल पेस्ट करें ...",
+		"clear": "Clear",
+		"import": "Import"
+	},
+	"snippet-import": {
+		"title": "स्निपेट से आयात करें",
+		"project": {
+			"placeholder": "उपलब्ध परियोजनाओं से चयन करें"
+		},
+		"snippet": {
+			"placeholder": "उपलब्ध स्निपेट से चयन करें"
+		},
+		"या": "या",
+		"clear": "Clear",
+		"import": "Import"
+	},
+	"snippet-export": {
+		"title": "स्निपेट में निर्यात",
+		"project": {
+			"placeholder": "Select From Available Projects"
+		},
+		"visibility": {
+			"placeholder": "दृश्यता के स्तर का चयन"
+		},
+		"export": "निर्यात"
+	},
+	"delete": {
+		"title": "क्या आपको यकीन है?",
+		"yes": "हाँ करो इसे!"
+	},
+	"header": {
+		"extra": {
+			"title": "अतिरिक्त",
+			"slide": "स्लाइड मोड",
+			"book": "Book Mode"
+		},
+		"revision": "Revisions",
+		"export": {
+			"title": "Export"
+		},
+		"import": {
+			"title": "Import",
+			"clipboard": "क्लिपबोर्ड"
+		},
+		"download": {
+			"title": "Download",
+			"raw-html": "सिर्फ एच टी एम एल"
+		},
+		"modes": {
+			"edit": "संपादित करें",
+			"both": "दोनों",
+			"view": "देखें"
+		},
+		"help": "Help",
+		"image-upload": "तस्वीर डालिये",
+		"menu": "मेन्यू",
+		"enterprise-demo": "Demo of Enterprise Edition",
+		"new-note": "नया नोट",
+		"new-team-note": "New team note",
+		"team-manage": "Manage team",
+		"profile": "Profile",
+		"feature": "Features",
+		"dashboard": "Dashboard",
+		"settings": "Settings",
+		"logout": "Log out",
+		"sign-in": "Sign in",
+		"team": "Team",
+		"overview": "Overview",
+		"intro": "परिचय",
+		"recent": "Recent",
+		"manage": "Manage",
+		"new": "नया",
+		"publish": "प्रकाशित करें"
+	},
+	"footer": {
+		"product": "Product",
+		"enterprise": "Enterprise",
+		"templates": "Templates",
+		"open-source": "Open Source",
+		"resources": "Resources",
+		"features": "Features",
+		"tutorial": "Tutorial",
+		"faq": "FAQ",
+		"information": "Information",
+		"about": "About",
+		"blog": "Blog",
+		"company": "Company",
+		"privacy": "Privacy",
+		"tos": "Terms of Use",
+		"releases": "विज्ञप्ति",
+		"about-ee": "About {{name}}",
+		"about-hackmd": "About HackMD",
+		"coffee": "Buy us coffee",
+		"terms": "Terms",
+		"donate": "BUY US COFFEE"
+	},
+	"home": {
+		"enterprise": "Enterprise",
+		"slogan": "Build a community with open collaboration.",
+		"use-free": "Use for free",
+		"btn-between-or": "or",
+		"btn-sign-in": "Sign in",
+		"how-to-use": "How to use?",
+		"concept": {
+			"title": "Concept",
+			"subtitle": "Share all document / knowledge / information with your community.",
+			"note": "Create a note",
+			"collaborate": "Open collaborate",
+			"share": "Share and track"
+		},
+		"btn-try": "Try it",
+		"empowering": {
+			"1": "Real-time collaboration at scale",
+			"2": "Turn white papers and API specs into living documents.",
+			"3": "Create dedicated team space for each open source project.",
+			"title": "Empowering community"
+		},
+		"be-in-know": {
+			"1": "Bring all community discussions into one place.",
+			"2": "Get notified when the SINGLE source of truth changes.",
+			"3": "Search or roll back to any previous version.",
+			"title": "Be in the know"
+		},
+		"feature": {
+			"title": "Features"
+		},
+		"features": {
+			"markdown": {
+				"subtitle": "Write in markdown natively",
+				"title": "Markdown"
+			},
+			"slide": {
+				"subtitle": "Make a slide deck with a snap",
+				"title": "Slide Mode"
+			},
+			"book-mode": {
+				"subtitle": "Collect any note into a book",
+				"title": "Book Mode"
+			},
+			"hackmd-it": {
+				"subtitle": "GitHub / GitLab integration, instant access",
+				"title": "HackMD-it"
+			},
+			"diagram": {
+				"subtitle": "Create math formulas and UML with text",
+				"title": "MathJax & UML"
+			},
+			"image": {
+				"subtitle": "Drag and drop image, auto-upload",
+				"title": "Upload image"
+			},
+			"export": {
+				"subtitle": "Export to PDF, md, or html files",
+				"title": "Take it with you"
+			},
+			"tags": {
+				"subtitle": "Manage and search notes with tags",
+				"title": "Manage with tags"
+			}
+		},
+		"trustedBy": "Trusted By",
+		"plans": {
+			"title": "Plans",
+			"free": {
+				"1": "Unlimited notes",
+				"2": "Unlimited collaborators",
+				"3": "Email notification",
+				"4": "Use without login",
+				"title": "Free",
+				"subtitle": "Start open collaboration now.",
+				"start": "Start using"
+			},
+			"business": {
+				"1": "Single Sign-On or SAML login",
+				"2": "Role-based access control",
+				"3": "Unlimited team space",
+				"4": "Private image storage",
+				"ribbon": "Hot",
+				"title": "Business Plan",
+				"subtitle": "Customized access control for your use case.",
+				"btn-more": "More features",
+				"btn-contact": "We are interested"
+			},
+			"conf": {
+				"1": "Customized URL to your shared notes",
+				"2": "Team space for conference hosts",
+				"3": "Best practice training and sharing",
+				"4": "More customized options up to you",
+				"ribbon": "Free",
+				"title": "Conference Plan",
+				"subtitle": "Help you share knowledge is our mission.",
+				"contact": "Ask us anything"
+			}
+		},
+		"active-users": "Join 160,000+ active users! Come and love it"
+	},
+	"profile": {
+		"search": {
+			"placeholder": "Search notes..."
+		}
+	},
+	"overview": {
+		"search": {
+			"placeholder": "Search keyword or tag..."
+		}
+	},
+	"site": {
+		"meta": {
+			"description": "मार्कडॉऊन में लिखने के लिए और अपना ज्ञान शेयर करने का सबसे अच्छा तरीका",
+			"og": {
+				"title-suffix": "सहयोगात्मक मार्कडॉऊन नोट्स",
+				"description": "Best way to write and share your knowledge in markdown."
+			},
+			"tw": {
+				"title-suffix": "Collaborative markdown notes",
+				"description": "Best way to write and share your knowledge in markdown."
+			}
+		},
+		"title-suffix": "Collaborative markdown notes"
+	},
+	"recent": {
+		"from-browser": "नीचे ब्राउज़र से इतिहास है",
+		"search": {
+			"tags": {
+				"placeholder": "टैग का चयन करें ..."
+			},
+			"keyword": {
+				"placeholder": "मुख्य शब्द ढूंडो..."
+			}
+		},
+		"sort": {
+			"title": "शीर्षक द्वारा क्रमबद्ध करें",
+			"time": "समय के अनुसार क्रमबद्ध करें"
+		},
+		"title": "शीर्षक",
+		"time": "समय",
+		"export": "इतिहास को निर्यात करें",
+		"import": "इतिहास को आयात करें",
+		"clear": "इतिहास मिटा दें",
+		"refresh": "इतिहास ताज़ा करे",
+		"empty": "इतिहास न रखें",
+		"import-browser": "ब्राउज़र से आयात"
+	}
+}

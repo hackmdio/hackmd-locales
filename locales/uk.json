@@ -1,0 +1,327 @@
+{
+	"revision": {
+		"revision": "Revisions",
+		"download": "Завантажити",
+		"revert": "Відмінити"
+	},
+	"common": {
+		"cancel": "Відмінити",
+		"ok": "OK"
+	},
+	"help": {
+		"title": "Допомога",
+		"contact": {
+			"title": "Контакти",
+			"messenger": "Talk to us",
+			"github": "Повідомити про проблему",
+			"email": "Відправити нам лист",
+			"donate": "Buy us coffee"
+		},
+		"documents": "Документи",
+		"features": "Можливості",
+		"yaml-meta": "Метадані YAML",
+		"slide": "Приклад слайдера",
+		"book": "Book Example",
+		"cheatsheet": "Шпаргалка",
+		"example": "Приклад",
+		"syntax": {
+			"h1": "Заголовок",
+			"ul": "Маркований список",
+			"ol": "Нумерований список",
+			"todo": "Список завдань",
+			"blockquote": "Цитата",
+			"b": "Жирний шрифт",
+			"i": "Курсив",
+			"strike": "Перекреслений",
+			"ins": "Підкреслений текст",
+			"mark": "Виділений текст",
+			"anchor": "Посилання",
+			"img": "Зображення",
+			"code": "Код",
+			"embeded": "Зовнішнє",
+			"alert": "Це область повідомлення."
+		}
+	},
+	"signin": {
+		"choose": "Вибрати метод",
+		"via": "Увійти за допомогою %s"
+	},
+	"refresh": {
+		"title": "Цю сторінку необхідно обновити",
+		"incompatible": {
+			"title": "Ви використовуєте несумісну версію клієнта.",
+			"content": "Оновіть сторінку для оновлення."
+		},
+		"upgrade": {
+			"title": "Нова версія доступна!",
+			"note": "Огляньте деталі оновлень тут",
+			"content": "Оновіть, щоб насолоджуватись новими можливостями."
+		},
+		"auth": {
+			"title": "Ваш акаунт змінено.",
+			"content": "Оновіть, щоб завантажити зміни акаунта."
+		},
+		"donate": "Buy us coffee",
+		"refresh": "Оновити"
+	},
+	"clipboard": {
+		"title": "Імпорт з буферу обміну",
+		"content": "Вставте ваш markdown або веб-сторінку тут...",
+		"clear": "Очистити",
+		"import": "Імпорт"
+	},
+	"locked": {
+		"title": "Ця замітка заблокована",
+		"content": "Вибачте, лише власник може редагувати цю замітку."
+	},
+	"limit": {
+		"title": "Досягнено ліміту",
+		"content1": "Нажаль, ви досягли максимальної довжини замітки.",
+		"content2": "Будь-ласка, зменшіть розмір вмісту або розділіть його на декілька заміток!"
+	},
+	"gist-import": {
+		"title": "Імпортувати з Gist",
+		"content": "Вставте посилання на ваш gist тут...",
+		"clear": "Clear",
+		"import": "Import"
+	},
+	"snippet-import": {
+		"title": "Імпортувати фрагмент коду",
+		"project": {
+			"placeholder": "Виберіть з доступних проектів"
+		},
+		"snippet": {
+			"placeholder": "Виберіть з доступних фрагментів коду"
+		},
+		"або": "АБО",
+		"clear": "Clear",
+		"import": "Import"
+	},
+	"snippet-export": {
+		"title": "Експорт фрагменту коду",
+		"project": {
+			"placeholder": "Select From Available Projects"
+		},
+		"visibility": {
+			"placeholder": "Вибрати рівень видимості"
+		},
+		"export": "Експорт"
+	},
+	"delete": {
+		"title": "Ви впевнені?",
+		"yes": "Так, зробити це!"
+	},
+	"header": {
+		"extra": {
+			"title": "Дотатково",
+			"slide": "Режим слайдера",
+			"book": "Book Mode"
+		},
+		"revision": "Revisions",
+		"export": {
+			"title": "Export"
+		},
+		"import": {
+			"title": "Import",
+			"clipboard": "Буфер обміну"
+		},
+		"download": {
+			"title": "Download",
+			"raw-html": "Raw HTML"
+		},
+		"modes": {
+			"edit": "Редагувати",
+			"both": "Обоє",
+			"view": "Вигляд"
+		},
+		"help": "Help",
+		"image-upload": "Завантажити зображення",
+		"menu": "Меню",
+		"enterprise-demo": "Demo of Enterprise Edition",
+		"new-note": "Нова примітка",
+		"new-team-note": "New team note",
+		"team-manage": "Manage team",
+		"profile": "Profile",
+		"feature": "Features",
+		"dashboard": "Dashboard",
+		"settings": "Settings",
+		"logout": "Log out",
+		"sign-in": "Sign in",
+		"team": "Team",
+		"overview": "Overview",
+		"intro": "Вступ",
+		"recent": "Recent",
+		"manage": "Manage",
+		"new": "Нова",
+		"publish": "Опублікувати"
+	},
+	"footer": {
+		"product": "Product",
+		"enterprise": "Enterprise",
+		"templates": "Templates",
+		"open-source": "Open Source",
+		"resources": "Resources",
+		"features": "Features",
+		"tutorial": "Tutorial",
+		"faq": "FAQ",
+		"information": "Information",
+		"about": "About",
+		"blog": "Blog",
+		"company": "Company",
+		"privacy": "Privacy",
+		"tos": "Terms of Use",
+		"releases": "Релізи",
+		"about-ee": "About {{name}}",
+		"about-hackmd": "About HackMD",
+		"coffee": "Buy us coffee",
+		"terms": "Terms",
+		"donate": "BUY US COFFEE"
+	},
+	"home": {
+		"enterprise": "Enterprise",
+		"slogan": "Build a community with open collaboration.",
+		"use-free": "Use for free",
+		"btn-between-or": "or",
+		"btn-sign-in": "Sign in",
+		"how-to-use": "How to use?",
+		"concept": {
+			"title": "Concept",
+			"subtitle": "Share all document / knowledge / information with your community.",
+			"note": "Create a note",
+			"collaborate": "Open collaborate",
+			"share": "Share and track"
+		},
+		"btn-try": "Try it",
+		"empowering": {
+			"1": "Real-time collaboration at scale",
+			"2": "Turn white papers and API specs into living documents.",
+			"3": "Create dedicated team space for each open source project.",
+			"title": "Empowering community"
+		},
+		"be-in-know": {
+			"1": "Bring all community discussions into one place.",
+			"2": "Get notified when the SINGLE source of truth changes.",
+			"3": "Search or roll back to any previous version.",
+			"title": "Be in the know"
+		},
+		"feature": {
+			"title": "Features"
+		},
+		"features": {
+			"markdown": {
+				"subtitle": "Write in markdown natively",
+				"title": "Markdown"
+			},
+			"slide": {
+				"subtitle": "Make a slide deck with a snap",
+				"title": "Slide Mode"
+			},
+			"book-mode": {
+				"subtitle": "Collect any note into a book",
+				"title": "Book Mode"
+			},
+			"hackmd-it": {
+				"subtitle": "GitHub / GitLab integration, instant access",
+				"title": "HackMD-it"
+			},
+			"diagram": {
+				"subtitle": "Create math formulas and UML with text",
+				"title": "MathJax & UML"
+			},
+			"image": {
+				"subtitle": "Drag and drop image, auto-upload",
+				"title": "Upload image"
+			},
+			"export": {
+				"subtitle": "Export to PDF, md, or html files",
+				"title": "Take it with you"
+			},
+			"tags": {
+				"subtitle": "Manage and search notes with tags",
+				"title": "Manage with tags"
+			}
+		},
+		"trustedBy": "Trusted By",
+		"plans": {
+			"title": "Plans",
+			"free": {
+				"1": "Unlimited notes",
+				"2": "Unlimited collaborators",
+				"3": "Email notification",
+				"4": "Use without login",
+				"title": "Free",
+				"subtitle": "Start open collaboration now.",
+				"start": "Start using"
+			},
+			"business": {
+				"1": "Single Sign-On or SAML login",
+				"2": "Role-based access control",
+				"3": "Unlimited team space",
+				"4": "Private image storage",
+				"ribbon": "Hot",
+				"title": "Business Plan",
+				"subtitle": "Customized access control for your use case.",
+				"btn-more": "More features",
+				"btn-contact": "We are interested"
+			},
+			"conf": {
+				"1": "Customized URL to your shared notes",
+				"2": "Team space for conference hosts",
+				"3": "Best practice training and sharing",
+				"4": "More customized options up to you",
+				"ribbon": "Free",
+				"title": "Conference Plan",
+				"subtitle": "Help you share knowledge is our mission.",
+				"contact": "Ask us anything"
+			}
+		},
+		"active-users": "Join 160,000+ active users! Come and love it"
+	},
+	"profile": {
+		"search": {
+			"placeholder": "Search notes..."
+		}
+	},
+	"overview": {
+		"search": {
+			"placeholder": "Search keyword or tag..."
+		}
+	},
+	"site": {
+		"meta": {
+			"description": "Кращий спосіб, щоб записувати і ділитись своїми знаннями щодо знижок в реальному часі.",
+			"og": {
+				"title-suffix": "Спільні примітки щодо знижок",
+				"description": "Best way to write and share your knowledge in markdown."
+			},
+			"tw": {
+				"title-suffix": "Collaborative markdown notes",
+				"description": "Best way to write and share your knowledge in markdown."
+			}
+		},
+		"title-suffix": "Collaborative markdown notes"
+	},
+	"recent": {
+		"from-browser": "Нижче показана історія браузера",
+		"search": {
+			"tags": {
+				"placeholder": "Вибрати теги..."
+			},
+			"keyword": {
+				"placeholder": "Пошук..."
+			}
+		},
+		"sort": {
+			"title": "Сортувати по заголовку",
+			"time": "Сортувати по часу"
+		},
+		"title": "Заголовок",
+		"time": "Час",
+		"export": "Еспортувати історію",
+		"import": "Імпортувати історію",
+		"clear": "Очистити історію",
+		"refresh": "Оновити історію",
+		"empty": "Історія відсутня",
+		"import-browser": "Імпортувати з браузера"
+	}
+}

@@ -1,0 +1,327 @@
+{
+	"revision": {
+		"revision": "Revisions",
+		"download": "Preuzimanje",
+		"revert": "Vrati"
+	},
+	"common": {
+		"cancel": "Odustani",
+		"ok": "OK"
+	},
+	"help": {
+		"title": "Pomoć",
+		"contact": {
+			"title": "Kontakti",
+			"messenger": "Talk to us",
+			"github": "Prijavi problem",
+			"email": "Pošalji nam email",
+			"donate": "Buy us coffee"
+		},
+		"documents": "Dokumenti",
+		"features": "Značajke",
+		"yaml-meta": "YAML Metadata",
+		"slide": "Primjer slajda",
+		"book": "Book Example",
+		"cheatsheet": "Cheatsheet",
+		"example": "Primjer",
+		"syntax": {
+			"h1": "Zaglavlje",
+			"ul": "Neuređeni popis",
+			"ol": "Uređeni popis",
+			"todo": "Popis obaveza",
+			"blockquote": "Blockquote",
+			"b": "Bold font",
+			"i": "Kurzivan font",
+			"strike": "Precrtano",
+			"ins": "Umetnuti tekst",
+			"mark": "Označeni tekst",
+			"anchor": "Link",
+			"img": "Slika",
+			"code": "Kod",
+			"embeded": "Vanjski izgled",
+			"alert": "Ovo je područje upozorenja."
+		}
+	},
+	"signin": {
+		"choose": "Izaberi metodu",
+		"via": "Prijavi se pomoću %s"
+	},
+	"refresh": {
+		"title": "Ovu stranicu je potrebno osvježiti",
+		"incompatible": {
+			"title": "Imate nekompatibilnu verziju klijenta.",
+			"content": "Osvježite za ažuriranje."
+		},
+		"upgrade": {
+			"title": "Nova verzija dostupna!",
+			"note": "Pogledajte bilješke izdanja ovdje",
+			"content": "Osvježi za nove značajke."
+		},
+		"auth": {
+			"title": "Stanje Vašeg korisnika se promijenilo.",
+			"content": "Osvježi za učitavanje novog stanja korisnika."
+		},
+		"donate": "Buy us coffee",
+		"refresh": "Osvježi"
+	},
+	"clipboard": {
+		"title": "Uvezi iz međuspremnika",
+		"content": "Zalijepi svoj markdown ili web stranicu ovdje...",
+		"clear": "Očisti",
+		"import": "Uvoz"
+	},
+	"locked": {
+		"title": "Ova bilješka je zaključana",
+		"content": "Žao nam je, samo vlasnik ove bilješke ju može uređivati."
+	},
+	"limit": {
+		"title": "Dosegni granicu",
+		"content1": "Žao nam je, dosegli ste maksimalnu moguću duljinu ove bilješke.",
+		"content2": "Molimo Vas smanjite sardžaj ili ga podijelite na više bilješki, hvala!"
+	},
+	"gist-import": {
+		"title": "Uvezi iz Gist-a",
+		"content": "Zalijepi svoj gist url ovdje...",
+		"clear": "Clear",
+		"import": "Import"
+	},
+	"snippet-import": {
+		"title": "Uvezi iz isječka",
+		"project": {
+			"placeholder": "Odaberi iz raspoloživih projekta"
+		},
+		"snippet": {
+			"placeholder": "Odaberi iz raspoloživih isječaka"
+		},
+		"ili": "ILI",
+		"clear": "Clear",
+		"import": "Import"
+	},
+	"snippet-export": {
+		"title": "Izvoz u isječak",
+		"project": {
+			"placeholder": "Select From Available Projects"
+		},
+		"visibility": {
+			"placeholder": "Odaberi razinu vidljivosti"
+		},
+		"export": "Izvoz"
+	},
+	"delete": {
+		"title": "Jeste li sigurni?",
+		"yes": "Da, učini to!"
+	},
+	"header": {
+		"extra": {
+			"title": "Dodatno",
+			"slide": "Način slajda",
+			"book": "Book Mode"
+		},
+		"revision": "Revisions",
+		"export": {
+			"title": "Export"
+		},
+		"import": {
+			"title": "Import",
+			"clipboard": "Međuspremnik"
+		},
+		"download": {
+			"title": "Download",
+			"raw-html": "Raw HTML"
+		},
+		"modes": {
+			"edit": "Uredi",
+			"both": "Oboje",
+			"view": "Pregledaj"
+		},
+		"help": "Help",
+		"image-upload": "Prenesi sliku",
+		"menu": "Meni",
+		"enterprise-demo": "Demo of Enterprise Edition",
+		"new-note": "Nova bilješka",
+		"new-team-note": "New team note",
+		"team-manage": "Manage team",
+		"profile": "Profile",
+		"feature": "Features",
+		"dashboard": "Dashboard",
+		"settings": "Settings",
+		"logout": "Log out",
+		"sign-in": "Sign in",
+		"team": "Team",
+		"overview": "Overview",
+		"intro": "Uvod",
+		"recent": "Recent",
+		"manage": "Manage",
+		"new": "Novo",
+		"publish": "Objavi"
+	},
+	"footer": {
+		"product": "Product",
+		"enterprise": "Enterprise",
+		"templates": "Templates",
+		"open-source": "Open Source",
+		"resources": "Resources",
+		"features": "Features",
+		"tutorial": "Tutorial",
+		"faq": "FAQ",
+		"information": "Information",
+		"about": "About",
+		"blog": "Blog",
+		"company": "Company",
+		"privacy": "Privacy",
+		"tos": "Terms of Use",
+		"releases": "Izdanja",
+		"about-ee": "About {{name}}",
+		"about-hackmd": "About HackMD",
+		"coffee": "Buy us coffee",
+		"terms": "Terms",
+		"donate": "BUY US COFFEE"
+	},
+	"home": {
+		"enterprise": "Enterprise",
+		"slogan": "Build a community with open collaboration.",
+		"use-free": "Use for free",
+		"btn-between-or": "or",
+		"btn-sign-in": "Sign in",
+		"how-to-use": "How to use?",
+		"concept": {
+			"title": "Concept",
+			"subtitle": "Share all document / knowledge / information with your community.",
+			"note": "Create a note",
+			"collaborate": "Open collaborate",
+			"share": "Share and track"
+		},
+		"btn-try": "Try it",
+		"empowering": {
+			"1": "Real-time collaboration at scale",
+			"2": "Turn white papers and API specs into living documents.",
+			"3": "Create dedicated team space for each open source project.",
+			"title": "Empowering community"
+		},
+		"be-in-know": {
+			"1": "Bring all community discussions into one place.",
+			"2": "Get notified when the SINGLE source of truth changes.",
+			"3": "Search or roll back to any previous version.",
+			"title": "Be in the know"
+		},
+		"feature": {
+			"title": "Features"
+		},
+		"features": {
+			"markdown": {
+				"subtitle": "Write in markdown natively",
+				"title": "Markdown"
+			},
+			"slide": {
+				"subtitle": "Make a slide deck with a snap",
+				"title": "Slide Mode"
+			},
+			"book-mode": {
+				"subtitle": "Collect any note into a book",
+				"title": "Book Mode"
+			},
+			"hackmd-it": {
+				"subtitle": "GitHub / GitLab integration, instant access",
+				"title": "HackMD-it"
+			},
+			"diagram": {
+				"subtitle": "Create math formulas and UML with text",
+				"title": "MathJax & UML"
+			},
+			"image": {
+				"subtitle": "Drag and drop image, auto-upload",
+				"title": "Upload image"
+			},
+			"export": {
+				"subtitle": "Export to PDF, md, or html files",
+				"title": "Take it with you"
+			},
+			"tags": {
+				"subtitle": "Manage and search notes with tags",
+				"title": "Manage with tags"
+			}
+		},
+		"trustedBy": "Trusted By",
+		"plans": {
+			"title": "Plans",
+			"free": {
+				"1": "Unlimited notes",
+				"2": "Unlimited collaborators",
+				"3": "Email notification",
+				"4": "Use without login",
+				"title": "Free",
+				"subtitle": "Start open collaboration now.",
+				"start": "Start using"
+			},
+			"business": {
+				"1": "Single Sign-On or SAML login",
+				"2": "Role-based access control",
+				"3": "Unlimited team space",
+				"4": "Private image storage",
+				"ribbon": "Hot",
+				"title": "Business Plan",
+				"subtitle": "Customized access control for your use case.",
+				"btn-more": "More features",
+				"btn-contact": "We are interested"
+			},
+			"conf": {
+				"1": "Customized URL to your shared notes",
+				"2": "Team space for conference hosts",
+				"3": "Best practice training and sharing",
+				"4": "More customized options up to you",
+				"ribbon": "Free",
+				"title": "Conference Plan",
+				"subtitle": "Help you share knowledge is our mission.",
+				"contact": "Ask us anything"
+			}
+		},
+		"active-users": "Join 160,000+ active users! Come and love it"
+	},
+	"profile": {
+		"search": {
+			"placeholder": "Search notes..."
+		}
+	},
+	"overview": {
+		"search": {
+			"placeholder": "Search keyword or tag..."
+		}
+	},
+	"site": {
+		"meta": {
+			"description": "Najbolji način za pisanje i dijeljenje svog znanja u markdown-u.",
+			"og": {
+				"title-suffix": "Kolaborativne markdown bilješke",
+				"description": "Best way to write and share your knowledge in markdown."
+			},
+			"tw": {
+				"title-suffix": "Collaborative markdown notes",
+				"description": "Best way to write and share your knowledge in markdown."
+			}
+		},
+		"title-suffix": "Collaborative markdown notes"
+	},
+	"recent": {
+		"from-browser": "Ispod je povijest preglednika",
+		"search": {
+			"tags": {
+				"placeholder": "Odaberi oznake..."
+			},
+			"keyword": {
+				"placeholder": "Pretraži ključnu riječ..."
+			}
+		},
+		"sort": {
+			"title": "Sortiraj po naslovu",
+			"time": "Sortiraj po vremenu"
+		},
+		"title": "Naslov",
+		"time": "Vrijeme",
+		"export": "Izvezi povijest",
+		"import": "Uvezi povijest",
+		"clear": "Očisti povijest",
+		"refresh": "Osvježi povijest",
+		"empty": "Nema povijesti",
+		"import-browser": "Uvezi iz preglednika"
+	}
+}
