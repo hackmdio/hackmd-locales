@@ -1,6 +1,6 @@
 {
 	"revision": {
-		"revision": "Revisions",
+		"revision": "Düzeltmeler",
 		"download": "İndir",
 		"revert": "Geri al"
 	},
@@ -11,304 +11,333 @@
 	"help": {
 		"title": "Yardım",
 		"contact": {
-			"title": "Kişiler",
-			"messenger": "Talk to us",
-			"github": "Hata bildir",
-			"email": "Bize email gönderin",
-			"donate": "Buy us coffee"
+			"title": "İletişim",
+			"messenger": "Bizimle konuşun",
+			"github": "Bir sorun bildirin",
+			"email": "Bize e-posta gönderin",
+			"donate": "Bize kahve alın"
 		},
 		"documents": "Belgeler",
 		"features": "Özellikler",
-		"yaml-meta": "YAML Özbilgisi",
-		"slide": "Slayt Örneği",
-		"book": "Book Example",
-		"cheatsheet": "Cheatsheet",
+		"yaml-meta": "YAML meta verisi",
+		"slide": "Slayt örneği",
+		"book": "Kitap örneği",
+		"cheatsheet": "Kopya kağıdı",
 		"example": "Örnek",
 		"syntax": {
 			"h1": "Başlık",
-			"ul": "Sırasız Liste",
-			"ol": "Sıralı Liste",
-			"todo": "Yapılacaklar Listesi",
-			"blockquote": "Alıntı Bloğu",
-			"b": "Kalın yazı",
-			"i": "İtalik yazı",
+			"ul": "Sırasız liste",
+			"ol": "Sıralı liste",
+			"todo": "Yapılacaklar listesi",
+			"blockquote": "Alıntı öbeği",
+			"b": "Kalın yazı tipi",
+			"i": "Eğik yazı tipi",
 			"strike": "Üstüçizili",
-			"ins": "Eklenmiş yazı",
-			"mark": "Seçili yazı",
-			"anchor": "Link",
-			"img": "Resim",
+			"ins": "Eklenen yazı",
+			"mark": "İşaretli yazı",
+			"anchor": "Bağlantı",
+			"img": "Görüntü",
 			"code": "Kod",
-			"embeded": "Dış veriler",
-			"alert": "Burası bir uyarı bölgesi."
+			"embeded": "Dış veri",
+			"alert": "Bu bir uyarı alanıdır."
 		}
 	},
 	"signin": {
-		"choose": "Metot seçin",
+		"choose": "Yöntem seçin",
 		"via": "%s ile giriş yapın"
 	},
 	"refresh": {
-		"title": "Bu sayfayı yeniden yüklemek lazım",
+		"title": "Bu sayfa yenilenmeli",
 		"incompatible": {
-			"title": "Yerel uygulamanız uyumlu olmayan bir sürümde.",
-			"content": "Güncellemek için yenileyin."
+			"title": "Uyumsuz bir istemci sürümünüz var.",
+			"content": "Güncellemek için yenile."
 		},
 		"upgrade": {
-			"title": "Yeni versiyon kullanıma hazır!",
-			"note": "Değişikliklere burdan bakabilirsiniz",
-			"content": "Yeni özelliklere yenileyerek erişebilirsiniz."
+			"title": "Yeni sürüm mevcut!",
+			"note": "Buradan sürüm notlarına bakın",
+			"content": "Yeni özelliklerin tadını çıkarmak için yenileyin."
 		},
 		"auth": {
 			"title": "Kullanıcı durumunuz değişti.",
-			"content": "Yeni kullanıcı durumunuzu yüklemek için yenileyin."
+			"content": "Yeni kullanıcı durumunu yüklemek için yenileyin."
 		},
-		"donate": "Buy us coffee",
+		"donate": "Bize kahve alın",
 		"refresh": "Yenile"
 	},
 	"clipboard": {
 		"title": "Panodan içe aktar",
 		"content": "Markdown veya web sayfanızı buraya yapıştırın...",
 		"clear": "Temizle",
-		"import": "İçe Aktar"
+		"import": "İçe aktar"
 	},
 	"locked": {
-		"title": "Burası kilitli",
-		"content": "Üzgünüm, bu not sadece sahibi tarafından düzenlenebilir."
+		"title": "Bu not kilitli",
+		"content": "Üzgünüz, bu notu yalnızca sahibi düzenleyebilir."
 	},
 	"limit": {
-		"title": "Limite eriş",
-		"content1": "Üzgünüm, bu not için maksimum harf sayısına ulaştınız",
-		"content2": "Lütfen notu değiştirin veya birden fazla notlara bölün, teşekkürler!"
+		"title": "Sınıra ulaştınız",
+		"content1": "Üzgünüz, bu notun alabileceği en yüksek uzunluğa ulaştınız..",
+		"content2": "Lütfen içeriği azaltın veya daha fazla nota bölün. Teşekkür ederiz!"
 	},
 	"gist-import": {
-		"title": "Gist'ten içe aktar",
-		"content": "Gist URL'nizi buraya yapıştırın...",
-		"clear": "Clear",
-		"import": "Import"
+		"title": "Gist üzerinden içe aktar",
+		"content": "Gist bağlantınızı buraya yapıştırın...",
+		"clear": "Temizle",
+		"import": "İçe aktar"
 	},
 	"snippet-import": {
-		"title": "Snippet'ten içe aktar",
+		"title": "Snippet üzerinden içe aktar",
 		"project": {
-			"placeholder": "Uygun Projelerden Seçin"
+			"placeholder": "Mevcut projelerden seçiniz"
 		},
 		"snippet": {
-			"placeholder": "Uygun Snippet'lerden Seçin"
+			"placeholder": "Mevcut parçacıklardan seçiniz"
 		},
-		"veya": "VEYA",
-		"clear": "Clear",
-		"import": "Import"
+		"or": "YA DA",
+		"clear": "Temizle",
+		"import": "İçe aktar"
 	},
 	"snippet-export": {
-		"title": "Snippet olarak dışa aktarın",
+		"title": "Snippet için dışa aktar",
 		"project": {
-			"placeholder": "Select From Available Projects"
+			"placeholder": "Mevcut projelerden seçiniz"
 		},
 		"visibility": {
-			"placeholder": "Görünebilirlik seviyesini belirleyin"
+			"placeholder": "Görünürlük seviyesini seçiniz"
 		},
-		"export": "Dışa Aktar"
+		"export": "Dışa aktar"
 	},
 	"delete": {
 		"title": "Emin misiniz?",
-		"yes": "Evet, devam et!"
+		"yes": "Evet, bunu yap!"
 	},
 	"header": {
 		"extra": {
 			"title": "Ekstra",
-			"slide": "Slayt Modu",
-			"book": "Book Mode"
+			"slide": "Slayt modu",
+			"book": "Kitap modu"
 		},
-		"revision": "Revisions",
+		"revision": "Düzeltmeler",
 		"export": {
-			"title": "Export"
+			"title": "Dışa aktar"
 		},
 		"import": {
-			"title": "Import",
+			"title": "İçe aktar",
 			"clipboard": "Pano"
 		},
 		"download": {
-			"title": "Download",
-			"raw-html": "Kaynak HTML"
+			"title": "İndir",
+			"raw-html": "Ham HTML"
 		},
 		"modes": {
 			"edit": "Düzenle",
-			"both": "İkisi de",
-			"view": "İncele"
+			"both": "Her ikisi",
+			"view": "Görüntüle"
 		},
-		"help": "Help",
-		"image-upload": "Resim Yükle",
+		"help": "Yardım",
+		"image-upload": "Görsel yükle",
 		"menu": "Menü",
-		"enterprise-demo": "Demo of Enterprise Edition",
+		"enterprise-demo": "İşletme Sürümü Demosu",
 		"new-note": "Yeni not",
-		"new-team-note": "New team note",
-		"team-manage": "Manage team",
-		"profile": "Profile",
-		"feature": "Features",
-		"dashboard": "Dashboard",
-		"settings": "Settings",
-		"logout": "Log out",
-		"sign-in": "Sign in",
-		"team": "Team",
-		"overview": "Overview",
+		"new-team-note": "Yeni ekip notu",
+		"team-manage": "Ekibi yönet",
+		"profile": "Profil",
+		"feature": "Özellikler",
+		"dashboard": "Kontrol paneli",
+		"settings": "Ayarlar",
+		"logout": "Çıkış yap",
+		"sign-in": "Giriş yap",
+		"team": "Ekip",
+		"overview": "Genel bakış",
 		"intro": "Giriş",
-		"recent": "Recent",
-		"manage": "Manage",
+		"recent": "Son",
+		"manage": "Yönet",
 		"new": "Yeni",
-		"publish": "Yayınla"
+		"publish": "Yayınla",
+		"getting-started": "Başlarken",
+		"getting-started-with-hackmd": "HackMD ile Başlarken",
+		"getting-started-tips": "Notlarınızı nasıl oluşturacağınızı, paylaşacağınızı ve yöneteceğinizi öğrenin.",
+		"signout": "Çıkış yap",
+		"permission": "İzin",
+		"note": {
+			"permission": "Not İzini"
+		},
+		"note-permission-help": "Not sahibi, bu notu kimin okuyabileceğine veya yazabileceğine karar verir.",
+		"note-read": "Okuma",
+		"owner": "Sahip",
+		"signedin": "Giriş yapıldı",
+		"guest": "Misafir",
+		"write": "Yazma",
+		"comments": "Yorumlar",
+		"comments-help": "Not sahibi kimin okuyabileceği veya yorum verebileceğine karar verir.",
+		"enable": "Etkinleştir",
+		"comment-read": "Okuma",
+		"comment-write": "Yorum",
+		"invitee": "Davetli",
+		"invitee-help": "Davetiyenin geçerli olması için davetlinin giriş yapması gerekir. Yönetici kullanıcıları davet edebilir ve not izinlerini değiştirebilir.",
+		"invite": "Davet et",
+		"invitee-read": "Okuma",
+		"invitee-write": "Yazma",
+		"invitee-admin": "Yönetici",
+		"transfer-ownership": "Sahipliği aktar",
+		"delete-note": "Bu notu sil",
+		"options": "Seçenekler",
+		"note-write": "Yazma"
 	},
 	"footer": {
-		"product": "Product",
-		"enterprise": "Enterprise",
-		"templates": "Templates",
-		"open-source": "Open Source",
-		"resources": "Resources",
-		"features": "Features",
-		"tutorial": "Tutorial",
-		"faq": "FAQ",
-		"information": "Information",
-		"about": "About",
+		"product": "Ürün",
+		"enterprise": "İşletme",
+		"templates": "Şablonlar",
+		"open-source": "Açık Kaynak",
+		"resources": "Kaynaklar",
+		"features": "Özellikler",
+		"tutorial": "Öğretici",
+		"faq": "SSS",
+		"information": "Bilgi",
+		"about": "Hakkında",
 		"blog": "Blog",
-		"company": "Company",
-		"privacy": "Privacy",
-		"tos": "Terms of Use",
+		"company": "Şirket",
+		"privacy": "Gizlilik",
+		"tos": "Kullanım Koşulları",
 		"releases": "Sürümler",
-		"about-ee": "About {{name}}",
-		"about-hackmd": "About HackMD",
-		"coffee": "Buy us coffee",
-		"terms": "Terms",
-		"donate": "BUY US COFFEE"
+		"about-ee": "{{name}} Hakkında",
+		"about-hackmd": "HackMD Hakkında",
+		"coffee": "Bize kahve alın",
+		"terms": "Şartlar",
+		"donate": "BİZE KAHVE ALIN"
 	},
 	"home": {
-		"enterprise": "Enterprise",
-		"slogan": "Build a community with open collaboration.",
-		"use-free": "Use for free",
-		"btn-between-or": "or",
-		"btn-sign-in": "Sign in",
-		"how-to-use": "How to use?",
+		"enterprise": "İşletme",
+		"slogan": "Açık işbirliği ile bir topluluk oluşturun.",
+		"use-free": "Ücretsiz kullanın",
+		"btn-between-or": "ya da",
+		"btn-sign-in": "Giriş yapın",
+		"how-to-use": "Nasıl kullanılır?",
 		"concept": {
-			"title": "Concept",
-			"subtitle": "Share all document / knowledge / information with your community.",
-			"note": "Create a note",
-			"collaborate": "Open collaborate",
-			"share": "Share and track"
+			"title": "Fikir",
+			"subtitle": "Tüm belge / tecrübe / bilgileri topluluğunuzla paylaşın.",
+			"note": "Bir not oluştur",
+			"collaborate": "Ortak çalışmayı aç",
+			"share": "Paylaş ve takip et"
 		},
-		"btn-try": "Try it",
+		"btn-try": "Dene",
 		"empowering": {
-			"1": "Real-time collaboration at scale",
-			"2": "Turn white papers and API specs into living documents.",
-			"3": "Create dedicated team space for each open source project.",
-			"title": "Empowering community"
+			"1": "Ölçekte gerçek zamanlı işbirliği",
+			"2": "Tanıtım belgelerini ve API özelliklerini canlı belgelere dönüştürün.",
+			"3": "Her açık kaynaklı proje için özel ekip alanı oluşturun.",
+			"title": "Güçlendirici topluluk"
 		},
 		"be-in-know": {
-			"1": "Bring all community discussions into one place.",
-			"2": "Get notified when the SINGLE source of truth changes.",
-			"3": "Search or roll back to any previous version.",
-			"title": "Be in the know"
+			"1": "Tüm topluluk tartışmalarını tek bir yere getirin.",
+			"2": "Tek gerçek kaynağı değiştiğinde haberdar olun.",
+			"3": "Arama yapın veya önceki sürümlere geri dönün.",
+			"title": "Biliyor olun"
 		},
 		"feature": {
-			"title": "Features"
+			"title": "Özellikler"
 		},
 		"features": {
 			"markdown": {
-				"subtitle": "Write in markdown natively",
+				"subtitle": "Markdown yerel olarak yazın",
 				"title": "Markdown"
 			},
 			"slide": {
-				"subtitle": "Make a slide deck with a snap",
-				"title": "Slide Mode"
+				"subtitle": "Bir çırpıda bir slayt oluşturun",
+				"title": "Slayt modu"
 			},
 			"book-mode": {
-				"subtitle": "Collect any note into a book",
-				"title": "Book Mode"
+				"subtitle": "Bir kitap içine herhangi bir not toplayın",
+				"title": "Kitap modu"
 			},
 			"hackmd-it": {
-				"subtitle": "GitHub / GitLab integration, instant access",
+				"subtitle": "GitHub / GitLab entegrasyonu, anında erişim",
 				"title": "HackMD-it"
 			},
 			"diagram": {
-				"subtitle": "Create math formulas and UML with text",
+				"subtitle": "Metin ile matematik formülleri ve UML oluşturun",
 				"title": "MathJax & UML"
 			},
 			"image": {
-				"subtitle": "Drag and drop image, auto-upload",
-				"title": "Upload image"
+				"subtitle": "Görüntüyü sürükleyip bırakın, otomatik yüklenir",
+				"title": "Görüntü yükle"
 			},
 			"export": {
-				"subtitle": "Export to PDF, md, or html files",
-				"title": "Take it with you"
+				"subtitle": "PDF, md veya html dosyalarına aktar",
+				"title": "Yanınızda taşıyın"
 			},
 			"tags": {
-				"subtitle": "Manage and search notes with tags",
-				"title": "Manage with tags"
+				"subtitle": "Etiketlerle notları yönetin ve arayın",
+				"title": "Etiketlerle yönet"
 			}
 		},
-		"trustedBy": "Trusted By",
+		"trustedBy": "Tarafından Güvenilen",
 		"plans": {
-			"title": "Plans",
+			"title": "Planlar",
 			"free": {
-				"1": "Unlimited notes",
-				"2": "Unlimited collaborators",
-				"3": "Email notification",
-				"4": "Use without login",
-				"title": "Free",
-				"subtitle": "Start open collaboration now.",
-				"start": "Start using"
+				"1": "Sınırsız notlar",
+				"2": "Sınırsız işbirlikçileri",
+				"3": "E-posta bildirimleri",
+				"4": "Oturum açmadan kullanın",
+				"title": "Üretsiz",
+				"subtitle": "Şimdi işbirliğini başlatın.",
+				"start": "Kullanmaya başla"
 			},
 			"business": {
-				"1": "Single Sign-On or SAML login",
-				"2": "Role-based access control",
-				"3": "Unlimited team space",
-				"4": "Private image storage",
-				"ribbon": "Hot",
-				"title": "Business Plan",
-				"subtitle": "Customized access control for your use case.",
-				"btn-more": "More features",
-				"btn-contact": "We are interested"
+				"1": "Tekli Oturum Açma veya SAML girişi",
+				"2": "Rol tabanlı erişim kontrolü",
+				"3": "Sınırsız ekip alanı",
+				"4": "Özel görüntü saklama",
+				"ribbon": "Sıcak",
+				"title": "İş planı",
+				"subtitle": "Kullanım durumunuz için özelleştirilmiş erişim kontrolü.",
+				"btn-more": "Diğer özellikler",
+				"btn-contact": "Biz ilgileniyoruz"
 			},
 			"conf": {
-				"1": "Customized URL to your shared notes",
-				"2": "Team space for conference hosts",
-				"3": "Best practice training and sharing",
-				"4": "More customized options up to you",
-				"ribbon": "Free",
-				"title": "Conference Plan",
-				"subtitle": "Help you share knowledge is our mission.",
-				"contact": "Ask us anything"
+				"1": "Paylaşılan notlarınıza özelleştirilmiş URL",
+				"2": "Konferans ev sahipleri için ekip alanı",
+				"3": "En iyi uygulama eğitimi ve paylaşımı",
+				"4": "Size özel daha fazla seçenek",
+				"ribbon": "Ücretsiz",
+				"title": "Konferans planı",
+				"subtitle": "Bilgiyi paylaşmanıza yardımcı olmak bizim görevimizdir.",
+				"contact": "Bize bir şey sorun"
 			}
 		},
-		"active-users": "Join 160,000+ active users! Come and love it"
+		"active-users": "160.000'den fazla etkin kullanıcılara katılın! Gelin ve sevin."
 	},
 	"profile": {
 		"search": {
-			"placeholder": "Search notes..."
+			"placeholder": "Notlarda ara..."
 		}
 	},
 	"overview": {
 		"search": {
-			"placeholder": "Search keyword or tag..."
+			"placeholder": "Anahtar kelimeyi veya etiketi ara..."
 		}
 	},
 	"site": {
 		"meta": {
-			"description": "Markdownda bilginizi paylaşmanın en kolay yolu.",
+			"description": "Bilginizi yazmanın ve paylaşmanın en iyi yolu.",
 			"og": {
 				"title-suffix": "Ortak markdown notları",
-				"description": "Best way to write and share your knowledge in markdown."
+				"description": "Bilginizi yazmanın ve paylaşmanın en iyi yolu."
 			},
 			"tw": {
-				"title-suffix": "Collaborative markdown notes",
-				"description": "Best way to write and share your knowledge in markdown."
+				"title-suffix": "Ortak markdown notları",
+				"description": "Bilginizi yazmanın ve paylaşmanın en iyi yolu."
 			}
 		},
-		"title-suffix": "Collaborative markdown notes"
+		"title-suffix": "Ortak markdown notları"
 	},
 	"recent": {
-		"from-browser": "Aşağıda tarayıcınızın geçmişi var",
+		"from-browser": "Tarayıcıdan gelen geçmiş aşağıda",
 		"search": {
 			"tags": {
-				"placeholder": "Etiketleri seçin..."
+				"placeholder": "Etiketleri seç..."
 			},
 			"keyword": {
-				"placeholder": "Anahtar kelimeleri arayın..."
+				"placeholder": "Anahtar kelima ara..."
 			}
 		},
 		"sort": {
@@ -317,7 +346,7 @@
 		},
 		"title": "Başlık",
 		"time": "Zaman",
-		"export": "Geçmişe dışa aktar",
+		"export": "Geçmişi dışa aktar",
 		"import": "Geçmişi içe aktar",
 		"clear": "Geçmişi temizle",
 		"refresh": "Geçmişi yenile",
