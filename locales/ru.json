@@ -5,8 +5,11 @@
 		"revert": "Отменить"
 	},
 	"common": {
+		"or": "или",
 		"cancel": "Отмена",
-		"ok": "OK"
+		"ok": "OK",
+		"got-it": "Got it",
+		"period": "."
 	},
 	"help": {
 		"title": "Помощь",
@@ -42,9 +45,28 @@
 			"alert": "Это уведомление."
 		}
 	},
+	"signup": {
+		"signup": "Sign up",
+		"new": "New to HackMD? ",
+		"eeSite": {
+			"terms": {
+				"1": "By clicking below, you agree to our ",
+				"2": "terms of service."
+			}
+		}
+	},
 	"signin": {
+		"signin": "Sign in",
+		"signin-ldap" : "Sign in to {{name}} (LDAP)",
+		"signin-via-email": "Sign in via Email",
 		"choose": "Выберите метод",
-		"via": "Войти с помощью %s"
+		"via": "Войти с помощью {{text}}",
+		"email-or-username": "Email or Username",
+		"email-or-username-placeholder": "Your email or Username",
+		"email": "Email",
+		"email-placeholder": "Your email",
+		"password": "Password",
+		"password-placeholder": "Your password"
 	},
 	"refresh": {
 		"title": "Эту страницу необходимо обновить",
@@ -63,6 +85,15 @@
 		},
 		"donate": "Buy us coffee",
 		"refresh": "Обновить"
+	},
+	"infobar": {
+		"owned": "owned this note",
+		"created": "created",
+		"changed": "changed",
+		"notification" : {
+			"watch": "Watch - Be notified of any changes",
+			"never": "Never - Never be notified"
+		}
 	},
 	"clipboard": {
 		"title": "Импорт из буфера обмена",
@@ -93,23 +124,84 @@
 		"snippet": {
 			"placeholder": "Выберите из доступных фрагментов кода"
 		},
-		"или": "ИЛИ",
+		"body": {
+			"project": "Project:",
+			"Snippet": "Snippet:"
+		},
 		"clear": "Clear",
-		"import": "Import"
+		"import": "Import",
+		"error": {
+			"fetch-error": "Unable to fetch gitlab parameters :(",
+			"not-valid-url-error": "Not a valid Snippet URL :("
+		}
 	},
 	"snippet-export": {
 		"title": "Экспорт фрагмента кода",
 		"project": {
+			"title": "Project:",
 			"placeholder": "Select From Available Projects"
 		},
 		"visibility": {
-			"placeholder": "Выберите уровень видимости"
+			"title": "Visibility:",
+			"placeholder": "Выберите уровень видимости",
+			"private": "Private",
+			"internal": "Internal"
 		},
-		"export": "Экспорт"
+		"body": {
+			"title": "Title:",
+			"filename": "File Name:"
+		},
+		"export": "Экспорт",
+		"success": "Export Successful!",
+		"view-here": "View Snippet Here"
+	},
+	"google-drive": {
+		"import": {
+			"title": "Import from Google Drive",
+			"failed": "Import failed :("
+		},
+		"export": {
+			"title": "Export to Google Drive",
+			"success": "Export Complete!",
+			"view-here": "Click here to view your file",
+			"error": "Export Error :("
+		}
+	},
+	"gist": {
+		"import": {
+			"title": "Import from Gist",
+			"fetch-error": "Unable to fetch gist files :(",
+			"not-valid-gist-url-error": "Not a valid Gist URL :("
+		}
+	},
+	"import": {
+		"import-from-url": "Import from URL",
+		"not-valid-url-error": "Not a valid URL :(",
+		"import-failed": "Import failed :("
 	},
 	"delete": {
 		"title": "Вы уверены?",
-		"yes": "Да, сделать это!"
+		"yes": "Да, сделать это!",
+		"body-member": "Do you really want to remove this member?",
+		"body": {
+			"msg": "Do you really want to delete this note?",
+			"item": "All users will lost their connection."
+		}
+	},
+	"transfer": {
+		"title": "Transfer ownership",
+		"team-label": "Transfer to team you've joined",
+		"team-member-label": "Transfer to current team member",
+		"transfer": "Transfer"
+	},
+	"pull-changes": {
+		"title": "Pull changes from GitHub",
+		"apply": "Apply all differences"
+	},
+	"push-changes": {
+		"title": "Push changes to GitHub",
+		"body": "Are you ready to push changes to github?",
+		"push": "Push"
 	},
 	"header": {
 		"extra": {
@@ -119,15 +211,27 @@
 		},
 		"revision": "Revisions",
 		"export": {
-			"title": "Export"
+			"title": "Export",
+			"dropbox": "Dropbox",
+			"google-drive": "Google Drive",
+			"gist": "Gist",
+			"snippet": "Snippet"
 		},
 		"import": {
 			"title": "Import",
+			"dropbox": "Dropbox",
+			"google-drive": "Google Drive",
+			"gist": "Gist",
+			"snippet": "Snippet",
 			"clipboard": "Буфер обмена"
 		},
 		"download": {
 			"title": "Download",
-			"raw-html": "Raw HTML"
+			"markdown": "Markdown",
+			"html": "HTML",
+			"raw-html": "Raw HTML",
+			"odf": "ODF (Beta)",
+			"pdf": "PDF (Beta)"
 		},
 		"modes": {
 			"edit": "Редактировать",
@@ -153,7 +257,69 @@
 		"recent": "Recent",
 		"manage": "Manage",
 		"new": "Новая",
-		"publish": "Опубликовать"
+		"publish": "Опубликовать",
+		"getting-started": "Getting Started",
+		"getting-started-with-hackmd": "Getting Started with HackMD",
+		"getting-started-tips": "Learn how to create, share, and manage your notes.",
+		"signout": "Sign out",
+		"permission": "Permission",
+		"note": {
+			"title": "Note Permission",
+			"read": "Read",
+			"write": "Write",
+			"owner": "Owner",
+			"signedin": "Signed-in",
+			"guest": "Guest",
+			"public": "Public",
+			"help": "Note owner decides who can read or write this note."
+		},
+		"comments": {
+			"title": "Comments",
+			"enable": "Enable",
+			"disable": "Disable",
+			"read": "Read",
+			"write": "Comment",
+			"owner": "Owner",
+			"signedin": "Signed-in",
+			"guest": "Guest",
+			"help": "Note owner decides who can read or give comments."
+		},
+		"invitee": {
+			"title": "Invitee",
+			"invite": "Invite",
+			"read": "Read",
+			"write": "Write",
+			"admin": "Admin",
+			"help": "Admin can invite users and change note permissions.",
+			"search-user-placeholder": "Search user by email..."
+		},
+		"options": "Options",
+		"share": "Share",
+		"transfer-ownership": "Transfer ownership",
+		"delete-note": "Delete this note",
+		"back": "Back",
+		"shelf": "Shelf",
+		"github": {
+			"pull": "Pull Changes",
+			"push": "Push Changes"
+		},
+		"notification": {
+			"watch": {
+				"label": "Watch",
+				"title": "Be notified of any changes"
+			},
+			"never": {
+				"label": "Never",
+				"title": "Never be notified"
+			},
+			"no-email": "Set email in <i class=\"fa fa-gear\"></i> Settings to receive email notification!"
+		},
+		"lost-content": "You might lost content if you leave now, are you sure?",
+		"status-type": {
+			"connected": "CONNECTED",
+			"online": "ONLINE",
+			"offline": "OFFLINE"
+		}
 	},
 	"footer": {
 		"product": "Product",
@@ -176,6 +342,28 @@
 		"coffee": "Buy us coffee",
 		"terms": "Terms",
 		"donate": "BUY US COFFEE"
+	},
+	"error": {
+		"home": "Home",
+		"back": "You could head back to home.",
+		"signin": "Sign in or head back to home.",
+		"try": "Try again later or head back to home.",
+		"400": {
+			"title": "400 Bad Request",
+			"content": "Your browser sent an invalid request."
+		},
+		"403": {
+			"title": "403 Forbidden",
+			"content": "You don't have permission to access this resource."
+		},
+		"404": {
+			"title": "404 Not Found",
+			"content": "We can't find the page you’re looking for."
+		},
+		"500": {
+			"title": "500 Interal Error",
+			"content": "An error occurred when we tried to process your request."
+		}
 	},
 	"home": {
 		"enterprise": "Enterprise",
@@ -278,14 +466,63 @@
 		"active-users": "Join 160,000+ active users! Come and love it"
 	},
 	"profile": {
+		"member-since": "Member since  {{date}}",
+		"no-notes": "You don't have any notes!",
+		"no-result": "No results.",
+		"end-of-notes": "That's it! This is the end of your notes.",
 		"search": {
 			"placeholder": "Search notes..."
+		},
+		"created": "created",
+		"found-notes": "We found {{count}} notes.",
+		"edit": "Edit this note",
+		"publish": "Publish",
+		"slide-mode": "Slide Mode",
+		"book-mode": "Book Mode",
+		"permission": {
+			"freely": "Anyone can edit",
+			"editable": "Signed-in people can edit",
+			"limited": "Signed-in people can edit (forbid guests)",
+			"locked": "Only owner can edit",
+			"protected": "Only owner can edit (forbid guests)",
+			"private": "Only owner can view & edit"
 		}
 	},
 	"overview": {
 		"search": {
 			"placeholder": "Search keyword or tag..."
-		}
+		},
+		"filter": {
+			"title": "Filter",
+			"all": "All",
+			"shared-with-me": "Shared with me",
+			"my-notes": "My notes"
+		},
+		"unvisited" : "Unvisited",
+		"changed": " changed ",
+		"category": {
+			"categories": "Categories",
+			"description": {
+				"title": "We use the first tag of each note as its category.<br>Click icon to read more."
+			}
+		},
+		"show-with-categories": "Show with categories",
+		"default-section": "Untagged",
+		"unselect-all": "Unselect all",
+		"select-all": "Select all",
+		"sorted": {
+			"multiple-sorting": "Multiple Sorting",
+			"categories-sorted-by": "Categories sorted by",
+			"notes-sorted-by": "Notes sorted by",
+			"new_to_old": "New to old",
+			"old_to_new": "Old to new",
+			"a_to_z": "A to Z",
+			"z_to_a": "Z to A"
+		},
+		"no-notes-with-current-filters": "No notes with current filters",
+		"no-notes": "No notes",
+		"grid-layout": "Grid layout",
+		"row-layout": "Row layout"
 	},
 	"site": {
 		"meta": {
@@ -299,7 +536,21 @@
 				"description": "Best way to write and share your knowledge in markdown."
 			}
 		},
-		"title-suffix": "Collaborative markdown notes"
+		"title-suffix": "Collaborative markdown notes",
+		"untitled": "Untitled",
+		"overview": "Overview",
+		"recent": "Recent",
+		"shelf": "Shelf",
+		"getting-started": "Getting Started",
+		"manage": "Team Management",
+		"about-us": "About Us",
+		"settings": "Settings",
+		"docflow-setup": "HackDF Setup",
+		"docflow-import": "HackDF Import",
+		"signup": "Sign up",
+		"login": "Sign in",
+		"verify_email": "Email verification complete",
+		"finish-join": "Finish signup"
 	},
 	"recent": {
 		"from-browser": "Ниже приводится история браузера",
@@ -322,6 +573,282 @@
 		"clear": "Очистить историю",
 		"refresh": "Обновить историю",
 		"empty": "Нет истории",
-		"import-browser": "Импорт из браузера"
+		"import-browser": "Импорт из браузера",
+		"visited": " visited ",
+		"delete-all-history": "Do you really want to clear all history?",
+		"delete-below-history": "Do you really want to delete below history?",
+		"can-not-restore": "There is no turning back."
+	},
+	"docflow": {
+    "survey": "Meanwhile, please tell us how you think about HackMD <a target=\"_blank\" href=\"https://goo.gl/forms/4GaEVgVilkjxXeTs1\">with this survey</a>.",
+    "step1": {
+      "1": "Sign in to HackMD",
+      "2": "Authorize HackDF to access GitHub webhooks",
+      "3": "Choose which repository to use HackDF",
+      "title": "Set up GitHub App",
+      "step1": "<b>Step 1.&nbsp;</b>",
+      "signin-to-manage-document": "Sign in and manage documentation",
+			"step2": "<b>Step 2.&nbsp;</b>",
+			"linking-finished": "Authorized",
+      "connect": "Authorize",
+			"step3": "<b>Step 3.&nbsp;</b>",
+			"modify": "Change",
+			"start-installation": "Choose repos",
+			"installed-repo": "List of authorized repos",
+			"refresh": "Refresh the list"
+    },
+    "step2": {
+      "p1": "From now on, everytime someone pushes commits to the master branch of the repo, HackDF will automatically detect if the relevant document needs updating and remind the commit pusher to do so.",
+      "default-document": "Default document checking rules",
+      "p2": "<p>By default, any changes to files under directories named: </p> <ul> <li><code>src</code></li> <li><code>lib</code></li> <li><code>test</code></li> </ul> <p>will trigger update reminders on</p> <ul> <li><code>README.md</code></li> <li>all markdown files under <code>docs</code></li></ul>",
+      "customized": "Customized document checking rules",
+      "p3": "If you think the default reminder is not specific enough or does not cover all your documents, you can customize your mapping between documents and code by adding a config file to <code>.hackdf/config.yml</code>. <br>Here's an example of how the default setting would look like:",
+      "p4": "To learn more about customizing the config file, please see <a target=\"_blank\" href=\"https://hackmd.io/s/hackdf-guide\">HackDF Guides</a> 📚 or <a target=\"_blank\" href=\"https://github.com/hackmdio/hackdf-issues/issues\">contact us</a>. <br>More resource on using Git, see: <a target=\"_blank\" href=\"https://guides.github.com/activities/hello-world/\">Git Guides</a>"
+    },
+    "landing-page": {
+      "title": "HackDF Keeps Documentation Fresh 🍋",
+      "p1": "HackDF reminds you to update documentation without changing your day to day workflow. Every time you <b>push commits to GitHub</b>, HackDF will automatically detect if documentation needs updating. If so, you will <b>receive an e-mail</b>.",
+      "p2": "Free your mind from keeping track of documents and never get bitten by the same bug  🐛  twice.",
+      "cta": "Start chilling now"
+    },
+		"view-documents": "View documents",
+		"import-documents": "Import documents",
+		"import": {
+			"succeed": "Import repository documents succeed!",
+			"succeed-with-warning": "Import repository documents succeed with warning:",
+			"view-documents": "View documents",
+			"failed": "Import repository documents failed :(",
+			"back": "Back to HackDF",
+			"importing": "Importing..."
+		}
+	},
+	"shelf": {
+		"documents": "{{count}} documents",
+		"empty": "No shelf",
+		"shelf-on": "Shelf on ",
+		"settings": " Settings",
+		"github": " Github",
+		"delete-this-shelf": " Delete this shelf",
+		"delete-msg": "Do you really want to delete this shelf?",
+		"no-readme": "Add a README with an overview of your project."
+	},
+	"disqus": {
+		"content1": "Please enable JavaScript to view the ",
+		"content2": "comments powered by Disqus."
+	},
+	"auth": {
+		"join-success": {
+			"welcome": "Welcome to HackMD!",
+			"confirm": "You have confirmed email address."
+		},
+		"join": {
+			"username": "Username",
+			"username-placeholder": "Your username",
+			"allow": "Allow a-Z, 0-9 and dash not at beginning.",
+			"email": "Email",
+			"email-placeholder": "Your email",
+			"password": "Password",
+			"password-placeholder": "Your password",
+			"password-length": "Use a minimum password length of 8-30 characters."
+		},
+		"finish-join": {
+			"check-email": "Check your inbox to verify your email",
+			"send-email": "We've sent an email to ",
+			"verify-email": "Follow the instructions to verify your email address.",
+			"did-not-receive": "Didn't receive the verification email?",
+			"send-again": "Send it again",
+			"reason": "Email verification helps us to ensure your data will always be safe."
+		},
+		"common": {
+			"sign-in": "Sign in",
+			"sign-up": "Sign up",
+			"have-an-account": "Have an account?"
+		}
+	},
+  "invitation": {
+    "resendInvitation": "Resend Invitation",
+    "resendInvitationPrompt": "Do you want to resend invitation email?"
+  },
+	"about": {
+		"contact": "Contact Us",
+		"join": "Join Us"
+	},
+	"settings": {
+		"general-settings": "General Settings",
+		"upload-logo": "Upload logo",
+		"reset-logo": "Reset logo",
+		"team-name": "Team Name",
+		"team-name-placeholder": "Your team name",
+		"team-description": "Team Description",
+		"team-description-placeholder": "Your team description",
+		"team-url-path": "Team URL Path",
+		"team-url-path-placeholder": "Your team URL path",
+		"team-members": "Team Members",
+		"add-new-member": "Add New Member",
+		"username-or-email-address": "Username or email address",
+		"team-role": {
+			"admin": "Admin",
+			"member": "Member",
+			"friend": "friend"
+		},
+		"add": "Add",
+		"choose-photo": "Choose photo",
+		"reset-avatar": "Reset avatar",
+		"name": "Name",
+		"name-placeholder": "Your full name",
+		"username": "Username",
+		"username-placeholder": "Your username",
+		"allow": "Allow a-Z, 0-9 and dash not at beginning.",
+		"email": "Email",
+		"email-placeholder": "Your email",
+		"email-invalid": "Email address is invalid",
+		"email-not-confirmed": "New email hasn't been confirmed.",
+		"emial-has-been-sent": "Confirmation email has been sent.",
+		"resend-email": "Resend email",
+		"password": "Password",
+		"have-password": "You've set your password.",
+		"change-password": "Change password",
+		"not-have-password": "You don't have password.",
+		"setup-password": "Setup password",
+		"biography": "Biography",
+		"biography-placeholder": "Tell about yourself...",
+		"submit": "Submit",
+		"match-error": "Oops, these don't match.",
+		"notification": {
+			"title": "Notification Settings",
+			"auto-watch": "Automatic watching",
+			"auto-watch-notes": "Automatically watch notes",
+			"auto-watch-notes-msg": "When you create a note, automatically receive notifications for it.",
+			"auto-watch-teams": "Automatically watch teams",
+			"auto-watch-teams-msg": "When the team you've joined create a note, automatically receive notifications for it.",
+			"email-notification-alert": "To receive email notification, you need to set email in General Settings.",
+			"email-notifications": "Email Notifications",
+			"every-5-min": "Once every 5 minutes",
+			"every-15-min": "Once every 15 minutes",
+			"an-hour-at-most": "Once an hour at most",
+			"never": "Never",
+			"every-note-counts-separately": "Every note counts separately."
+		},
+		"save": "Save",
+		"change-password-modal": {
+			"title": "Change your password",
+			"current-password": "Current password",
+			"confirm-new-password": "Confirm new password",
+			"new-password": "New password"
+ 		},
+		"setup-password-modal": {
+			"title": "Setup your password",
+			"confirm-password": "Confirm password"
+		},
+		"reset-avatar-msg": "Are you sure to reset your avatar?"
+	},
+	"textcomplete": {
+		"support-referrals": {
+			"link-1": "[reference link]",
+			"link-2": "[reference]: https:// \"title\"",
+			"footnote-link-1": "[^footnote link]",
+			"footnote-link-2": "[^footnote reference]: https:// \"title\"",
+			"inline-footnote": "^[inline footnote]",
+			"link-text-1": "[link text][reference]",
+			"link-text-2": "[link text](https:// \"title\")",
+			"image-1": "![image alt][reference]",
+			"image-2": "![image alt](https:// \"title\")",
+			"image-3": "![image alt](https:// \"title\" =WidthxHeight)",
+			"toc": "[TOC]"
+		},
+		"support-extra-tags": {
+			"name-tag": "[name tag]",
+			"time-tag": "[time tag]",
+			"my-color-tag": "[my color tag]",
+			"random-color-tag": "[random color tag]"
+		},
+		"no-match": "No match in history",
+		"create": {
+			"guest": "Create guest note",
+			"normal": "Create note",
+			"team": "Create team note"
+		}
+	},
+	"editor": {
+		"editor-placeholder": "← Start by entering a title here\n===\nVisit /features if you don't know what to do.\nHappy hacking :)",
+		"status-bar": {
+			"tab-size": "Tab Size:",
+			"space": "Spaces:",
+			"cursor-text": "Line {{line}}, Columns {{ch}}",
+			"editor-line": " — {{count}} Lines",
+			"selected": " — Selected ",
+			"selected-line": "{{lines}} lines",
+			"selection-char-count": "{{count}} columns",
+			"length": "Length: {{length}}",
+			"max-length": "Your almost reach note max length limit.",
+			"nearly-fill-note": "You nearly fill the note, consider to make more pieces.",
+			"length-count": "You could write up to {{length}} characters in this note.",
+			"preferences": {
+				"title": "Click to change preferences",
+				"allow-override-browser-keymap": "safasfasfaAllow override browser keymap",
+				"show-editor-toolbar": "Show editor toolbar",
+				"enable-smart-paste": "Enable smart paste",
+				"enable-relative-line-number": "Enable relative line number"
+			},
+			"keymap": {
+				"title": "Click to change keymap"
+			},
+			"status-indent": {
+				"indent-type": "Click to switch indentation type",
+				"indent-width-label": "Click to change indentation size"
+			},
+			"status-theme": "Toggle editor theme",
+			"status-spellcheck": "Toggle spellcheck"
+		},
+		"toggle-sync-scrolling": "Toggle sync scrolling"
+	},
+	"toolbar": {
+		"bold": "Bold",
+		"italic": "Italic",
+		"strikethrough": "Strikethrough",
+		"heading": "Heading",
+		"code": "Code",
+		"quote": "Quote",
+		"generic-list": "Generic List",
+		"numbered-list": "Numbered List",
+		"check-list": "Check List",
+		"create-link": "Create Link",
+		"insert-image": "Insert Image",
+		"insert-table": "Insert Table",
+		"insert-horizontal-line": "Insert Horizontal Line",
+		"leave-comment": "Leave Comment",
+		"table": "\n\n| Column 1 | Column 2 | Column 3 |\n| -------- | -------- | -------- |\n| Text     | Text     | Text     |\n"
+	},
+	"pretty": {
+		"edit-note": "Click button to edit this note",
+		"published-on": "Published on"
+	},
+	"slide": {
+		"views": "{{count}} views",
+		"edit": "Edit this note"
+	},
+	"book": {
+		"search": "Search title...",
+		"refresh": "Refresh",
+		"edit": "Edit",
+		"collapse": "Collapse",
+		"open": "Open"
+	},
+	"toc": {
+		"toc": "Table of content",
+		"expand-all": "Expand all",
+		"collapse-all": "Collapse all",
+		"back-to-top": "Back to top",
+		"go-to-bottom": "Go to bottom"
+	},
+	"comment": {
+		"comments": "Comments",
+		"type-message-placeholder": "Type your message...",
+		"no-comment": "No comment.",
+		"send": "Send",
+		"cancel": "Cancel",
+		"reply": "Reply",
+		"edit": "Edit",
+		"delete": "Delete"
 	}
 }
