@@ -60,7 +60,7 @@
 		"signin-ldap" : "{{name}} (LDAP) oturumu aç",
 		"signin-via-email": "E-posta aracılığıyla giriş yapın",
 		"choose": "Yöntem seçin",
-		"via": "%s ile giriş yapın"
+		"via": "{{text}} ile giriş yapın"
 		"email-or-username": "E-posta ya da kullanıcı adı",
 		"email-or-username-placeholder": "E-posta adresiniz veya kullanıcı adınız",
 		"email": "E-posta",
