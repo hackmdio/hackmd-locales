@@ -1,6 +1,6 @@
 {
 	"revision": {
-		"revision": "Revisions",
+		"revision": "Düzeltmeler",
 		"download": "İndir",
 		"revert": "Geri al"
 	},
@@ -8,217 +8,217 @@
 		"or": "veya",
 		"cancel": "İptal",
 		"ok": "Tamam",
-		"got-it": "Got it",
+		"got-it": "Anladım",
 		"period": "."
 	},
 	"help": {
 		"title": "Yardım",
 		"contact": {
 			"title": "Kişiler",
-			"messenger": "Talk to us",
-			"github": "Hata bildir",
-			"email": "Bize email gönderin",
-			"donate": "Buy us coffee"
+			"messenger": "Bizimle konuşun",
+			"github": "Bir sorun bildirin",
+			"email": "Bize e-posta gönderin",
+			"donate": "Bize kahve alın"
 		},
 		"documents": "Belgeler",
 		"features": "Özellikler",
-		"yaml-meta": "YAML Özbilgisi",
-		"slide": "Slayt Örneği",
-		"book": "Book Example",
-		"cheatsheet": "Cheatsheet",
+		"yaml-meta": "YAML meta verisi",
+		"slide": "Slayt örneği",
+		"book": "Kitap örneği",
+		"cheatsheet": "Kopya kağıdı",
 		"example": "Örnek",
 		"syntax": {
 			"h1": "Başlık",
-			"ul": "Sırasız Liste",
-			"ol": "Sıralı Liste",
-			"todo": "Yapılacaklar Listesi",
-			"blockquote": "Alıntı Bloğu",
-			"b": "Kalın yazı",
-			"i": "İtalik yazı",
+			"ul": "Sırasız liste",
+			"ol": "Sıralı liste",
+			"todo": "Yapılacaklar listesi",
+			"blockquote": "Alıntı öbeği",
+			"b": "Kalın yazı tipi",
+			"i": "Eğik yazı tipi",
 			"strike": "Üstüçizili",
-			"ins": "Eklenmiş yazı",
-			"mark": "Seçili yazı",
-			"anchor": "Link",
-			"img": "Resim",
+			"ins": "Eklenen yazı",
+			"mark": "İşaretli yazı",
+			"anchor": "Bağlantı",
+			"img": "Görüntü",
 			"code": "Kod",
-			"embeded": "Dış veriler",
-			"alert": "Burası bir uyarı bölgesi."
+			"embeded": "Dış veri",
+			"alert": "Bu bir uyarı alanıdır."
 		}
 	},
 	"signup": {
-		"signup": "Sign up",
-		"new": "New to HackMD? ",
+		"signup": "Kaydol",
+		"new": "HackMD'de yeni misiniz? ",
 		"eeSite": {
 			"terms": {
-				"1": "By clicking below, you agree to our ",
-				"2": "terms of service."
+				"1": "Aşağıya tıklayarak, hizmet şartlarımızı ",
+				"2": "kabul etmiş olursunuz."
 			}
 		}
 	},
 	"signin": {
-		"signin": "Sign in",
-		"signin-ldap" : "Sign in to {{name}} (LDAP)",
-		"signin-via-email": "Sign in via Email",
-		"choose": "Metot seçin",
-		"via": "{{text}} ile giriş yapın",
-		"email-or-username": "Email or Username",
-		"email-or-username-placeholder": "Your email or Username",
-		"email": "Email",
-		"email-placeholder": "Your email",
-		"password": "Password",
-		"password-placeholder": "Your password"
+		"signin": "Oturum aç",
+		"signin-ldap" : "{{name}} (LDAP) oturumu aç",
+		"signin-via-email": "E-posta aracılığıyla giriş yapın",
+		"choose": "Yöntem seçin",
+		"via": "{{text}} ile giriş yapın"
+		"email-or-username": "E-posta ya da kullanıcı adı",
+		"email-or-username-placeholder": "E-posta adresiniz veya kullanıcı adınız",
+		"email": "E-posta",
+		"email-placeholder": "E-posta adresiniz",
+		"password": "Şifre",
+		"password-placeholder": "Şifreniz"
 	},
 	"refresh": {
-		"title": "Bu sayfayı yeniden yüklemek lazım",
+		"title": "Bu sayfa yenilenmeli",
 		"incompatible": {
-			"title": "Yerel uygulamanız uyumlu olmayan bir sürümde.",
-			"content": "Güncellemek için yenileyin."
+			"title": "Uyumsuz bir istemci sürümünüz var.",
+			"content": "Güncellemek için yenile."
 		},
 		"upgrade": {
-			"title": "Yeni versiyon kullanıma hazır!",
-			"note": "Değişikliklere burdan bakabilirsiniz",
-			"content": "Yeni özelliklere yenileyerek erişebilirsiniz."
+			"title": "Yeni sürüm mevcut!",
+			"note": "Buradan sürüm notlarına bakın",
+			"content": "Yeni özelliklerin tadını çıkarmak için yenileyin."
 		},
 		"auth": {
 			"title": "Kullanıcı durumunuz değişti.",
-			"content": "Yeni kullanıcı durumunuzu yüklemek için yenileyin."
+			"content": "Yeni kullanıcı durumunu yüklemek için yenileyin."
 		},
-		"donate": "Buy us coffee",
+		"donate": "Bize kahve alın",
 		"refresh": "Yenile"
 	},
 	"infobar": {
-		"owned": "owned this note",
-		"created": "created",
-		"changed": "changed",
+		"owned": "bu notun sahibi",
+		"created": "oluşturdu",
+		"changed": "değiştirdi",
 		"notification" : {
-			"watch": "Watch - Be notified of any changes",
-			"never": "Never - Never be notified"
+			"watch": "İzle - Değişikliklerden haberdar olun",
+			"never": "Asla - Asla haberdar etme"
 		}
 	},
 	"clipboard": {
 		"title": "Panodan içe aktar",
 		"content": "Markdown veya web sayfanızı buraya yapıştırın...",
 		"clear": "Temizle",
-		"import": "İçe Aktar"
+		"import": "İçe aktar"
 	},
 	"locked": {
-		"title": "Burası kilitli",
-		"content": "Üzgünüm, bu not sadece sahibi tarafından düzenlenebilir."
+		"title": "Bu not kilitli",
+		"content": "Üzgünüz, bu notu yalnızca sahibi düzenleyebilir."
 	},
 	"limit": {
-		"title": "Limite eriş",
-		"content1": "Üzgünüm, bu not için maksimum harf sayısına ulaştınız",
-		"content2": "Lütfen notu değiştirin veya birden fazla notlara bölün, teşekkürler!"
+		"title": "Sınıra ulaştınız",
+		"content1": "Üzgünüz, bu notun alabileceği en yüksek uzunluğa ulaştınız.",
+		"content2": "Lütfen içeriği azaltın veya daha fazla nota bölün. Teşekkür ederiz!"
 	},
 	"gist-import": {
-		"title": "Gist'ten içe aktar",
-		"content": "Gist URL'nizi buraya yapıştırın...",
-		"clear": "Clear",
-		"import": "Import"
+		"title": "Gist üzerinden içe aktar",
+		"content": "Gist bağlantınızı buraya yapıştırın...",
+		"clear": "Temizle",
+		"import": "İçe aktar"
 	},
 	"snippet-import": {
-		"title": "Snippet'ten içe aktar",
+		"title": "Parçacık üzerinden içe aktar",
 		"project": {
-			"placeholder": "Uygun Projelerden Seçin"
+			"placeholder": "Mevcut projelerden seçiniz"
 		},
 		"snippet": {
-			"placeholder": "Uygun Snippet'lerden Seçin"
+			"placeholder": "Mevcut parçacıklardan seçiniz"
 		},
 		"body": {
-			"project": "Project:",
-			"Snippet": "Snippet:"
+			"project": "Proje:",
+			"Snippet": "Parçacık:"
 		},
-		"clear": "Clear",
-		"import": "Import",
+		"clear": "Temizle",
+		"import": "İçe aktar",
 		"error": {
-			"fetch-error": "Unable to fetch gitlab parameters :(",
-			"not-valid-url-error": "Not a valid Snippet URL :("
+			"fetch-error": "Gitlab parametreleri alınamıyor :(",
+			"not-valid-url-error": "Geçerli bir parçacık bağlantısı değil :("
 		}
 	},
 	"snippet-export": {
-		"title": "Snippet olarak dışa aktarın",
+		"title": "Parçacık olarak dışa aktarın",
 		"project": {
-			"title": "Project:",
-			"placeholder": "Select From Available Projects"
+			"title": "Proje:",
+			"placeholder": "Mevcut projelerden seçiniz"
 		},
 		"visibility": {
-			"title": "Visibility:",
-			"placeholder": "Görünebilirlik seviyesini belirleyin",
-			"private": "Private",
-			"internal": "Internal"
+			"title": "Görünürlük:",
+			"placeholder": "Görünürlük seviyesini belirleyin",
+			"private": "Özel",
+			"internal": "Dahili"
 		},
 		"body": {
-			"title": "Title:",
-			"filename": "File Name:"
+			"title": "Başlık:",
+			"filename": "Dosya adı:"
 		},
-		"export": "Dışa Aktar",
-		"success": "Export Successful!",
-		"view-here": "View Snippet Here"
+		"export": "Dışa aktar",
+		"success": "Başarıyla dışa aktarıldı!",
+		"view-here": "Parçacığı buradan görüntüleyin"
 	},
 	"google-drive": {
 		"import": {
-			"title": "Import from Google Drive",
-			"failed": "Import failed :("
+			"title": "Google Drive'dan içe aktar",
+			"failed": "İçe aktarma başarısız :("
 		},
 		"export": {
-			"title": "Export to Google Drive",
-			"success": "Export Complete!",
-			"view-here": "Click here to view your file",
-			"error": "Export Error :("
+			"title": "Google Drive’a aktar",
+			"success": "Dışa aktarma tamamlandı!",
+			"view-here": "Dosyanızı görüntülemek için buraya tıklayın",
+			"error": "Dışa aktarma hatası :("
 		}
 	},
 	"gist": {
 		"import": {
-			"title": "Import from Gist",
-			"fetch-error": "Unable to fetch gist files :(",
-			"not-valid-gist-url-error": "Not a valid Gist URL :("
+			"title": "Gist'ten içe aktar",
+			"fetch-error": "Gist dosyaları alınamıyor :(",
+			"not-valid-gist-url-error": "Geçerli bir Gist bağlantısı değil :("
 		}
 	},
 	"import": {
-		"import-from-url": "Import from URL",
-		"not-valid-url-error": "Not a valid URL :(",
-		"import-failed": "Import failed :("
+		"import-from-url": "URL’den içe aktar",
+		"not-valid-url-error": "Geçerli bir URL değil :(",
+		"import-failed": "İçe aktarma başarısız :("
 	},
 	"delete": {
 		"title": "Emin misiniz?",
-		"yes": "Evet, devam et!",
-		"body-member": "Do you really want to remove this member?",
+		"yes": "Evet, bunu yap!",
+		"body-member": "Bu üyeyi gerçekten kaldırmak istiyor musunuz?",
 		"body": {
-			"msg": "Do you really want to delete this note?",
-			"item": "All users will lost their connection."
+			"msg": "Bu notu gerçekten silmek istiyor musunuz?",
+			"item": "Tüm kullanıcılar bağlantılarını kaybedecek."
 		}
 	},
 	"transfer": {
-		"title": "Transfer ownership",
-		"team-label": "Transfer to team you've joined",
-		"team-member-label": "Transfer to current team member",
-		"transfer": "Transfer"
+		"title": "Sahipliği aktar",
+		"team-label": "Katıldığınız ekibe aktarın",
+		"team-member-label": "Mevcut ekip üyesine aktarın",
+		"transfer": "Aktar"
 	},
 	"pull-changes": {
-		"title": "Pull changes from GitHub",
-		"apply": "Apply all differences"
+		"title": "GitHub'dan değişiklikleri çekin",
+		"apply": "Tüm farkları uygula"
 	},
 	"push-changes": {
-		"title": "Push changes to GitHub",
-		"body": "Are you ready to push changes to github?",
-		"push": "Push"
+		"title": "GitHub’a değişiklikleri gönderin",
+		"body": "Değişiklikleri Github'a göndermeye hazır mısınız?",
+		"push": "Gönder"
 	},
 	"header": {
 		"extra": {
 			"title": "Ekstra",
-			"slide": "Slayt Modu",
-			"book": "Book Mode"
+			"slide": "Slayt modu",
+			"book": "Kitap modu"
 		},
-		"revision": "Revisions",
+		"revision": "Düzeltmeler",
 		"export": {
-			"title": "Export",
+			"title": "Dışa aktar",
 			"dropbox": "Dropbox",
 			"google-drive": "Google Drive",
 			"gist": "Gist",
 			"snippet": "Snippet"
 		},
 		"import": {
-			"title": "Import",
+			"title": "İçe aktar",
 			"dropbox": "Dropbox",
 			"google-drive": "Google Drive",
 			"gist": "Gist",
@@ -226,340 +226,340 @@
 			"clipboard": "Pano"
 		},
 		"download": {
-			"title": "Download",
+			"title": "İndir",
 			"markdown": "Markdown",
 			"html": "HTML",
-			"raw-html": "Kaynak HTML",
+			"raw-html": "Ham HTML",
 			"odf": "ODF (Beta)",
 			"pdf": "PDF (Beta)"
 		},
 		"modes": {
 			"edit": "Düzenle",
-			"both": "İkisi de",
-			"view": "İncele"
+			"both": "Her kiside",
+			"view": "Görüntüle"
 		},
-		"help": "Help",
-		"image-upload": "Resim Yükle",
+		"help": "Yardım",
+		"image-upload": "Görsel yükle",
 		"menu": "Menü",
-		"enterprise-demo": "Demo of Enterprise Edition",
+		"enterprise-demo": "İşletme Sürümü Denemesi",
 		"new-note": "Yeni not",
-		"new-team-note": "New team note",
-		"team-manage": "Manage team",
-		"profile": "Profile",
-		"feature": "Features",
-		"dashboard": "Dashboard",
-		"settings": "Settings",
-		"logout": "Log out",
-		"sign-in": "Sign in",
-		"team": "Team",
-		"overview": "Overview",
+		"new-team-note": "Yeni ekip",
+		"team-manage": "Ekibi yönet",
+		"profile": "Profil",
+		"feature": "Özellikler",
+		"dashboard": "Kontrol paneli",
+		"settings": "Ayarlar",
+		"logout": "Oturumu kapat",
+		"sign-in": "Giriş yap",
+		"team": "Ekip",
+		"overview": "Genel bakış",
 		"intro": "Giriş",
-		"recent": "Recent",
-		"manage": "Manage",
+		"recent": "En son",
+		"manage": "Yönet",
 		"new": "Yeni",
 		"publish": "Yayınla",
-		"getting-started": "Getting Started",
-		"getting-started-with-hackmd": "Getting Started with HackMD",
-		"getting-started-tips": "Learn how to create, share, and manage your notes.",
-		"signout": "Sign out",
-		"permission": "Permission",
+		"getting-started": "Başlarken",
+		"getting-started-with-hackmd": "HackMD ile Başlarken",
+		"getting-started-tips": "Notlarınızı nasıl oluşturacağınızı, paylaşacağınızı ve yöneteceğinizi öğrenin.",
+		"signout": "Çıkış yap",
+		"permission": "İzin",
 		"note": {
-			"title": "Note Permission",
-			"read": "Read",
-			"write": "Write",
-			"owner": "Owner",
-			"signedin": "Signed-in",
-			"guest": "Guest",
-			"public": "Public",
-			"help": "Note owner decides who can read or write this note."
+			"title": "Not İzni",
+			"read": "Okuma",
+			"write": "Yazma",
+			"owner": "Sahip",
+			"signedin": "Giriş yapıldı",
+			"guest": "Misafir",
+			"public": "Genel",
+			"help": "Not sahibi, bu notu kimin okuyabileceğine veya yazabileceğine karar verir."
 		},
 		"comments": {
-			"title": "Comments",
-			"enable": "Enable",
-			"disable": "Disable",
-			"read": "Read",
-			"write": "Comment",
-			"owner": "Owner",
-			"signedin": "Signed-in",
-			"guest": "Guest",
-			"help": "Note owner decides who can read or give comments."
+			"title": "Yorumlar",
+			"enable": "Etkinleştir",
+			"disable": "Kapat",
+			"read": "Oku",
+			"write": "Yorum",
+			"owner": "Sahip",
+			"signedin": "Giriş yapıldı",
+			"guest": "Misafir",
+			"help": "Not sahibi, kimin okuyabileceğine veya yorum verebileceğine karar verir."
 		},
 		"invitee": {
-			"title": "Invitee",
-			"invite": "Invite",
-			"read": "Read",
-			"write": "Write",
-			"admin": "Admin",
-			"help": "Admin can invite users and change note permissions.",
-			"search-user-placeholder": "Search user by email..."
+			"title": "Davetli",
+			"invite": "Davet et",
+			"read": "Oku",
+			"write": "Yaz",
+			"admin": "Yönetici",
+			"help": "Yönetici kullanıcıları davet edebilir ve not izinlerini değiştirebilir.",
+			"search-user-placeholder": "E-posta ile kullanıcı ara..."
 		},
-		"options": "Options",
-		"share": "Share",
-		"transfer-ownership": "Transfer ownership",
-		"delete-note": "Delete this note",
-		"back": "Back",
-		"shelf": "Shelf",
+		"options": "Seçenekler",
+		"share": "Paylaş",
+		"transfer-ownership": "Sahipliği aktar",
+		"delete-note": "Bu notu sil",
+		"back": "Geri",
+		"shelf": "Raf",
 		"github": {
-			"pull": "Pull Changes",
-			"push": "Push Changes"
+			"pull": "Değişiklikleri çekin",
+			"push": "Değişiklikleri gönderin"
 		},
 		"notification": {
 			"watch": {
-				"label": "Watch",
-				"title": "Be notified of any changes"
+				"label": "İzle",
+				"title": "Herhangi bir değişiklikten haberdar olun"
 			},
 			"never": {
-				"label": "Never",
-				"title": "Never be notified"
+				"label": "Asla",
+				"title": "Asla haberdar etme"
 			},
-			"no-email": "Set email in <i class=\"fa fa-gear\"></i> Settings to receive email notification!"
+			"no-email": "E-posta bildirimi almak için <i class=\"fa fa-gear\"></i> ayarlardan e-posta ayarlayın!"
 		},
-		"lost-content": "You might lost content if you leave now, are you sure?",
+		"lost-content": "Şimdi giderseniz içeriği kaybedebilirsiniz, emin misiniz?",
 		"status-type": {
-			"connected": "CONNECTED",
-			"online": "ONLINE",
-			"offline": "OFFLINE"
+			"connected": "BAĞLI",
+			"online": "ÇEVRİMİÇİ",
+			"offline": "ÇEVRİMDIŞI"
 		}
 	},
 	"footer": {
-		"product": "Product",
-		"enterprise": "Enterprise",
-		"templates": "Templates",
-		"open-source": "Open Source",
-		"resources": "Resources",
-		"features": "Features",
-		"tutorial": "Tutorial",
-		"faq": "FAQ",
-		"information": "Information",
-		"about": "About",
+		"product": "Ürün",
+		"enterprise": "İşletme",
+		"templates": "Şablonlar",
+		"open-source": "Açık Kaynak",
+		"resources": "Kaynaklar",
+		"features": "Özellikler",
+		"tutorial": "Öğretici",
+		"faq": "SSS",
+		"information": "Bilgi",
+		"about": "Hakkında",
 		"blog": "Blog",
-		"company": "Company",
-		"privacy": "Privacy",
-		"tos": "Terms of Use",
+		"company": "Şirket",
+		"privacy": "Gizlilik",
+		"tos": "Kullanım Şartları",
 		"releases": "Sürümler",
-		"about-ee": "About {{name}}",
-		"about-hackmd": "About HackMD",
-		"coffee": "Buy us coffee",
-		"terms": "Terms",
-		"donate": "BUY US COFFEE"
+		"about-ee": "{{name}} Hakkında",
+		"about-hackmd": "HackMD Hakkında",
+		"coffee": "Bize kahve alın",
+		"terms": "Şartlar",
+		"donate": "BİZE KAHVE ALIN"
 	},
 	"error": {
-		"home": "Home",
-		"back": "You could head back to home.",
-		"signin": "Sign in or head back to home.",
-		"try": "Try again later or head back to home.",
+		"home": "Ev",
+		"back": "Eve dönebilirsin.",
+		"signin": "Giriş yapın veya eve dönün.",
+		"try": "Daha sonra tekrar deneyin veya eve geri dönün.",
 		"400": {
-			"title": "400 Bad Request",
-			"content": "Your browser sent an invalid request."
+			"title": "400 Kötü İstek",
+			"content": "Tarayıcınız geçersiz bir istek gönderdi."
 		},
 		"403": {
-			"title": "403 Forbidden",
-			"content": "You don't have permission to access this resource."
+			"title": "403 Yasak",
+			"content": "Bu kaynağa erişim izniniz yok."
 		},
 		"404": {
-			"title": "404 Not Found",
-			"content": "We can't find the page you’re looking for."
+			"title": "404 Bulunamadı",
+			"content": "Aradığınız sayfayı bulamıyoruz."
 		},
 		"500": {
-			"title": "500 Interal Error",
-			"content": "An error occurred when we tried to process your request."
+			"title": "500 İç Hata",
+			"content": "İsteğinizi işleme koymaya çalışırken bir hata oluştu."
 		}
 	},
 	"home": {
-		"enterprise": "Enterprise",
-		"slogan": "Build a community with open collaboration.",
-		"use-free": "Use for free",
-		"btn-between-or": "or",
-		"btn-sign-in": "Sign in",
-		"how-to-use": "How to use?",
+		"enterprise": "İşletme",
+		"slogan": "Açık işbirliği ile bir topluluk oluşturun.",
+		"use-free": "Ücretsiz kullanın",
+		"btn-between-or": "ya da",
+		"btn-sign-in": "Giriş yapın",
+		"how-to-use": "Nasıl kullanılır?",
 		"concept": {
-			"title": "Concept",
-			"subtitle": "Share all document / knowledge / information with your community.",
-			"note": "Create a note",
-			"collaborate": "Open collaborate",
-			"share": "Share and track"
+			"title": "Fikir",
+			"subtitle": "Tüm belge / tecrübe / bilgileri topluluğunuzla paylaşın.",
+			"note": "Bir not oluştur",
+			"collaborate": "Ortak çalışmayı aç",
+			"share": "Paylaş ve izle"
 		},
-		"btn-try": "Try it",
+		"btn-try": "Dene",
 		"empowering": {
-			"1": "Real-time collaboration at scale",
-			"2": "Turn white papers and API specs into living documents.",
-			"3": "Create dedicated team space for each open source project.",
-			"title": "Empowering community"
+			"1": "Ölçekte gerçek zamanlı işbirliği",
+			"2": "Tanıtım belgelerini ve API özelliklerini canlı belgelere dönüştürün.",
+			"3": "Her açık kaynaklı proje için özel ekip alanı oluşturun.",
+			"title": "Güçlendirici topluluk"
 		},
 		"be-in-know": {
-			"1": "Bring all community discussions into one place.",
-			"2": "Get notified when the SINGLE source of truth changes.",
-			"3": "Search or roll back to any previous version.",
-			"title": "Be in the know"
+			"1": "Tüm topluluk tartışmalarını tek bir yere getirin.",
+			"2": "Tek gerçek kaynağı değiştiğinde haberdar olun.",
+			"3": "Arama yapın veya önceki sürümlere geri dönün.",
+			"title": "Biliyor olun"
 		},
 		"feature": {
-			"title": "Features"
+			"title": "Özellikler"
 		},
 		"features": {
 			"markdown": {
-				"subtitle": "Write in markdown natively",
+				"subtitle": "Markdown yerel olarak yazın",
 				"title": "Markdown"
 			},
 			"slide": {
-				"subtitle": "Make a slide deck with a snap",
-				"title": "Slide Mode"
+				"subtitle": "Bir çırpıda bir slayt oluşturun",
+				"title": "Slayt modu"
 			},
 			"book-mode": {
-				"subtitle": "Collect any note into a book",
-				"title": "Book Mode"
+				"subtitle": "Bir kitap içine herhangi bir not toplayın",
+				"title": "Kitap modu"
 			},
 			"hackmd-it": {
-				"subtitle": "GitHub / GitLab integration, instant access",
+				"subtitle": "GitHub / GitLab entegrasyonu, anında erişim",
 				"title": "HackMD-it"
 			},
 			"diagram": {
-				"subtitle": "Create math formulas and UML with text",
+				"subtitle": "Metin ile matematik formülleri ve UML oluşturun",
 				"title": "MathJax & UML"
 			},
 			"image": {
-				"subtitle": "Drag and drop image, auto-upload",
-				"title": "Upload image"
+				"subtitle": "Görüntüyü sürükleyip bırakın, otomatik yüklenir",
+				"title": "Görüntü yükle"
 			},
 			"export": {
-				"subtitle": "Export to PDF, md, or html files",
-				"title": "Take it with you"
+				"subtitle": "PDF, md veya html dosyalarına aktar",
+				"title": "Yanınızda taşıyın"
 			},
 			"tags": {
-				"subtitle": "Manage and search notes with tags",
-				"title": "Manage with tags"
+				"subtitle": "Etiketlerle notları yönetin ve arayın",
+				"title": "Etiketlerle yönet"
 			}
 		},
-		"trustedBy": "Trusted By",
+		"trustedBy": "Tarafından Güvenilen",
 		"plans": {
-			"title": "Plans",
+			"title": "Planlar",
 			"free": {
-				"1": "Unlimited notes",
-				"2": "Unlimited collaborators",
-				"3": "Email notification",
-				"4": "Use without login",
-				"title": "Free",
-				"subtitle": "Start open collaboration now.",
-				"start": "Start using"
+				"1": "Sınırsız notlar",
+				"2": "Sınırsız işbirlikçileri",
+				"3": "E-posta bildirimleri",
+				"4": "Oturum açmadan kullanın",
+				"title": "Üretsiz",
+				"subtitle": "Şimdi işbirliğini başlatın.",
+				"start": "Kullanmaya başla"
 			},
 			"business": {
-				"1": "Single Sign-On or SAML login",
-				"2": "Role-based access control",
-				"3": "Unlimited team space",
-				"4": "Private image storage",
-				"ribbon": "Hot",
-				"title": "Business Plan",
-				"subtitle": "Customized access control for your use case.",
-				"btn-more": "More features",
-				"btn-contact": "We are interested"
+				"1": "Tekli Oturum Açma veya SAML girişi",
+				"2": "Rol tabanlı erişim kontrolü",
+				"3": "Sınırsız ekip alanı",
+				"4": "Özel görüntü saklama",
+				"ribbon": "Sıcak",
+				"title": "İş planı",
+				"subtitle": "Kullanım durumunuz için özelleştirilmiş erişim kontrolü.",
+				"btn-more": "Diğer özellikler",
+				"btn-contact": "Biz ilgileniyoruz"
 			},
 			"conf": {
-				"1": "Customized URL to your shared notes",
-				"2": "Team space for conference hosts",
-				"3": "Best practice training and sharing",
-				"4": "More customized options up to you",
-				"ribbon": "Free",
-				"title": "Conference Plan",
-				"subtitle": "Help you share knowledge is our mission.",
-				"contact": "Ask us anything"
+				"1": "Paylaşılan notlarınıza özelleştirilmiş URL",
+				"2": "Konferans ev sahipleri için ekip alanı",
+				"3": "En iyi uygulama eğitimi ve paylaşımı",
+				"4": "Size özel daha fazla seçenek",
+				"ribbon": "Ücretsiz",
+				"title": "Konferans planı",
+				"subtitle": "Bilgiyi paylaşmanıza yardımcı olmak bizim görevimizdir.",
+				"contact": "Bize bir şey sorun"
 			}
 		},
-		"active-users": "Join 160,000+ active users! Come and love it"
+		"active-users": "160.000'den fazla etkin kullanıcılara katılın! Gelin ve sevin"
 	},
 	"profile": {
-		"member-since": "Member since  {{date}}",
-		"no-notes": "You don't have any notes!",
-		"no-result": "No results.",
-		"end-of-notes": "That's it! This is the end of your notes.",
+		"member-since": "{{date}} tarihinden beri üye",
+		"no-notes": "Notlarınız yok!",
+		"no-result": "Sonuç yok.",
+		"end-of-notes": "Bu kadar! Bu notlarınızın sonu.",
 		"search": {
-			"placeholder": "Search notes..."
+			"placeholder": "Notlarda ara..."
 		},
-		"created": "created",
-		"found-notes": "We found {{count}} notes.",
-		"edit": "Edit this note",
-		"publish": "Publish",
-		"slide-mode": "Slide Mode",
-		"book-mode": "Book Mode",
+		"created": "oluşturdu",
+		"found-notes": "{{count}} not bulduk.",
+		"edit": "Bu notu düzenle",
+		"publish": "Yayınla",
+		"slide-mode": "Slayt modu",
+		"book-mode": "Kitap modu",
 		"permission": {
-			"freely": "Anyone can edit",
-			"editable": "Signed-in people can edit",
-			"limited": "Signed-in people can edit (forbid guests)",
-			"locked": "Only owner can edit",
-			"protected": "Only owner can edit (forbid guests)",
-			"private": "Only owner can view & edit"
+			"freely": "Herkes düzenleyebilir",
+			"editable": "Oturum açmış kişiler düzenleyebilir",
+			"limited": "Oturum açmış kişiler düzenleyebilir (misafirleri yasakla)",
+			"locked": "Yalnızca sahibi düzenleyebilir",
+			"protected": "Yalnızca sahibi düzenleyebilir (misafirleri yasakla)",
+			"private": "Yalnızca sahibi görüntüleyebilir ve düzenleyebilir"
 		}
 	},
 	"overview": {
 		"search": {
-			"placeholder": "Search keyword or tag..."
+			"placeholder": "Anahtar kelime veya etiket ara..."
 		},
 		"filter": {
-			"title": "Filter",
-			"all": "All",
-			"shared-with-me": "Shared with me",
-			"my-notes": "My notes"
+			"title": "Süzgeç",
+			"all": "Tümü",
+			"shared-with-me": "Benimle paylaşılanlar",
+			"my-notes": "Notlarım"
 		},
-		"unvisited" : "Unvisited",
-		"changed": " changed ",
+		"unvisited" : "Ziyaret edilmemiş",
+		"changed": " değiştirdi ",
 		"category": {
-			"categories": "Categories",
+			"categories": "Kategoriler",
 			"description": {
-				"title": "We use the first tag of each note as its category.<br>Click icon to read more."
+				"title": "Her notun ilk etiketini kategori olarak kullanıyoruz.<br>Daha fazla okumak için simgeye tıklayın."
 			}
 		},
-		"show-with-categories": "Show with categories",
-		"default-section": "Untagged",
-		"unselect-all": "Unselect all",
-		"select-all": "Select all",
+		"show-with-categories": "Kategorilerle göster",
+		"default-section": "Etiketsiz",
+		"unselect-all": "Tüm seçimleri kaldır",
+		"select-all": "Tümünü seç",
 		"sorted": {
-			"multiple-sorting": "Multiple Sorting",
-			"categories-sorted-by": "Categories sorted by",
-			"notes-sorted-by": "Notes sorted by",
-			"new_to_old": "New to old",
-			"old_to_new": "Old to new",
-			"a_to_z": "A to Z",
-			"z_to_a": "Z to A"
+			"multiple-sorting": "Birden çok sıralama",
+			"categories-sorted-by": "Kategorilere göre sırala",
+			"notes-sorted-by": "Notlara göre sırala",
+			"new_to_old": "Yeniden eskiye",
+			"old_to_new": "Eskiden yeniye",
+			"a_to_z": "A - Z",
+			"z_to_a": "Z - A"
 		},
-		"no-notes-with-current-filters": "No notes with current filters",
-		"no-notes": "No notes",
-		"grid-layout": "Grid layout",
-		"row-layout": "Row layout"
+		"no-notes-with-current-filters": "Geçerli süzgeçlerle not yok",
+		"no-notes": "Not yok",
+		"grid-layout": "Izgara düzeni",
+		"row-layout": "Satır düzeni"
 	},
 	"site": {
 		"meta": {
-			"description": "Markdownda bilginizi paylaşmanın en kolay yolu.",
+			"description": "Bilginizi yazmanın ve paylaşmanın en iyi yolu.",
 			"og": {
 				"title-suffix": "Ortak markdown notları",
-				"description": "Best way to write and share your knowledge in markdown."
+				"description": "Bilginizi yazmanın ve paylaşmanın en iyi yolu."
 			},
 			"tw": {
-				"title-suffix": "Collaborative markdown notes",
-				"description": "Best way to write and share your knowledge in markdown."
+				"title-suffix": "Ortak markdown notları",
+				"description": "Bilginizi yazmanın ve paylaşmanın en iyi yolu."
 			}
 		},
-		"title-suffix": "Collaborative markdown notes",
-		"untitled": "Untitled",
-		"overview": "Overview",
-		"recent": "Recent",
-		"shelf": "Shelf",
-		"getting-started": "Getting Started",
-		"manage": "Team Management",
-		"about-us": "About Us",
-		"settings": "Settings",
-		"docflow-setup": "HackDF Setup",
-		"docflow-import": "HackDF Import",
-		"signup": "Sign up",
-		"login": "Sign in",
-		"verify_email": "Email verification complete",
-		"finish-join": "Finish signup"
+		"title-suffix": "Ortak markdown notları",
+		"untitled": "Başlıksız",
+		"overview": "Genel bakış",
+		"recent": "En son",
+		"shelf": "Raf",
+		"getting-started": "Başlarken",
+		"manage": "Ekip yönetimi",
+		"about-us": "Hakkımızda",
+		"settings": "Ayarlar",
+		"docflow-setup": "HackDF Kurulumu",
+		"docflow-import": "HackDF İçe Aktar",
+		"signup": "Kaydol",
+		"login": "Oturum aç",
+		"verify_email": "E-posta doğrulama tamamlandı",
+		"finish-join": "Kaydı tamamla"
 	},
 	"recent": {
-		"from-browser": "Aşağıda tarayıcınızın geçmişi var",
+		"from-browser": "Tarayıcıdan gelen geçmiş aşağıda",
 		"search": {
 			"tags": {
-				"placeholder": "Etiketleri seçin..."
+				"placeholder": "Etiketleri seç..."
 			},
 			"keyword": {
-				"placeholder": "Anahtar kelimeleri arayın..."
+				"placeholder": "Anahtar kelime ara..."
 			}
 		},
 		"sort": {
@@ -574,173 +574,173 @@
 		"refresh": "Geçmişi yenile",
 		"empty": "Geçmiş yok",
 		"import-browser": "Tarayıcıdan içe aktar",
-		"visited": " visited ",
-		"delete-all-history": "Do you really want to clear all history?",
-		"delete-below-history": "Do you really want to delete below history?",
-		"can-not-restore": "There is no turning back."
+		"visited": " ziyaret edildi ",
+		"delete-all-history": "Gerçekten tüm geçmişi temizlemek istiyor musunuz?",
+		"delete-below-history": "Gerçekten aşağıdaki geçmişi silmek istiyor musunuz?",
+		"can-not-restore": "Geri dönüşü yok."
 	},
 	"docflow": {
-    "survey": "Meanwhile, please tell us how you think about HackMD <a target=\"_blank\" href=\"https://goo.gl/forms/4GaEVgVilkjxXeTs1\">with this survey</a>.",
+    "survey": "Bu arada, lütfen <a target=\"_blank\" href=\"https://goo.gl/forms/4GaEVgVilkjxXeTs1\">bu anket ile</a> HackMD hakkında ne düşündüğünüzü bize anlatın.",
     "step1": {
-      "1": "Sign in to HackMD",
-      "2": "Authorize HackDF to access GitHub webhooks",
-      "3": "Choose which repository to use HackDF",
-      "title": "Set up GitHub App",
-      "step1": "<b>Step 1.&nbsp;</b>",
-      "signin-to-manage-document": "Sign in and manage documentation",
-			"step2": "<b>Step 2.&nbsp;</b>",
-			"linking-finished": "Authorized",
-      "connect": "Authorize",
-			"step3": "<b>Step 3.&nbsp;</b>",
-			"modify": "Change",
-			"start-installation": "Choose repos",
-			"installed-repo": "List of authorized repos",
-			"refresh": "Refresh the list"
+      "1": "HackMD'ye giriş yapın",
+      "2": "GitHub web kancalarına erişmek için HackDF'yi yetkilendirin",
+      "3": "HackDF'yi kullanmak için hangi depoyu kullanacağınızı seçin",
+      "title": "GitHub App'i Ayarla",
+      "step1": "<b>Adım 1.&nbsp;</b>",
+      "signin-to-manage-document": "Oturum açın ve belgeleri yönetin",
+			"step2": "<b>Adım 2.&nbsp;</b>",
+			"linking-finished": "Yetkili",
+      "connect": "Yetkilendir",
+			"step3": "<b>Adım 3.&nbsp;</b>",
+			"modify": "Değiştir",
+			"start-installation": "Depoları seç",
+			"installed-repo": "Yetkili depoların listesi",
+			"refresh": "Listeyi yenile"
     },
     "step2": {
-      "p1": "From now on, everytime someone pushes commits to the master branch of the repo, HackDF will automatically detect if the relevant document needs updating and remind the commit pusher to do so.",
-      "default-document": "Default document checking rules",
-      "p2": "<p>By default, any changes to files under directories named: </p> <ul> <li><code>src</code></li> <li><code>lib</code></li> <li><code>test</code></li> </ul> <p>will trigger update reminders on</p> <ul> <li><code>README.md</code></li> <li>all markdown files under <code>docs</code></li></ul>",
-      "customized": "Customized document checking rules",
-      "p3": "If you think the default reminder is not specific enough or does not cover all your documents, you can customize your mapping between documents and code by adding a config file to <code>.hackdf/config.yml</code>. <br>Here's an example of how the default setting would look like:",
-      "p4": "To learn more about customizing the config file, please see <a target=\"_blank\" href=\"https://hackmd.io/s/hackdf-guide\">HackDF Guides</a> 📚 or <a target=\"_blank\" href=\"https://github.com/hackmdio/hackdf-issues/issues\">contact us</a>. <br>More resource on using Git, see: <a target=\"_blank\" href=\"https://guides.github.com/activities/hello-world/\">Git Guides</a>"
+      "p1": "Şu andan itibaren, birisi commit'leri deponun ana şubesine gönderirse, HackDF, ilgili belgenin güncellenmesi gerekip gerekmediğini otomatik olarak algılar ve commit göndericisinin bunu yapmasını hatırlatacaktır.",
+      "default-document": "Varsayılan belge kontrol kuralları",
+      "p2": "<p>Varsayılan olarak, aşağıdaki dizinlerin altındaki dosyalarda yapılan değişiklikler: </p> <ul> <li><code>src</code></li> <li><code>lib</code></li> <li><code>test</code></li> </ul> <p>güncelleme hatırlatıcılarını açık</p> <ul> <li><code>README.md</code></li> <li>altındaki tüm markdown dosyaları <code>docs</code></li></ul>",
+      "customized": "Özelleştirilmiş belge kontrol kuralları",
+      "p3": "Varsayılan hatırlatmanın yeterince belirgin olmadığını veya tüm belgelerinizi kapsamadığını düşünüyorsanız, <code>.hackdf/config.yml</code>'e bir yapılandırma dosyası ekleyerek eşlemenizi belgeler ve kod arasında özelleştirebilirsiniz. <br>Varsayılan ayarın nasıl görüneceğine bir örnek:",
+      "p4": "Config dosyasını kişiselleştirmek hakkında daha fazla bilgi için, lütfen <a target=\"_blank\" href=\"https://hackmd.io/s/hackdf-guide\">HackDF Kılavuzları</a> 📚 bakın ya da <a target=\"_blank\" href=\"https://github.com/hackmdio/hackdf-issues/issues\">bizimle iletişim kurun</a>. <br>Git'i kullanmakla ilgili daha fazla kaynak, bakınız: <a target=\"_blank\" href=\"https://guides.github.com/activities/hello-world/\">Git Kılavuzları</a>"
     },
     "landing-page": {
-      "title": "HackDF Keeps Documentation Fresh 🍋",
-      "p1": "HackDF reminds you to update documentation without changing your day to day workflow. Every time you <b>push commits to GitHub</b>, HackDF will automatically detect if documentation needs updating. If so, you will <b>receive an e-mail</b>.",
-      "p2": "Free your mind from keeping track of documents and never get bitten by the same bug  🐛  twice.",
-      "cta": "Start chilling now"
+      "title": "HackDF Belgeleri Taze Tutuyor 🍋",
+      "p1": "HackDF, günlük iş akışınızı değiştirmeden belgeleri güncellemenizi hatırlatır. <b>GitHub'a her bir commit gönderdiğinizde</b> HackDF, dokümantasyonun güncellenmesi gerekip gerekmediğini otomatik olarak algılar. Öyleyse, bir <b>e-posta alacaksınız</b>.",
+      "p2": "Dokümanları takip etmekten zihninizi boşaltın ve asla aynı böcek 🐛 tarafından iki kez ısırılmayın.",
+      "cta": "Şimdi soğutmaya başlayın"
     },
-		"view-documents": "View documents",
-		"import-documents": "Import documents",
+		"view-documents": "Belgeleri görüntüle",
+		"import-documents": "Belgeleri içe aktar",
 		"import": {
-			"succeed": "Import repository documents succeed!",
-			"succeed-with-warning": "Import repository documents succeed with warning:",
-			"view-documents": "View documents",
-			"failed": "Import repository documents failed :(",
-			"back": "Back to HackDF",
-			"importing": "Importing..."
+			"succeed": "Depo belgelerini içe aktarma başarılı!",
+			"succeed-with-warning": "Depo belgelerini içe aktarma uyarıyla başarılı olur:",
+			"view-documents": "Belgeleri görüntüle",
+			"failed": "Depo belgelerini içe aktarma başarısız oldu :(",
+			"back": "HackDF'e geri gön",
+			"importing": "İçe aktarılıyor..."
 		}
 	},
 	"shelf": {
-		"documents": "{{count}} documents",
-		"empty": "No shelf",
-		"shelf-on": "Shelf on ",
-		"settings": " Settings",
+		"documents": "{{count}} belge",
+		"empty": "Raf boş",
+		"shelf-on": "Rafta ",
+		"settings": " Ayarlar",
 		"github": " Github",
-		"delete-this-shelf": " Delete this shelf",
-		"delete-msg": "Do you really want to delete this shelf?",
-		"no-readme": "Add a README with an overview of your project."
+		"delete-this-shelf": " Bu rafı sil",
+		"delete-msg": "Bu rafı gerçekten silmek istiyor musunuz?",
+		"no-readme": "Projenize genel bir bakış içeren bir README ekleyin."
 	},
 	"disqus": {
-		"content1": "Please enable JavaScript to view the ",
-		"content2": "comments powered by Disqus."
+		"content1": "Disqus tarafından desteklenen yorumları ",
+		"content2": "görüntülemek için lütfen JavaScript'i etkinleştirin."
 	},
 	"auth": {
 		"join-success": {
-			"welcome": "Welcome to HackMD!",
-			"confirm": "You have confirmed email address."
+			"welcome": "HackMD hoş geldiniz!",
+			"confirm": "E-posta adresinizi doğruladınız"
 		},
 		"join": {
-			"username": "Username",
-			"username-placeholder": "Your username",
-			"allow": "Allow a-Z, 0-9 and dash not at beginning.",
-			"email": "Email",
-			"email-placeholder": "Your email",
-			"password": "Password",
-			"password-placeholder": "Your password",
-			"password-length": "Use a minimum password length of 8-30 characters."
+			"username": "Kullanıcı adı",
+			"username-placeholder": "Kullanıcı adınız,
+			"allow": "a-Z, 0-9 ve tire işaretinin başlangıçta kullanmayın.",
+			"email": "E-posta",
+			"email-placeholder": "E-posta adresiniz",
+			"password": "Şifre",
+			"password-placeholder": "Şifreniz",
+			"password-length": "En az 8-30 karakter uzunluğunda bir şifre kullanın."
 		},
 		"finish-join": {
-			"check-email": "Check your inbox to verify your email",
-			"send-email": "We've sent an email to ",
-			"verify-email": "Follow the instructions to verify your email address.",
-			"did-not-receive": "Didn't receive the verification email?",
-			"send-again": "Send it again",
-			"reason": "Email verification helps us to ensure your data will always be safe."
+			"check-email": "E-postanızı doğrulamak için gelen kutunuzu kontrol edin",
+			"send-email": "Adresinize bir e-posta gönderdik: ",
+			"verify-email": "E-posta adresinizi doğrulamak için talimatları izleyin.",
+			"did-not-receive": "Doğrulama e-postasını almadınız mı?",
+			"send-again": "Tekrar yolla",
+			"reason": "E-posta doğrulama, verilerinizin her zaman güvende olmasını sağlamak için bize yardımcı olur."
 		},
 		"common": {
-			"sign-in": "Sign in",
-			"sign-up": "Sign up",
-			"have-an-account": "Have an account?"
+			"sign-in": "Oturum aç",
+			"sign-up": "Kaydol",
+			"have-an-account": "Bir hesabınız var mı?"
 		}
 	},
   "invitation": {
-    "resendInvitation": "Resend Invitation",
-    "resendInvitationPrompt": "Do you want to resend invitation email?"
+    "resendInvitation": "Yeniden gönderme daveti",
+    "resendInvitationPrompt": "Davet e-postasını tekrar göndermek ister misiniz?"
   },
 	"about": {
-		"contact": "Contact Us",
-		"join": "Join Us"
+		"contact": "Bizimle iletişime geçin",
+		"join": "Bize katılın"
 	},
 	"settings": {
-		"general-settings": "General Settings",
-		"upload-logo": "Upload logo",
-		"reset-logo": "Reset logo",
-		"team-name": "Team Name",
-		"team-name-placeholder": "Your team name",
-		"team-description": "Team Description",
-		"team-description-placeholder": "Your team description",
-		"team-url-path": "Team URL Path",
-		"team-url-path-placeholder": "Your team URL path",
-		"team-members": "Team Members",
-		"add-new-member": "Add New Member",
-		"username-or-email-address": "Username or email address",
+		"general-settings": "Genel Ayarlar",
+		"upload-logo": "Logo yükle",
+		"reset-logo": "Logoyu sıfırla",
+		"team-name": "Ekip Adı",
+		"team-name-placeholder": "Ekip adınız",
+		"team-description": "Ekip Açıklaması",
+		"team-description-placeholder": "Ekip açıklamanız",
+		"team-url-path": "Ekip URL Yolu",
+		"team-url-path-placeholder": "Ekip bağlantınız",
+		"team-members": "Ekip Üyeleri",
+		"add-new-member": "Yeni Üye Ekle",
+		"username-or-email-address": "Kullanıcı adı ya da e-posta adresi",
 		"team-role": {
-			"admin": "Admin",
-			"member": "Member",
-			"friend": "friend"
+			"admin": "Yönetici",
+			"member": "Üye",
+			"friend": "arkadaş"
 		},
-		"add": "Add",
-		"choose-photo": "Choose photo",
-		"reset-avatar": "Reset avatar",
-		"name": "Name",
-		"name-placeholder": "Your full name",
-		"username": "Username",
-		"username-placeholder": "Your username",
-		"allow": "Allow a-Z, 0-9 and dash not at beginning.",
-		"email": "Email",
-		"email-placeholder": "Your email",
-		"email-invalid": "Email address is invalid",
-		"email-not-confirmed": "New email hasn't been confirmed.",
-		"emial-has-been-sent": "Confirmation email has been sent.",
-		"resend-email": "Resend email",
-		"password": "Password",
-		"have-password": "You've set your password.",
-		"change-password": "Change password",
-		"not-have-password": "You don't have password.",
-		"setup-password": "Setup password",
-		"biography": "Biography",
-		"biography-placeholder": "Tell about yourself...",
-		"submit": "Submit",
-		"match-error": "Oops, these don't match.",
+		"add": "Ekle",
+		"choose-photo": "Fotoğraf seç",
+		"reset-avatar": "Avatarı sıfırla",
+		"name": "İsim",
+		"name-placeholder": "Tam adınız",
+		"username": "Kullanı adı",
+		"username-placeholder": "Kullanıcı adınız",
+		"allow": "a-Z, 0-9 ve tire işaretinin başlangıçta kullanmayın.",
+		"email": "E-posta",
+		"email-placeholder": "E-posta adresiniz",
+		"email-invalid": "E-posta adresi geçersiz",
+		"email-not-confirmed": "Yeni e-posta onaylanmadı.",
+		"emial-has-been-sent": "Onay e-postası gönderildi.",
+		"resend-email": "E-postayı yeniden gönder",
+		"password": "Şifre",
+		"have-password": "Şifrenizi ayarladınız.",
+		"change-password": "Şifreyi değiştir",
+		"not-have-password": "Şifreniz yok.",
+		"setup-password": "Şifre ayarla",
+		"biography": "Biyografi",
+		"biography-placeholder": "Kendinizden bahsedin...",
+		"submit": "Gönder",
+		"match-error": "Hata! Bunlar eşleşmiyor.",
 		"notification": {
-			"title": "Notification Settings",
-			"auto-watch": "Automatic watching",
-			"auto-watch-notes": "Automatically watch notes",
-			"auto-watch-notes-msg": "When you create a note, automatically receive notifications for it.",
-			"auto-watch-teams": "Automatically watch teams",
-			"auto-watch-teams-msg": "When the team you've joined create a note, automatically receive notifications for it.",
-			"email-notification-alert": "To receive email notification, you need to set email in General Settings.",
-			"email-notifications": "Email Notifications",
-			"every-5-min": "Once every 5 minutes",
-			"every-15-min": "Once every 15 minutes",
-			"an-hour-at-most": "Once an hour at most",
-			"never": "Never",
-			"every-note-counts-separately": "Every note counts separately."
+			"title": "Bildirim Ayarları",
+			"auto-watch": "Otomatik izleme",
+			"auto-watch-notes": "Notları otomatik olarak izle",
+			"auto-watch-notes-msg": "Bir not oluşturduğunuzda, otomatik olarak onun için bildirimler alırsınız.",
+			"auto-watch-teams": "Ekipleri otomatik olarak izle",
+			"auto-watch-teams-msg": "Katıldığınız ekip bir not oluşturduğunda, otomatik olarak onun için bildirimler alırsınız.",
+			"email-notification-alert": "E-posta bildirimi almak için, e-postayı Genel Ayarlar'dan ayarlamanız gerekir.",
+			"email-notifications": "E-posta Bildirimleri",
+			"every-5-min": "Her 5 dakikada bir",
+			"every-15-min": "Her 15 dakikada bir",
+			"an-hour-at-most": "En fazla saatte bir",
+			"never": "Asla",
+			"every-note-counts-separately": "Her not ayrı ayrı sayılır."
 		},
-		"save": "Save",
+		"save": "Kaydet",
 		"change-password-modal": {
-			"title": "Change your password",
-			"current-password": "Current password",
-			"confirm-new-password": "Confirm new password",
-			"new-password": "New password"
+			"title": "Şifrenizi değiştirin",
+			"current-password": "Mevcut şifre",
+			"confirm-new-password": "Yeni şifreyi onayla",
+			"new-password": "Yeni şifre"
  		},
 		"setup-password-modal": {
-			"title": "Setup your password",
-			"confirm-password": "Confirm password"
+			"title": "Şifrenizi ayarlayın",
+			"confirm-password": "Şifreyi onayla"
 		},
-		"reset-avatar-msg": "Are you sure to reset your avatar?"
+		"reset-avatar-msg": "Avatarınızı sıfırlayacağından emin misiniz?"
 	},
 	"textcomplete": {
 		"support-referrals": {
@@ -762,93 +762,93 @@
 			"my-color-tag": "[my color tag]",
 			"random-color-tag": "[random color tag]"
 		},
-		"no-match": "No match in history",
+		"no-match": "Geçmişte eşleşme yok",
 		"create": {
-			"guest": "Create guest note",
-			"normal": "Create note",
-			"team": "Create team note"
+			"guest": "Misafir notu oluştur",
+			"normal": "Not oluştur",
+			"team": "Ekip notu oluştur"
 		}
 	},
 	"editor": {
-		"editor-placeholder": "← Start by entering a title here\n===\nVisit /features if you don't know what to do.\nHappy hacking :)",
+		"editor-placeholder": "← Buraya başlık girerek başlayın\n===\nNe yapacağınızı bilmiyorsanız /features ziyaret edin.\nMutlu hacklemeler :)",
 		"status-bar": {
-			"tab-size": "Tab Size:",
-			"space": "Spaces:",
-			"cursor-text": "Line {{line}}, Columns {{ch}}",
-			"editor-line": " — {{count}} Lines",
-			"selected": " — Selected ",
-			"selected-line": "{{lines}} lines",
-			"selection-char-count": "{{count}} columns",
-			"length": "Length: {{length}}",
-			"max-length": "Your almost reach note max length limit.",
-			"nearly-fill-note": "You nearly fill the note, consider to make more pieces.",
-			"length-count": "You could write up to {{length}} characters in this note.",
+			"tab-size": "Sekme Boyutu:",
+			"space": "Boşluklar:",
+			"cursor-text": "Satır {{line}}, Sütunlar {{ch}}",
+			"editor-line": " — {{count}} Satır",
+			"selected": " — Seçili ",
+			"selected-line": "{{lines}} satır",
+			"selection-char-count": "{{count}} sütun",
+			"length": "Uzunluk: {{length}}",
+			"max-length": "Neredeyse en yüksek not sınırına ulaştınız.",
+			"nearly-fill-note": "Neredeyse notu dolduruyorsunuz, daha fazla parça yapmayı düşünün.",
+			"length-count": "Bu notta {{length}} karaktere kadar yazabilirsiniz.",
 			"preferences": {
-				"title": "Click to change preferences",
-				"allow-override-browser-keymap": "safasfasfaAllow override browser keymap",
-				"show-editor-toolbar": "Show editor toolbar",
-				"enable-smart-paste": "Enable smart paste",
-				"enable-relative-line-number": "Enable relative line number"
+				"title": "Tercihleri değiştirmek için tıklayın",
+				"allow-override-browser-keymap": "safasfasfaAllow tarayıcı tuş haritasını geçersiz kıl",
+				"show-editor-toolbar": "Düzenleyici araç çubuğunu göster",
+				"enable-smart-paste": "Akıllı yapıştırmayı etkinleştir",
+				"enable-relative-line-number": "Göreceli satır numarasını etkinleştir"
 			},
 			"keymap": {
-				"title": "Click to change keymap"
+				"title": "Tuş haritasını değiştirmek için tıklayın"
 			},
 			"status-indent": {
-				"indent-type": "Click to switch indentation type",
-				"indent-width-label": "Click to change indentation size"
+				"indent-type": "Girinti tipini değiştirmek için tıklayın",
+				"indent-width-label": "Girinti boyutunu değiştirmek için tıklayın"
 			},
-			"status-theme": "Toggle editor theme",
-			"status-spellcheck": "Toggle spellcheck"
+			"status-theme": "Düzenleyici temasını değiştir",
+			"status-spellcheck": "Yazım denetimini değiştir"
 		},
-		"toggle-sync-scrolling": "Toggle sync scrolling"
+		"toggle-sync-scrolling": "Senkronizasyon kaydırma özelliğini değiştir"
 	},
 	"toolbar": {
-		"bold": "Bold",
-		"italic": "Italic",
-		"strikethrough": "Strikethrough",
-		"heading": "Heading",
-		"code": "Code",
-		"quote": "Quote",
-		"generic-list": "Generic List",
-		"numbered-list": "Numbered List",
-		"check-list": "Check List",
-		"create-link": "Create Link",
-		"insert-image": "Insert Image",
-		"insert-table": "Insert Table",
-		"insert-horizontal-line": "Insert Horizontal Line",
-		"leave-comment": "Leave Comment",
-		"table": "\n\n| Column 1 | Column 2 | Column 3 |\n| -------- | -------- | -------- |\n| Text     | Text     | Text     |\n"
+		"bold": "Kalın",
+		"italic": "Eğik",
+		"strikethrough": "Çizili",
+		"heading": "Başlık",
+		"code": "Kod",
+		"quote": "Alıntı",
+		"generic-list": "Genel Liste",
+		"numbered-list": "Numaralı Liste",
+		"check-list": "Kontrol Listesi",
+		"create-link": "Bağlantı Oluştur",
+		"insert-image": "Resim Ekle",
+		"insert-table": "Tablo Ekle",
+		"insert-horizontal-line": "Yatay Çizgi Ekle",
+		"leave-comment": "Yorum Bırak",
+		"table": "\n\n| Sütun 1 | Sütun 2 | Sütun 3 |\n| -------- | -------- | -------- |\n| Metin     | Metin   | Metin     |\n"
 	},
 	"pretty": {
-		"edit-note": "Click button to edit this note",
-		"published-on": "Published on"
+		"edit-note": "Bu notu düzenlemek için düğmesine tıklayın",
+		"published-on": "Yayınlandı:"
 	},
 	"slide": {
-		"views": "{{count}} views",
-		"edit": "Edit this note"
+		"views": "{{count}} görüntüleme",
+		"edit": "Bu notu düzenle"
 	},
 	"book": {
-		"search": "Search title...",
-		"refresh": "Refresh",
-		"edit": "Edit",
-		"collapse": "Collapse",
-		"open": "Open"
+		"search": "Başlığı ara...",
+		"refresh": "Yenile",
+		"edit": "Düzenle",
+		"collapse": "Daralt",
+		"open": "Aç"
 	},
 	"toc": {
-		"toc": "Table of content",
-		"expand-all": "Expand all",
-		"collapse-all": "Collapse all",
-		"back-to-top": "Back to top",
-		"go-to-bottom": "Go to bottom"
+		"toc": "İçerik tablosu",
+		"expand-all": "Tümünü genişletin",
+		"collapse-all": "Tümünü daralt",
+		"back-to-top": "Başa dön",
+		"go-to-bottom": "Aşağıya git"
 	},
 	"comment": {
-		"comments": "Comments",
-		"type-message-placeholder": "Type your message...",
-		"no-comment": "No comment.",
-		"send": "Send",
-		"cancel": "Cancel",
-		"reply": "Reply",
-		"edit": "Edit",
-		"delete": "Delete"
+		"comments": "Yorumlar",
+		"type-message-placeholder": "Mesajınızı yazın...",
+		"no-comment": "Yorum yok.",
+		"send": "Gönder",
+		"cancel": "İptal et",
+		"reply": "Yanıtla",
+		"edit": "Düzenle",
+		"delete": "Sil"
 	}
 }
