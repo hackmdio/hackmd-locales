@@ -7,7 +7,7 @@
 	"common": {
 		"or": "或是",
 		"cancel": "取消",
-		"ok": "好的",
+		"ok": "確定",
 		"got-it": "知道了",
 		"period": "。"
 	},
@@ -47,7 +47,7 @@
 	},
 	"signup": {
 		"signup": "註冊",
-		"new": "第一次使用 HackMD？ ",
+		"new": "第一次使用 HackMD？",
 		"eeSite": {
 			"terms": {
 				"1": "繼續登入，代表您同意 ",
@@ -58,20 +58,20 @@
 	"signin": {
 		"signin": "登入",
 		"signin-ldap" : "登入 {{name}} (LDAP)",
-		"signin-via-email": "透過 Email 登入",
+		"signin-via-email": "透過電子信箱登入",
 		"choose": "選擇方式",
 		"via": "透過 {{text}} 登入",
-		"email-or-username": "Email 或是 使用者名稱",
-		"email-or-username-placeholder": "您的 Email 或是 使用者名稱",
-		"email": "Email",
-		"email-placeholder": "您的 Email",
+		"email-or-username": "電子信箱 或是 使用者名稱",
+		"email-or-username-placeholder": "您的電子信箱 或是 使用者名稱",
+		"email": "電子信箱",
+		"email-placeholder": "您的電子信箱",
 		"password": "密碼",
 		"password-placeholder": "您的密碼"
 	},
 	"refresh": {
 		"title": "此頁面需要重新整理",
 		"incompatible": {
-			"title": "您使用的不是相容的客戶端",
+			"title": "您使用的不是相容的用戶端",
 			"content": "請重新整理來更新"
 		},
 		"upgrade": {
@@ -97,7 +97,7 @@
 	},
 	"clipboard": {
 		"title": "從剪貼簿匯入",
-		"content": "在這裡貼上 Markdown 或是網頁內容...",
+		"content": "在這裡貼上 Markdown 或是網頁內容…",
 		"clear": "清空",
 		"import": "匯入"
 	},
@@ -112,7 +112,7 @@
 	},
 	"gist-import": {
 		"title": "從 Gist 匯入",
-		"content": "在這裡貼上 gist 網址...",
+		"content": "在這裡貼上 gist 網址…",
 		"clear": "清空",
 		"import": "匯入"
 	},
@@ -122,7 +122,7 @@
 			"placeholder": "從可用的專案中選擇"
 		},
 		"snippet": {
-			"placeholder": "從可用的 Snippets 中選擇"
+			"placeholder": "從可用的 Snippet 中選擇"
 		},
 		"body": {
 			"project": "專案",
@@ -131,7 +131,7 @@
 		"clear": "清空",
 		"import": "匯入",
 		"error": {
-			"fetch-error": "無法取得 Gitlab 參數 :(",
+			"fetch-error": "無法取得 GitLab 參數 :(",
 			"not-valid-url-error": "無效的 Snippet 網址 :("
 		}
 	},
@@ -144,8 +144,8 @@
 		"visibility": {
 			"title": "可見層級",
 			"placeholder": "選擇可見層級",
-			"private": "Private",
-			"internal": "Internal"
+			"private": "私密",
+			"internal": "內部"
 		},
 		"body": {
 			"title": "標題",
@@ -200,7 +200,7 @@
 	},
 	"push-changes": {
 		"title": "推送更新內容到 GitHub",
-		"body": "您確定要推送更新內容到 Github？",
+		"body": "您確定要推送更新內容到 GitHub？",
 		"push": "推送"
 	},
 	"header": {
@@ -291,7 +291,7 @@
 			"write": "可寫",
 			"admin": "管理者",
 			"help": "筆記管理者可邀請特定使用者，擁有筆記的閱讀、編輯或邀請權限",
-			"search-user-placeholder": "透過 Email 搜尋使用者..."
+			"search-user-placeholder": "透過電子信箱搜尋使用者…"
 		},
 		"options": "選項",
 		"share": "分享",
@@ -312,7 +312,7 @@
 				"label": "不訂閱",
 				"title": "不會收到通知"
 			},
-			"no-email": "在 <i class=\"fa fa-gear\"></i> 設定中填寫 Email 以接收通知！"
+			"no-email": "在 <i class=\"fa fa-gear\"></i> 設定中填寫電子信箱以接收通知！"
 		},
 		"lost-content": "如果您現在離開，可能會遺失未儲存的內容，您確定嗎？",
 		"status-type": {
@@ -340,7 +340,7 @@
 		"coffee": "捐贈我們一杯咖啡",
 		"about-hackmd": "關於 HackMD",
 		"about-ee": "關於 {{name}}",
-		"terms": "條款",
+		"terms": "授權條款",
 		"donate": "捐贈我們一杯咖啡"
 	},
 	"error": {
@@ -350,7 +350,7 @@
 		"try": "稍後再嘗試或是回到首頁。",
 		"400": {
 			"title": "400 Bad Request",
-			"content": "您的瀏覽器發送了一個無效的請求。"
+			"content": "您的瀏覽器傳送了一個無效的請求。"
 		},
 		"403": {
 			"title": "403 Forbidden",
@@ -429,13 +429,13 @@
 				"title": "筆記標籤"
 			}
 		},
-		"trustedBy": "Trusted By",
+		"trustedBy": "信任者：",
 		"plans": {
 			"title": "方案",
 			"free": {
 				"1": "筆記數量無上限",
 				"2": "協作者無上限",
-				"3": "Email 通知功能",
+				"3": "電子信箱通知功能",
 				"4": "免登入也可立即使用",
 				"title": "免費方案",
 				"subtitle": " 您知識分享最佳的選擇，只需立即登入，並開始編輯筆記。",
@@ -443,7 +443,7 @@
 			},
 			"business": {
 				"1": "SSO 單一登入",
-				"2": "Role-based 權限設定",
+				"2": "基於職位的權限設定",
 				"3": "團隊空間",
 				"4": "私有圖片上傳空間",
 				"ribbon": "Hot",
@@ -463,7 +463,7 @@
 				"contact": "聯絡我們"
 			}
 		},
-		"active-users": "加入 HackMD 的 160,000+ 名用戶，一用就愛上"
+		"active-users": "加入 HackMD 的 160,000+ 名使用者，一用就愛上"
 	},
 	"profile": {
 		"member-since": "從 {{date}} 開始加入 HackMD",
@@ -471,7 +471,7 @@
 		"no-result": "未找到符合的筆記",
 		"end-of-notes": "到此為止！這是您的筆記列表的最尾端。",
 		"search": {
-			"placeholder": "搜尋筆記..."
+			"placeholder": "搜尋筆記…"
 		},
 		"created": "建立於 ",
 		"found-notes": "我們找到 {{count}} 篇筆記。",
@@ -490,7 +490,7 @@
 	},
 	"overview": {
 		"search": {
-			"placeholder": "搜尋關鍵字或是標籤..."
+			"placeholder": "搜尋關鍵字或是標籤…"
 		},
 		"filter": {
 			"title": "篩選",
@@ -549,17 +549,17 @@
 		"docflow-import": "HackDF 匯入",
 		"signup": "註冊",
 		"login": "登入",
-		"verify_email": "Email 驗證完成",
+		"verify_email": "電子信箱驗證完成",
 		"finish-join": "繼續完成註冊"
 	},
 	"recent": {
 		"from-browser": "以下來自瀏覽器的紀錄",
 		"search": {
 			"tags": {
-				"placeholder": "選擇標籤..."
+				"placeholder": "選擇標籤…"
 			},
 			"keyword": {
-				"placeholder": "搜尋關鍵字..."
+				"placeholder": "搜尋關鍵字…"
 			}
 		},
 		"sort": {
@@ -600,7 +600,7 @@
 		"step2": {
 			"p1": "接下來 HackDF 就會在每次程式碼推送到 master 時，檢查更動的檔案，並提醒您有哪些文件該做修改。",
 			"default-document": "預設設定",
-			"p2": "<p>預設的狀況，如您在以下目錄更改任何檔案：</p>  <ul> <li><code>src</code></li> <li><code>lib</code></li> <li><code>test</code></li> </ul>  <p>會觸發以下文件的提醒</p>  <ul> <li><code>README.md</code></li> <li><code>docs</code> 底下所有的 markdown 檔案</li> </ul>",
+			"p2": "<p>預設的狀況，如您在以下目錄變更任何檔案：</p>  <ul> <li><code>src</code></li> <li><code>lib</code></li> <li><code>test</code></li> </ul>  <p>會觸發以下文件的提醒</p>  <ul> <li><code>README.md</code></li> <li><code>docs</code> 底下所有的 markdown 檔案</li> </ul>",
 			"customized": "自訂設定",
 			"p3": "如果要進一步自訂文件與程式碼的關聯，需要新增設定檔 <code>.hackdf/config.yml</code>，範例設定檔內容如下：",
 			"p4": "關於設定檔的寫法或規格請至 <a target=\"_blank\" href=\"https://hackmd.io/s/hackdf-guide-tw\">HackDF 使用指南</a> 閱讀 📚，或直接 <a target=\"_blank\" href=\"https://github.com/hackmdio/hackdf-issues/issues\">聯絡我們</a>。 <br>更多資源：<a target=\"_blank\" href=\"https://guides.github.com/activities/hello-world/\">Git 使用教學</a>。"
@@ -614,12 +614,12 @@
 		"view-documents": "瀏覽文件",
 		"import-documents": "匯入文件",
 		"import": {
-			"succeed": "Repository 文件匯入成功！",
-			"succeed-with-warning": "Repository 文件匯入成功，但有些警告：",
+			"succeed": "儲存庫文件匯入成功！",
+			"succeed-with-warning": "儲存庫文件匯入成功，但有些警告：",
 			"view-documents": "瀏覽文件",
-			"failed": "Repository 文件匯入失敗 :(",
+			"failed": "儲存庫文件匯入失敗 :(",
 			"back": "回到 HackDF",
-			"importing": "匯入中..."
+			"importing": "匯入中…"
 		}
 	},
 	"shelf": {
@@ -633,31 +633,31 @@
 		"no-readme": "建立 README 來介紹您的專案。"
 	},
 	"disqus": {
-		"content1": "Please enable JavaScript to view the ",
-		"content2": "comments powered by Disqus."
+		"content1": "請啟用 JavaScript 以檢視 ",
+		"content2": "留言。Disqus 提供支援。"
 	},
 	"auth": {
 		"join-success": {
 			"welcome": "歡迎來到 HackMD！",
-			"confirm": "您已經確認您的 Email。"
+			"confirm": "您已經確認您的電子信箱。"
 		},
 		"join": {
 			"username": "使用者名稱",
 			"username-placeholder": "您的使用者名稱",
 			"allow": "僅允許輸入 a-Z、0-9 以及 - 號 (非首位字元)",
-			"email": "Email",
-			"email-placeholder": "您的 Email",
+			"email": "電子信箱",
+			"email-placeholder": "您的電子信箱",
 			"password": "密碼",
 			"password-placeholder": "您的密碼",
 			"password-length": "密碼長度最小為 8 到 30 個字。"
 		},
 		"finish-join": {
-			"check-email": "檢查您的信箱來驗證您的 Email",
-			"send-email": "我們已經送出一封信件到您的 Email ",
-			"verify-email": "按照下列步驟來驗證您的 Email。",
+			"check-email": "檢查您的信箱來驗證您的電子信箱",
+			"send-email": "我們已經送出一封信件到您的電子信箱",
+			"verify-email": "按照下列步驟來驗證您的電子信箱。",
 			"did-not-receive": "沒有收到驗證信嗎？",
 			"send-again": "重新送出驗證信",
-			"reason": "Email 驗證協助我們確保您的資料是安全的。"
+			"reason": "電子信箱驗證協助我們確保您的資料是安全的。"
 		},
 		"common": {
 			"sign-in": "登入",
@@ -675,8 +675,8 @@
 	},
 	"settings": {
 		"general-settings": "一般設定",
-		"upload-logo": "上傳 Logo",
-		"reset-logo": "重設 Logo",
+		"upload-logo": "上傳圖示",
+		"reset-logo": "重設圖示",
 		"team-name": "團隊名稱",
 		"team-name-placeholder": "您的團隊名稱",
 		"team-description": "團隊描述",
@@ -685,7 +685,7 @@
 		"team-url-path-placeholder": "您的團隊網址",
 		"team-members": "團隊成員",
 		"add-new-member": "新增成員",
-		"username-or-email-address": "輸入使用者名稱 或是 Email",
+		"username-or-email-address": "輸入使用者名稱 或是電子信箱",
 		"team-role": {
 			"admin": "管理者",
 			"member": "成員",
@@ -699,19 +699,19 @@
 		"username": "使用者名稱",
 		"username-placeholder": "您的使用者名稱",
 		"allow": "僅允許輸入 a-Z、0-9 以及 - 號 (非首位字元)",
-		"email": "Email",
-		"email-placeholder": "您的 Email",
-		"email-invalid": "無效的 Email",
-		"email-not-confirmed": "新的 Email 尚未確認。",
-		"emial-has-been-sent": "驗證信件已發送。",
-		"resend-email": "重新發送信件",
+		"email": "電子信箱",
+		"email-placeholder": "您的電子信箱",
+		"email-invalid": "無效的電子信箱",
+		"email-not-confirmed": "新的電子信箱尚未確認。",
+		"emial-has-been-sent": "驗證信件已傳送。",
+		"resend-email": "重新傳送信件",
 		"password": "密碼",
 		"have-password": "您已經設定了密碼",
 		"change-password": "修改密碼",
 		"not-have-password": "您尚未設定密碼",
 		"setup-password": "設定密碼",
 		"biography": "自我介紹",
-		"biography-placeholder": "說說您自己...",
+		"biography-placeholder": "說說您自己…",
 		"submit": "送出",
 		"match-error": "哎呀，它們不符合。",
 		"notification": {
@@ -721,8 +721,8 @@
 			"auto-watch-notes-msg": "當您建立筆記時，將會自動訂閱通知。",
 			"auto-watch-teams": "自動訂閱團隊筆記",
 			"auto-watch-teams-msg": "當您參與的團隊建立筆記時，將會自動訂閱通知。",
-			"email-notification-alert": "為了收到 Email 通知，您需要在一般設定中填寫您的 Email。",
-			"email-notifications": "Email 通知",
+			"email-notification-alert": "為了收到電子信箱通知，您需要在一般設定中填寫您的電子信箱。",
+			"email-notifications": "電子信箱通知",
 			"every-5-min": "每五分鐘一次",
 			"every-15-min": "每十五分鐘一次",
 			"an-hour-at-most": "最多一小時一次",
@@ -828,7 +828,7 @@
 		"edit": "編輯這篇筆記"
 	},
 	"book": {
-		"search": "搜尋標題...",
+		"search": "搜尋標題…",
 		"refresh": "更新",
 		"edit": "編輯",
 		"collapse": "收起",
@@ -843,7 +843,7 @@
 	},
 	"comment": {
 		"comments": "留言",
-		"type-message-placeholder": "輸入您的訊息...",
+		"type-message-placeholder": "輸入您的訊息…",
 		"no-comment": "沒有留言",
 		"send": "送出",
 		"cancel": "取消",
