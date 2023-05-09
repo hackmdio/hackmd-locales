@@ -107,96 +107,96 @@
 	},
 	"limit": {
 		"title": "到达限制",
-		"content1": "Sorry, you've reached the max length this note can be.",
-		"content2": "Please reduce the content or divide it to more notes, thank you!"
+		"content1": "对不起，当前笔记已达到最大长度。",
+		"content2": "请减少内容，或拆分为多个笔记，谢谢！"
 	},
 	"gist-import": {
-		"title": "Import from Gist",
-		"content": "Paste your gist url here...",
-		"clear": "Clear",
-		"import": "Import"
+		"title": "从 Gist 导入",
+		"content": "粘贴你的 gist url 到这里...",
+		"clear": "清空",
+		"import": "导入"
 	},
 	"snippet-import": {
-		"title": "Import from Snippet",
+		"title": "从 Snippet 导入",
 		"project": {
-			"placeholder": "Select From Available Projects"
+			"placeholder": "从可用的 Project 选择"
 		},
 		"snippet": {
-			"placeholder": "Select From Available Snippets"
+			"placeholder": "从可用到 Snippet 选择"
 		},
 		"body": {
 			"project": "Project:",
 			"Snippet": "Snippet:"
 		},
-		"clear": "Clear",
-		"import": "Import",
+		"clear": "清空",
+		"import": "导入",
 		"error": {
-			"fetch-error": "Unable to fetch gitlab parameters :(",
-			"not-valid-url-error": "Not a valid Snippet URL :("
+			"fetch-error": "不能获取 Gitlab 参数 :(",
+			"not-valid-url-error": "非法的 Snippet URL :("
 		}
 	},
 	"snippet-export": {
-		"title": "Export to Snippet",
+		"title": "导出到 Snippet",
 		"project": {
 			"title": "Project:",
-			"placeholder": "Select From Available Projects"
+			"placeholder": "从可用的 Project 选择"
 		},
 		"visibility": {
-			"title": "Visibility:",
-			"placeholder": "Select Visibility Level",
-			"private": "Private",
-			"internal": "Internal"
+			"title": "可见性:",
+			"placeholder": "选择可见级别",
+			"private": "私有",
+			"internal": "内部"
 		},
 		"body": {
-			"title": "Title:",
-			"filename": "File Name:"
+			"title": "标题:",
+			"filename": "文件名:"
 		},
-		"export": "Export",
-		"success": "Export Successful!",
-		"view-here": "View Snippet Here"
+		"export": "导出",
+		"success": "导出成功！",
+		"view-here": "在此查看 Snippet"
 	},
 	"google-drive": {
 		"import": {
-			"title": "Import from Google Drive",
-			"failed": "Import failed :("
+			"title": "从 Google Drive 导入",
+			"failed": "导入失败 :("
 		},
 		"export": {
-			"title": "Export to Google Drive",
-			"success": "Export Complete!",
-			"view-here": "Click here to view your file",
-			"error": "Export Error :("
+			"title": "导出到 Google Drive",
+			"success": "导出完成！",
+			"view-here": "点击此处查看你的文件",
+			"error": "导出发生错误 :("
 		}
 	},
 	"gist": {
 		"import": {
-			"title": "Import from Gist",
-			"fetch-error": "Unable to fetch gist files :(",
-			"not-valid-gist-url-error": "Not a valid Gist URL :("
+			"title": "从 Gist 导入",
+			"fetch-error": "不能获取 gist 文件 :(",
+			"not-valid-gist-url-error": "非法的 Gist URL :("
 		}
 	},
 	"import": {
-		"import-from-url": "Import from URL",
-		"not-valid-url-error": "Not a valid URL :(",
-		"import-failed": "Import failed :("
+		"import-from-url": "从 URL 导入",
+		"not-valid-url-error": "非法的 URL :(",
+		"import-failed": "导入失败 :("
 	},
 	"delete": {
-		"title": "Are you sure?",
-		"yes": "Yes, do it!",
-		"body-member": "Do you really want to remove this member?",
+		"title": "确定吗？",
+		"yes": "是的，确定！",
+		"body-member": "你真的要删除该成员吗？",
 		"body": {
-			"msg": "Do you really want to delete this note?",
-			"item": "All users will lost their connection."
+			"msg": "你真的要删除该笔记吗？",
+			"item": "所有用户将丢失他们的连接。"
 		}
 	},
 	"transfer": {
-		"title": "Transfer ownership",
-		"team-label": "Transfer to team you've joined",
-		"team-member-label": "Transfer to current team member",
-		"transfer": "Transfer"
+		"title": "转移所有人",
+		"team-label": "转移到你已加入的团队",
+		"team-member-label": "转移到当前团队成员",
+		"transfer": "转移"
 	},
 	"pull-changes": {
-		"title": "Pull changes from GitHub",
-		"apply": "Apply all differences"
+		"title": "从 GitHub 拉去更新",
+		"apply": "应用所有差异"
 	},
 	"push-changes": {
 		"title": "推送变更到 GitHub",
