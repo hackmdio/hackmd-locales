@@ -259,39 +259,39 @@
 		"new": "新建",
 		"publish": "发布",
 		"getting-started": "开始",
-		"getting-started-with-hackmd": "Getting Started with HackMD",
-		"getting-started-tips": "Learn how to create, share, and manage your notes.",
-		"signout": "Sign out",
-		"permission": "Permission",
+		"getting-started-with-hackmd": "开始使用 HackMD",
+		"getting-started-tips": "学习如何创建、分享和管理你的笔记。",
+		"signout": "退出",
+		"permission": "权限",
 		"note": {
-			"title": "Note Permission",
-			"read": "Read",
-			"write": "Write",
-			"owner": "Owner",
-			"signedin": "Signed-in",
-			"guest": "Guest",
-			"public": "Public",
-			"help": "Note owner decides who can read or write this note."
+			"title": "笔记权限",
+			"read": "可读",
+			"write": "可写",
+			"owner": "所有者",
+			"signedin": "已登入",
+			"guest": "游客",
+			"public": "公开",
+			"help": "笔记所有者可决定哪些人有可读或可写权限。"
 		},
 		"comments": {
-			"title": "Comments",
-			"enable": "Enable",
-			"disable": "Disable",
-			"read": "Read",
-			"write": "Comment",
-			"owner": "Owner",
-			"signedin": "Signed-in",
-			"guest": "Guest",
-			"help": "Note owner decides who can read or give comments."
+			"title": "评论",
+			"enable": "开启",
+			"disable": "禁用",
+			"read": "可读",
+			"write": "可评论",
+			"owner": "所有者",
+			"signedin": "已登入",
+			"guest": "游客",
+			"help": "笔记所有者可决定哪些人有可读或评论权限。"
 		},
 		"invitee": {
-			"title": "Invitee",
-			"invite": "Invite",
-			"read": "Read",
-			"write": "Write",
-			"admin": "Admin",
-			"help": "Admin can invite users and change note permissions.",
-			"search-user-placeholder": "Search user by email..."
+			"title": "受邀者",
+			"invite": "邀请",
+			"read": "可读",
+			"write": "可写",
+			"admin": "管理员",
+			"help": "管理员可邀请用户和修改笔记权限。",
+			"search-user-placeholder": "通过 email 搜索用户 ..."
 		},
 		"options": "选项",
 		"share": "分享",
@@ -305,95 +305,95 @@
 		},
 		"notification": {
 			"watch": {
-				"label": "Watch",
-				"title": "Be notified of any changes"
+				"label": "关注",
+				"title": "有任何变更都会收到通知"
 			},
 			"never": {
-				"label": "Never",
-				"title": "Never be notified"
+				"label": "从不",
+				"title": "不会有任何通知"
 			},
-			"no-email": "Set email in <i class=\"fa fa-gear\"></i> Settings to receive email notification!"
+			"no-email": "在设置菜单设置邮箱 <i class=\"fa fa-gear\"></i> 以便接收邮件通知！"
 		},
-		"lost-content": "You might lost content if you leave now, are you sure?",
+		"lost-content": "如果现在离开，可能会丢失内容，你确定离开吗？",
 		"status-type": {
-			"connected": "CONNECTED",
-			"online": "ONLINE",
-			"offline": "OFFLINE"
+			"connected": "已连接",
+			"online": "在线",
+			"offline": "离线"
 		}
 	},
 	"footer": {
-		"product": "Product",
-		"enterprise": "Enterprise",
-		"templates": "Templates",
-		"open-source": "Open Source",
-		"resources": "Resources",
-		"features": "Features",
-		"tutorial": "Tutorial",
+		"product": "产品",
+		"enterprise": "企业",
+		"templates": "模板",
+		"open-source": "开源",
+		"resources": "资源",
+		"features": "特性",
+		"tutorial": "教程",
 		"faq": "FAQ",
-		"information": "Information",
-		"about": "About",
-		"blog": "Blog",
-		"company": "Company",
-		"privacy": "Privacy",
-		"tos": "Terms of Use",
-		"releases": "Releases",
-		"about-ee": "About {{name}}",
-		"about-hackmd": "About HackMD",
-		"coffee": "Buy us coffee",
-		"terms": "Terms",
-		"donate": "BUY US COFFEE"
+		"information": "信息",
+		"about": "关于",
+		"blog": "博客",
+		"company": "公司",
+		"privacy": "隐私",
+		"tos": "用户条款",
+		"releases": "发布",
+		"about-ee": "关于 {{name}}",
+		"about-hackmd": "关于 HackMD",
+		"coffee": "为我们买杯咖啡",
+		"terms": "条款",
+		"donate": "为我们买杯咖啡"
 	},
 	"error": {
-		"home": "Home",
-		"back": "You could head back to home.",
-		"signin": "Sign in or head back to home.",
-		"try": "Try again later or head back to home.",
+		"home": "首页",
+		"back": "你可以返回首页。",
+		"signin": "登入货返回首页。",
+		"try": "稍后重试或返回首页。",
 		"400": {
 			"title": "400 Bad Request",
-			"content": "Your browser sent an invalid request."
+			"content": "你的浏览器发起了一个不合法的请求。"
 		},
 		"403": {
 			"title": "403 Forbidden",
-			"content": "You don't have permission to access this resource."
+			"content": "你没有权限访问该资源。"
 		},
 		"404": {
 			"title": "404 Not Found",
-			"content": "We can't find the page you’re looking for."
+			"content": "找不到你访问的页面。"
 		},
 		"500": {
 			"title": "500 Interal Error",
-			"content": "An error occurred when we tried to process your request."
+			"content": "我们在处理你的请求时发生了内部错误。"
 		}
 	},
 	"home": {
-		"enterprise": "Enterprise",
-		"slogan": "Build a community with open collaboration.",
-		"use-free": "Use for free",
-		"btn-between-or": "or",
-		"btn-sign-in": "Sign in",
-		"how-to-use": "How to use?",
+		"enterprise": "企业",
+		"slogan": "基于开放式协作建立社区。",
+		"use-free": "免费使用",
+		"btn-between-or": "或",
+		"btn-sign-in": "登入",
+		"how-to-use": "如何使用？",
 		"concept": {
-			"title": "Concept",
-			"subtitle": "Share all document / knowledge / information with your community.",
-			"note": "Create a note",
-			"collaborate": "Open collaborate",
-			"share": "Share and track"
+			"title": "概念",
+			"subtitle": "向你的社区分享所有文档、知识、信息。",
+			"note": "创建一个笔记",
+			"collaborate": "开放式协作",
+			"share": "分享并跟踪"
 		},
-		"btn-try": "Try it",
+		"btn-try": "现在尝试",
 		"empowering": {
-			"1": "Real-time collaboration at scale",
-			"2": "Turn white papers and API specs into living documents.",
-			"3": "Create dedicated team space for each open source project.",
-			"title": "Empowering community"
+			"1": "大规模实时协作",
+			"2": "将白皮书和API转换为实时文档。",
+			"3": "为每一个开源项目创建专用团队空间。",
+			"title": "赋能社区"
 		},
 		"be-in-know": {
-			"1": "Bring all community discussions into one place.",
-			"2": "Get notified when the SINGLE source of truth changes.",
-			"3": "Search or roll back to any previous version.",
-			"title": "Be in the know"
+			"1": "集中所有社区讨论到一处。",
+			"2": "当单一的源信息发生变更时获得通知。",
+			"3": "搜索或回滚到任何一个历史版本。",
+			"title": "确保知情"
 		},
 		"feature": {
-			"title": "Features"
+			"title": "特性"
 		},
 		"features": {
 			"markdown": {
@@ -409,94 +409,94 @@
 				"title": "书本图书"
 			},
 			"hackmd-it": {
-				"subtitle": "GitHub / GitLab integration, instant access",
-				"title": "HackMD-it"
+				"subtitle": "GitHub / GitLab 集成，即时访问",
+				"title": "HackMD 之"
 			},
 			"diagram": {
-				"subtitle": "Create math formulas and UML with text",
+				"subtitle": "使用文本创建数据公式和UML图",
 				"title": "MathJax & UML"
 			},
 			"image": {
-				"subtitle": "Drag and drop image, auto-upload",
-				"title": "Upload image"
+				"subtitle": "拖拽图片，自动上传",
+				"title": "上传图片"
 			},
 			"export": {
-				"subtitle": "Export to PDF, md, or html files",
-				"title": "Take it with you"
+				"subtitle": "导出为 PDF、md 或 html 文件",
+				"title": "随身携带"
 			},
 			"tags": {
-				"subtitle": "Manage and search notes with tags",
-				"title": "Manage with tags"
+				"subtitle": "使用标签管理和搜索笔记",
+				"title": "使用标签管理"
 			}
 		},
-		"trustedBy": "Trusted By",
+		"trustedBy": "信任者",
 		"plans": {
-			"title": "Plans",
+			"title": "计划",
 			"free": {
-				"1": "Unlimited notes",
-				"2": "Unlimited collaborators",
-				"3": "Email notification",
-				"4": "Use without login",
-				"title": "Free",
-				"subtitle": "Start open collaboration now.",
-				"start": "Start using"
+				"1": "无限笔记",
+				"2": "无限协作者",
+				"3": "邮件通知",
+				"4": "免登录使用",
+				"title": "免费版",
+				"subtitle": "现在打开协作。",
+				"start": "开始使用"
 			},
 			"business": {
-				"1": "Single Sign-On or SAML login",
-				"2": "Role-based access control",
-				"3": "Unlimited team space",
-				"4": "Private image storage",
+				"1": "单点登录 或 SAML 登录支持",
+				"2": "基于角色的访问控制",
+				"3": "无限团队空间",
+				"4": "私有图片存储",
 				"ribbon": "Hot",
-				"title": "Business Plan",
-				"subtitle": "Customized access control for your use case.",
-				"btn-more": "More features",
-				"btn-contact": "We are interested"
+				"title": "商业版",
+				"subtitle": "根据你的使用情况定制访问控制。",
+				"btn-more": "更多特性",
+				"btn-contact": "我有兴趣"
 			},
 			"conf": {
-				"1": "Customized URL to your shared notes",
-				"2": "Team space for conference hosts",
-				"3": "Best practice training and sharing",
-				"4": "More customized options up to you",
+				"1": "通过自定义 URL 来分享笔记",
+				"2": "针对会议主办方的团队空间",
+				"3": "最佳实践培训和分享",
+				"4": "更多针对你的自定义选项",
 				"ribbon": "Free",
-				"title": "Conference Plan",
-				"subtitle": "Help you share knowledge is our mission.",
-				"contact": "Ask us anything"
+				"title": "会议版",
+				"subtitle": "我们得愿景是帮助您分享知识。",
+				"contact": "咨询我们任何问题"
 			}
 		},
-		"active-users": "Join 160,000+ active users! Come and love it"
+		"active-users": "加入到 160,000+ 活跃用户中! 快来爱上它"
 	},
 	"profile": {
-		"member-since": "Member since  {{date}}",
-		"no-notes": "You don't have any notes!",
-		"no-result": "No results.",
-		"end-of-notes": "That's it! This is the end of your notes.",
+		"member-since": "成员加入于  {{date}}",
+		"no-notes": "你还没有笔记！",
+		"no-result": "无结果。",
+		"end-of-notes": "我是有底线的！这是笔记的最底部了。",
 		"search": {
-			"placeholder": "Search notes..."
+			"placeholder": "搜索笔记..."
 		},
-		"created": "created",
-		"found-notes": "We found {{count}} notes.",
-		"edit": "Edit this note",
-		"publish": "Publish",
-		"slide-mode": "Slide Mode",
-		"book-mode": "Book Mode",
+		"created": "已创建",
+		"found-notes": "找到 {{count}} 个笔记。",
+		"edit": "编辑该笔记",
+		"publish": "发布",
+		"slide-mode": "演示模式",
+		"book-mode": "书籍模式",
 		"permission": {
-			"freely": "Anyone can edit",
-			"editable": "Signed-in people can edit",
-			"limited": "Signed-in people can edit (forbid guests)",
-			"locked": "Only owner can edit",
-			"protected": "Only owner can edit (forbid guests)",
-			"private": "Only owner can view & edit"
+			"freely": "任何人可编辑",
+			"editable": "已登入用户可编辑",
+			"limited": "已登入用户可编辑 (游客禁止)",
+			"locked": "仅所有者可编辑",
+			"protected": "仅所有者可编辑 (游客禁止)",
+			"private": "仅所有者可查看和编辑"
 		}
 	},
 	"overview": {
 		"search": {
-			"placeholder": "Search keyword or tag..."
+			"placeholder": "搜索关键词或标签..."
 		},
 		"filter": {
-			"title": "Filter",
-			"all": "All",
-			"shared-with-me": "Shared with me",
-			"my-notes": "My notes"
+			"title": "过滤器",
+			"all": "所有",
+			"shared-with-me": "与我共享",
+			"my-notes": "我的笔记"
 		},
 		"unvisited" : "未访问",
 		"changed": " 变更于 ",
@@ -506,95 +506,95 @@
 				"title": "我们选择每篇笔记的第一个标签作为其分类。<br>点击图标了解更多。"
 			}
 		},
-		"show-with-categories": "Show with categories",
-		"default-section": "Untagged",
-		"unselect-all": "Unselect all",
-		"select-all": "Select all",
+		"show-with-categories": "展示分类",
+		"default-section": "无标签",
+		"unselect-all": "全不选",
+		"select-all": "全选",
 		"sorted": {
-			"multiple-sorting": "Multiple Sorting",
-			"categories-sorted-by": "Categories sorted by",
-			"notes-sorted-by": "Notes sorted by",
-			"new_to_old": "New to old",
-			"old_to_new": "Old to new",
-			"a_to_z": "A to Z",
-			"z_to_a": "Z to A"
+			"multiple-sorting": "多重排序",
+			"categories-sorted-by": "类别排序",
+			"notes-sorted-by": "笔记排序",
+			"new_to_old": "新到旧",
+			"old_to_new": "旧到新",
+			"a_to_z": "A 到 Z",
+			"z_to_a": "Z 到 A"
 		},
-		"no-notes-with-current-filters": "No notes with current filters",
-		"no-notes": "No notes",
-		"grid-layout": "Grid layout",
-		"row-layout": "Row layout"
+		"no-notes-with-current-filters": "未找到任何符合的笔记",
+		"no-notes": "没有任何笔记",
+		"grid-layout": "宫格布局",
+		"row-layout": "列表布局"
 	},
 	"site": {
 		"meta": {
-			"description": "Best way to write and share your knowledge in markdown.",
+			"description": "使用 Markdown 记录并分享知识的最佳方式。",
 			"og": {
-				"title-suffix": "Collaborative markdown notes",
-				"description": "Best way to write and share your knowledge in markdown."
+				"title-suffix": "Markdown 协作笔记",
+				"description": "使用 Markdown 记录并分享知识的最佳方式。"
 			},
 			"tw": {
-				"title-suffix": "Collaborative markdown notes",
-				"description": "Best way to write and share your knowledge in markdown."
+				"title-suffix": "Markdown 协作笔记",
+				"description": "使用 Markdown 记录并分享知识的最佳方式。"
 			}
 		},
-		"title-suffix": "Collaborative markdown notes",
-		"untitled": "Untitled",
-		"overview": "Overview",
-		"recent": "Recent",
-		"shelf": "Shelf",
-		"getting-started": "Getting Started",
-		"manage": "Team Management",
-		"about-us": "About Us",
-		"settings": "Settings",
-		"docflow-setup": "HackDF Setup",
-		"docflow-import": "HackDF Import",
-		"signup": "Sign up",
-		"login": "Sign in",
-		"verify_email": "Email verification complete",
-		"finish-join": "Finish signup"
+		"title-suffix": "Markdown 协作笔记",
+		"untitled": "无标题",
+		"overview": "概览",
+		"recent": "最近",
+		"shelf": "书架",
+		"getting-started": "开始使用",
+		"manage": "团队管理",
+		"about-us": "关于我们",
+		"settings": "设置",
+		"docflow-setup": "HackDF 设置",
+		"docflow-import": "HackDF 导入",
+		"signup": "注册",
+		"login": "登入",
+		"verify_email": "邮件验证完成",
+		"finish-join": "继续完成注册"
 	},
 	"recent": {
-		"from-browser": "Below is the history from browser",
+		"from-browser": "以下是浏览器历史",
 		"search": {
 			"tags": {
-				"placeholder": "Select tags..."
+				"placeholder": "选择标签 ..."
 			},
 			"keyword": {
-				"placeholder": "Search keyword..."
+				"placeholder": "搜索关键词 ..."
 			}
 		},
 		"sort": {
-			"title": "Sort by title",
-			"time": "Sort by time"
+			"title": "按标题排序",
+			"time": "按时间排序"
 		},
-		"title": "Title",
-		"time": "Time",
-		"export": "Export history",
-		"import": "Import history",
-		"clear": "Clear history",
-		"refresh": "Refresh history",
-		"empty": "No history",
-		"import-browser": "Import from browser",
-		"visited": " visited ",
-		"delete-all-history": "Do you really want to clear all history?",
-		"delete-below-history": "Do you really want to delete below history?",
-		"can-not-restore": "There is no turning back."
+		"title": "标题",
+		"time": "时间",
+		"export": "导出记录",
+		"import": "导入记录",
+		"clear": "清空记录",
+		"refresh": "刷新记录",
+		"empty": "没有记录",
+		"import-browser": "从浏览器导入",
+		"visited": "访问于",
+		"delete-all-history": "你确定要清空所有历史记录吗？",
+		"delete-below-history": "你确定要删除所有历史记录吗？",
+		"can-not-restore": "不可回退。"
 	},
 	"docflow": {
-    "survey": "Meanwhile, please tell us how you think about HackMD <a target=\"_blank\" href=\"https://goo.gl/forms/4GaEVgVilkjxXeTs1\">with this survey</a>.",
+    "survey": "与此同时，请告诉我们你对 HackMD 的看法： <a target=\"_blank\" href=\"https://goo.gl/forms/4GaEVgVilkjxXeTs1\">参与调研</a>。",
     "step1": {
-      "1": "Sign in to HackMD",
-      "2": "Authorize HackDF to access GitHub webhooks",
-      "3": "Choose which repository to use HackDF",
-      "title": "Set up GitHub App",
-      "step1": "<b>Step 1.&nbsp;</b>",
-      "signin-to-manage-document": "Sign in and manage documentation",
-			"step2": "<b>Step 2.&nbsp;</b>",
-			"linking-finished": "Authorized",
-      "connect": "Authorize",
-			"step3": "<b>Step 3.&nbsp;</b>",
-			"modify": "Change",
-			"start-installation": "Choose repos",
-			"installed-repo": "List of authorized repos",
+      "1": "登录到 HackMD",
+      "2": "授权 HackDF 访问 GitHub webhooks",
+      "3": "选择使用 HackDF 的仓库",
+      "title": "安装 GitHub App",
+      "step1": "<b>步骤 1.&nbsp;</b>",
+      "signin-to-manage-document": "登入并管理文档",
+			"step2": "<b>步骤 2.&nbsp;</b>",
+			"linking-finished": "已授权",
+      "连接": "授权",
+			"step3": "<b>步骤 3.&nbsp;</b>",
+			"modify": "更改",
+			"start-installation": "选择仓库",
+			"installed-repo": "已授权仓库列表",
 			"refresh": "刷新列表"
     },
     "step2": {
