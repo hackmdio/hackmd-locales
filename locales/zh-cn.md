@@ -607,8 +607,8 @@
     },
     "landing-page": {
       "title": "HackDF 让文档保持新鲜 🍋",
-      "p1": "HackDF reminds you to update documentation without changing your day to day workflow. Every time you <b>push commits to GitHub</b>, HackDF will automatically detect if documentation needs updating. If so, you will <b>receive an e-mail</b>.",
-      "p2": "Free your mind from keeping track of documents and never get bitten by the same bug  🐛  twice.",
+      "p1": "HackDF 会提醒你要更新文件，而无需你修改每天的工作流程。 每次你 <b>推送提交到 GitHub</b>时，HackDF 会自动检测文件是否需要更新。如果是，你就会 <b>收到一封邮件</b>。",
+      "p2": "让您从此不必再为文件是否最新而烦恼，避免因为文件缺漏而重复犯错。",
       "cta": "立刻尝鲜"
     },
 		"view-documents": "查看文档",
