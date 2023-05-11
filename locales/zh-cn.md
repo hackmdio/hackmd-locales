@@ -606,86 +606,86 @@
       "p4": "To learn more about customizing the config file, please see <a target=\"_blank\" href=\"https://hackmd.io/s/hackdf-guide\">HackDF Guides</a> 📚 or <a target=\"_blank\" href=\"https://github.com/hackmdio/hackdf-issues/issues\">contact us</a>. <br>More resource on using Git, see: <a target=\"_blank\" href=\"https://guides.github.com/activities/hello-world/\">Git Guides</a>"
     },
     "landing-page": {
-      "title": "HackDF Keeps Documentation Fresh 🍋",
+      "title": "HackDF 让文档保持新鲜 🍋",
       "p1": "HackDF reminds you to update documentation without changing your day to day workflow. Every time you <b>push commits to GitHub</b>, HackDF will automatically detect if documentation needs updating. If so, you will <b>receive an e-mail</b>.",
       "p2": "Free your mind from keeping track of documents and never get bitten by the same bug  🐛  twice.",
       "cta": "Start chilling now"
     },
-		"view-documents": "View documents",
-		"import-documents": "Import documents",
+		"view-documents": "查看文档",
+		"import-documents": "导入文档",
 		"import": {
-			"succeed": "Import repository documents succeed!",
-			"succeed-with-warning": "Import repository documents succeed with warning:",
-			"view-documents": "View documents",
-			"failed": "Import repository documents failed :(",
-			"back": "Back to HackDF",
-			"importing": "Importing..."
+			"succeed": "导入仓库文档成功！",
+			"succeed-with-warning": "导入仓库文档成功，但有警告信息：",
+			"view-documents": "查看文档",
+			"failed": "导入仓库文档失败 :(",
+			"back": "返回至 HackDF",
+			"importing": "导入中 ..."
 		}
 	},
 	"shelf": {
-		"documents": "{{count}} documents",
-		"empty": "No shelf",
+		"documents": "{{count}} 个文档",
+		"empty": "没有书架",
 		"shelf-on": "Shelf on ",
-		"settings": " Settings",
+		"settings": " 设置",
 		"github": " Github",
-		"delete-this-shelf": " Delete this shelf",
-		"delete-msg": "Do you really want to delete this shelf?",
-		"no-readme": "Add a README with an overview of your project."
+		"delete-this-shelf": " 删除该书架",
+		"delete-msg": "你确定想要删除该书架吗？",
+		"no-readme": "增加一个 README 文件作为项目的概览。"
 	},
 	"disqus": {
-		"content1": "Please enable JavaScript to view the ",
-		"content2": "comments powered by Disqus."
+		"content1": "请开启 JavaScript 以查看 ",
+		"content2": "评论功能由 Disqus 提供。"
 	},
 	"auth": {
 		"join-success": {
-			"welcome": "Welcome to HackMD!",
-			"confirm": "You have confirmed email address."
+			"welcome": "欢迎来到 HackMD ！",
+			"confirm": "你已经确认了邮件地址。"
 		},
 		"join": {
-			"username": "Username",
-			"username-placeholder": "Your username",
-			"allow": "Allow a-Z, 0-9 and dash not at beginning.",
-			"email": "Email",
-			"email-placeholder": "Your email",
-			"password": "Password",
-			"password-placeholder": "Your password",
-			"password-length": "Use a minimum password length of 8-30 characters."
+			"username": "用户名",
+			"username-placeholder": "你的用户名",
+			"allow": "支持 a-Z、 0-9 以及中划线-（不能在最开头）。",
+			"email": "邮件地址",
+			"email-placeholder": "你的邮件地址",
+			"password": "密码",
+			"password-placeholder": "你的密码",
+			"password-length": "密码长度限制为8-30个字符。"
 		},
 		"finish-join": {
-			"check-email": "Check your inbox to verify your email",
-			"send-email": "We've sent an email to ",
-			"verify-email": "Follow the instructions to verify your email address.",
-			"did-not-receive": "Didn't receive the verification email?",
-			"send-again": "Send it again",
-			"reason": "Email verification helps us to ensure your data will always be safe."
+			"check-email": "查看你的邮件箱以验证邮件地址",
+			"send-email": "我们已发送了一封邮件到 ",
+			"verify-email": "按照提示来验证你的邮件地址。",
+			"did-not-receive": "无法收到验证邮件？",
+			"send-again": "再次发送",
+			"reason": "验证邮件地址可以帮助我们确保你的数据处于安全状态。"
 		},
 		"common": {
-			"sign-in": "Sign in",
-			"sign-up": "Sign up",
-			"have-an-account": "Have an account?"
+			"sign-in": "登入",
+			"sign-up": "注册",
+			"have-an-account": "已经有账户了？"
 		}
 	},
   "invitation": {
-    "resendInvitation": "Resend Invitation",
-    "resendInvitationPrompt": "Do you want to resend invitation email?"
+    "resendInvitation": "重新发送邀请",
+    "resendInvitationPrompt": "你确定要重新发送邀请邮件吗？"
   },
 	"about": {
-		"contact": "Contact Us",
-		"join": "Join Us"
+		"contact": "联系我们",
+		"join": "加入我们"
 	},
 	"settings": {
-		"general-settings": "General Settings",
-		"upload-logo": "Upload logo",
-		"reset-logo": "Reset logo",
-		"team-name": "Team Name",
-		"team-name-placeholder": "Your team name",
-		"team-description": "Team Description",
-		"team-description-placeholder": "Your team description",
-		"team-url-path": "Team URL Path",
-		"team-url-path-placeholder": "Your team URL path",
-		"team-members": "Team Members",
-		"add-new-member": "Add New Member",
-		"username-or-email-address": "Username or email address",
+		"general-settings": "通用设置",
+		"upload-logo": "上传 logo",
+		"reset-logo": "重置 logo",
+		"team-name": "团队名称",
+		"team-name-placeholder": "你的团队名称",
+		"team-description": "团队描述",
+		"team-description-placeholder": "你的团队描述",
+		"team-url-path": "团队 URL",
+		"team-url-path-placeholder": "你的团队 URL ",
+		"team-members": "团队成员",
+		"add-new-member": "添加新成员",
+		"username-or-email-address": "用户名或邮件地址",
 		"team-role": {
 			"admin": "管理员",
 			"member": "成员",
@@ -702,39 +702,39 @@
 		"email": "邮件",
 		"email-placeholder": "你的邮件",
 		"email-invalid": "邮件地址无效",
-		"email-not-confirmed": "New email hasn't been confirmed.",
-		"emial-has-been-sent": "Confirmation email has been sent.",
-		"resend-email": "Resend email",
-		"password": "Password",
-		"have-password": "You've set your password.",
-		"change-password": "Change password",
-		"not-have-password": "You don't have password.",
-		"setup-password": "Setup password",
-		"biography": "Biography",
-		"biography-placeholder": "Tell about yourself...",
-		"submit": "Submit",
-		"match-error": "Oops, these don't match.",
+		"email-not-confirmed": "新的邮件地址还未确认。",
+		"emial-has-been-sent": "确认邮件已发送。",
+		"resend-email": "重发邮件",
+		"password": "密码",
+		"have-password": "你已重置密码。",
+		"change-password": "修改密码",
+		"not-have-password": "你还没有设置密码。",
+		"setup-password": "设置密码",
+		"biography": "自我介绍",
+		"biography-placeholder": "说说你自己 ...",
+		"submit": "提交",
+		"match-error": "啊哦，它们不匹配。",
 		"notification": {
-			"title": "Notification Settings",
-			"auto-watch": "Automatic watching",
-			"auto-watch-notes": "Automatically watch notes",
-			"auto-watch-notes-msg": "When you create a note, automatically receive notifications for it.",
-			"auto-watch-teams": "Automatically watch teams",
-			"auto-watch-teams-msg": "When the team you've joined create a note, automatically receive notifications for it.",
-			"email-notification-alert": "To receive email notification, you need to set email in General Settings.",
-			"email-notifications": "Email Notifications",
-			"every-5-min": "Once every 5 minutes",
-			"every-15-min": "Once every 15 minutes",
-			"an-hour-at-most": "Once an hour at most",
-			"never": "Never",
-			"every-note-counts-separately": "Every note counts separately."
+			"title": "通知设置",
+			"auto-watch": "自动订阅",
+			"auto-watch-notes": "自动订阅笔记",
+			"auto-watch-notes-msg": "当你创建一个笔记时，会自动订阅它的通知。",
+			"auto-watch-teams": "自动订阅团队",
+			"auto-watch-teams-msg": "当你加入的团队创建一个笔记时，会自动订阅它的通知。",
+			"email-notification-alert": "为了接收邮件通知，你需要在通用设置里提供邮件地址。",
+			"email-notifications": "邮件通知",
+			"every-5-min": "每 5 分钟一次",
+			"every-15-min": "每 15 分钟一次",
+			"an-hour-at-most": "最多 1 小时一次",
+			"never": "从不",
+			"every-note-counts-separately": "每个笔记都会分别计算。"
 		},
-		"save": "Save",
+		"save": "保存",
 		"change-password-modal": {
-			"title": "Change your password",
-			"current-password": "Current password",
-			"confirm-new-password": "Confirm new password",
-			"new-password": "New password"
+			"title": "修改你的密码",
+			"current-password": "当前密码",
+			"confirm-new-password": "确认新密码",
+			"new-password": "新密码"
  		},
 		"setup-password-modal": {
 			"title": "Setup your password",
