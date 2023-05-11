@@ -600,16 +600,16 @@
     "step2": {
       "p1": "接下來 HackDF 就会在每次代码推送到 main 时，检查变更的文件，并提醒你有哪些文件该做修改。",
       "default-document": "默认文档检查规则",
-      "p2": "<p>By default, any changes to files under directories named: </p> <ul> <li><code>src</code></li> <li><code>lib</code></li> <li><code>test</code></li> </ul> <p>will trigger update reminders on</p> <ul> <li><code>README.md</code></li> <li>all markdown files under <code>docs</code></li></ul>",
-      "customized": "Customized document checking rules",
-      "p3": "If you think the default reminder is not specific enough or does not cover all your documents, you can customize your mapping between documents and code by adding a config file to <code>.hackdf/config.yml</code>. <br>Here's an example of how the default setting would look like:",
-      "p4": "To learn more about customizing the config file, please see <a target=\"_blank\" href=\"https://hackmd.io/s/hackdf-guide\">HackDF Guides</a> 📚 or <a target=\"_blank\" href=\"https://github.com/hackmdio/hackdf-issues/issues\">contact us</a>. <br>More resource on using Git, see: <a target=\"_blank\" href=\"https://guides.github.com/activities/hello-world/\">Git Guides</a>"
+      "p2": "<p>默认情况下，如您在以下目录更改任何笔记： </p> <ul> <li><code>src</code></li> <li><code>lib</code></li> <li><code>test</code></li> </ul> <p>会触发以下文件的提醒 </p> <ul> <li><code>README.md</code></li> <li><code>docs</code>目录下所有的 Markdown 文档</li></ul>",
+      "customized": "自定义文档检查规则",
+      "p3": "如果你希望自定义文档与代码之间的对应关系，可以增加一个配置项到 <code>.hackdf/config.yml</code>。<br>示例配置内容如下：",
+      "p4": "关于自定义配置项的更多信息可参考 <a target=\"_blank\" href=\"https://hackmd.io/s/hackdf-guide\">HackDF 指南</a> 📚 或直接 <a target=\"_blank\" href=\"https://github.com/hackmdio/hackdf-issues/issues\">联系我们</a>。 <br>关于 Git 使用的更多资源可参考： <a target=\"_blank\" href=\"https://guides.github.com/activities/hello-world/\">Git 指南</a>"
     },
     "landing-page": {
       "title": "HackDF 让文档保持新鲜 🍋",
       "p1": "HackDF reminds you to update documentation without changing your day to day workflow. Every time you <b>push commits to GitHub</b>, HackDF will automatically detect if documentation needs updating. If so, you will <b>receive an e-mail</b>.",
       "p2": "Free your mind from keeping track of documents and never get bitten by the same bug  🐛  twice.",
-      "cta": "Start chilling now"
+      "cta": "立刻尝鲜"
     },
 		"view-documents": "查看文档",
 		"import-documents": "导入文档",
@@ -737,10 +737,10 @@
 			"new-password": "新密码"
  		},
 		"setup-password-modal": {
-			"title": "Setup your password",
-			"confirm-password": "Confirm password"
+			"title": "设置你的密码",
+			"confirm-password": "确认密码"
 		},
-		"reset-avatar-msg": "Are you sure to reset your avatar?"
+		"reset-avatar-msg": "你确定要重置头像吗？"
 	},
 	"textcomplete": {
 		"support-referrals": {
@@ -762,40 +762,40 @@
 			"my-color-tag": "[my color tag]",
 			"random-color-tag": "[random color tag]"
 		},
-		"no-match": "No match in history",
+		"no-match": "历史记录中未找到符合的结果",
 		"create": {
-			"guest": "Create guest note",
-			"normal": "Create note",
-			"team": "Create team note"
+			"guest": "创建游客笔记",
+			"normal": "创建笔记",
+			"team": "创建团队笔记"
 		}
 	},
 	"editor": {
-		"editor-placeholder": "← Start by entering a title here\n===\nVisit /features if you don't know what to do.\nHappy hacking :)",
+		"editor-placeholder": "← 请在此处输入标题\n===\n如果您不清楚如何使用，请参考 /features\nHappy hacking :)",
 		"status-bar": {
-			"tab-size": "Tab Size:",
-			"space": "Spaces:",
-			"cursor-text": "Line {{line}}, Columns {{ch}}",
-			"editor-line": " — {{count}} Lines",
-			"selected": " — Selected ",
-			"selected-line": "{{lines}} lines",
-			"selection-char-count": "{{count}} columns",
-			"length": "Length: {{length}}",
-			"max-length": "Your almost reach note max length limit.",
-			"nearly-fill-note": "You nearly fill the note, consider to make more pieces.",
-			"length-count": "You could write up to {{length}} characters in this note.",
+			"tab-size": "Tab 大小:",
+			"space": "空格:",
+			"cursor-text": "行 {{line}}, 列 {{ch}}",
+			"editor-line": " — {{count}} 行",
+			"selected": " — 已选择 ",
+			"selected-line": "{{lines}} 行",
+			"selection-char-count": "{{count}} 列",
+			"length": "长度: {{length}}",
+			"max-length": "你已达到笔记最大长度限制。",
+			"nearly-fill-note": "你即将写满笔记，请考虑切分成多份。",
+			"length-count": "你最多可以写 {{length}} 个字符。",
 			"preferences": {
-				"title": "Click to change preferences",
-				"allow-override-browser-keymap": "safasfasfaAllow override browser keymap",
-				"show-editor-toolbar": "Show editor toolbar",
-				"enable-smart-paste": "Enable smart paste",
-				"enable-relative-line-number": "Enable relative line number"
+				"title": "点击修改偏好设置",
+				"allow-override-browser-keymap": "允许复写浏览器快捷键",
+				"show-editor-toolbar": "显示编辑器工具栏",
+				"enable-smart-paste": "启用智能粘贴",
+				"enable-relative-line-number": "启用相对行数"
 			},
 			"keymap": {
-				"title": "Click to change keymap"
+				"title": "点击修改键盘映射"
 			},
 			"status-indent": {
-				"indent-type": "Click to switch indentation type",
-				"indent-width-label": "Click to change indentation size"
+				"indent-type": "点击切换缩进类型",
+				"indent-width-label": "点击修改缩进大小"
 			},
 			"status-theme": "切换编辑器主题",
 			"status-spellcheck": "切换拼写检查"
@@ -803,20 +803,20 @@
 		"toggle-sync-scrolling": "切换同步滚动"
 	},
 	"toolbar": {
-		"bold": "Bold",
-		"italic": "Italic",
-		"strikethrough": "Strikethrough",
-		"heading": "Heading",
-		"code": "Code",
-		"quote": "Quote",
-		"generic-list": "Generic List",
-		"numbered-list": "Numbered List",
-		"check-list": "Check List",
-		"create-link": "Create Link",
-		"insert-image": "Insert Image",
-		"insert-table": "Insert Table",
-		"insert-horizontal-line": "Insert Horizontal Line",
-		"leave-comment": "Leave Comment",
+		"bold": "粗体",
+		"italic": "斜体",
+		"strikethrough": "删除线",
+		"heading": "标题",
+		"code": "代码",
+		"quote": "引用",
+		"generic-list": "普通列表",
+		"numbered-list": "有序列表",
+		"check-list": "复选列表",
+		"create-link": "创建链接",
+		"insert-image": "插入图片",
+		"insert-table": "插入表格",
+		"insert-horizontal-line": "插入水平线",
+		"leave-comment": "插入评论",
 		"table": "\n\n| Column 1 | Column 2 | Column 3 |\n| -------- | -------- | -------- |\n| Text     | Text     | Text     |\n"
 	},
 	"pretty": {
